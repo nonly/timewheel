@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T10:18:56.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="_5tzIhz7A9j1v07ZquT6" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-31T10:21:24.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="QOqyNWFGxrMSTD8e-yWy" version="20.3.6" type="github" pages="2">
   <diagram id="CijbQ7-lpK851BlzRIMb" name="Page-1">
     <mxGraphModel dx="3379" dy="2062" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1097,10 +1097,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C84hKkyBin1j4fco6GKL-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-77.00000000000003" y="1131.5" width="72.2" height="58.5" as="geometry" />
+          <mxGeometry x="20.669999999999973" y="1135" width="72.2" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="C84hKkyBin1j4fco6GKL-5" value="PowerBI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-70.9" y="1199.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="26.769999999999996" y="1203" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C84hKkyBin1j4fco6GKL-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-662.0000000000001" y="1001" width="60" height="60" as="geometry" />
@@ -1246,6 +1246,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-476" y="1116" as="sourcePoint" />
             <mxPoint x="-426" y="1066" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C84hKkyBin1j4fco6GKL-43" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="997" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C84hKkyBin1j4fco6GKL-44" value="Azure Insights" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="963" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C84hKkyBin1j4fco6GKL-45" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C84hKkyBin1j4fco6GKL-8" target="C84hKkyBin1j4fco6GKL-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-73" y="1249" as="sourcePoint" />
+            <mxPoint x="-23" y="1199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C84hKkyBin1j4fco6GKL-46" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.03;exitY=0.407;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C84hKkyBin1j4fco6GKL-4" target="C84hKkyBin1j4fco6GKL-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-73" y="1197" as="sourcePoint" />
+            <mxPoint x="-23" y="1147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
