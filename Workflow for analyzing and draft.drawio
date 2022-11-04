@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T02:29:06.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="uTkeGBeWTBu0Ygcz35Cq" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T03:09:00.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="cz-Om3cw5mJKWk-gvOQk" version="20.3.6" type="github">
   <diagram id="CijbQ7-lpK851BlzRIMb" name="Page-1">
     <mxGraphModel dx="3379" dy="962" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -320,21 +320,21 @@
           <mxGeometry x="-1150.0000000000002" y="145.24000000000012" width="54.91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F_2HRzWwkVnxhR09PAmx-128" value="Data Inspection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1014.65" y="146.0000000000001" width="54.91" height="30" as="geometry" />
+          <mxGeometry x="-959.8" y="145.24000000000012" width="54.91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F_2HRzWwkVnxhR09PAmx-129" value="Data Publishing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-878.84" y="147.69" width="54.91" height="30" as="geometry" />
+          <mxGeometry x="-865.25" y="147.69" width="54.91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F_2HRzWwkVnxhR09PAmx-130" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-935.8400000000001" y="162.18999999999994" as="sourcePoint" />
-            <mxPoint x="-897.8400000000001" y="162.18999999999994" as="targetPoint" />
+            <mxPoint x="-899.0000000000001" y="160.57999999999993" as="sourcePoint" />
+            <mxPoint x="-861.0000000000001" y="160.57999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F_2HRzWwkVnxhR09PAmx-131" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1075.8400000000001" y="162.1900000000004" as="sourcePoint" />
-            <mxPoint x="-1037.8400000000001" y="162.1900000000004" as="targetPoint" />
+            <mxPoint x="-1002.2000000000002" y="159.8200000000004" as="sourcePoint" />
+            <mxPoint x="-964.2000000000002" y="159.8200000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F_2HRzWwkVnxhR09PAmx-132" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=14;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -411,6 +411,15 @@
         </mxCell>
         <mxCell id="PrQSvnIHRwTSQ4Z2_6oj-3" value="COSMIC Onboarding Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1555.75" y="217.50000000000006" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PrQSvnIHRwTSQ4Z2_6oj-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1102.0000000000002" y="162.27000000000038" as="sourcePoint" />
+            <mxPoint x="-1064.0000000000002" y="162.27000000000038" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrQSvnIHRwTSQ4Z2_6oj-5" value="Data Check" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1062" y="145.24000000000012" width="54.91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
