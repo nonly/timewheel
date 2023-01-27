@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T12:00:31.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.49" version="20.8.6" etag="FVuyWSPXzxr-eG-s_2xr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-27T12:14:47.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.49" version="20.8.6" etag="-GS0hPku16aLTPOcWIBK" type="github">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Page-1">
     <mxGraphModel dx="1217" dy="1801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,24 +106,6 @@
         <mxCell id="on0nce2wpDgtFJENPjD6-43" value="100%做空" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="on0nce2wpDgtFJENPjD6-45" value="N" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="on0nce2wpDgtFJENPjD6-38">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="-40" as="sourcePoint" />
-            <mxPoint x="480" y="-80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="on0nce2wpDgtFJENPjD6-46" value="空仓观望" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="on0nce2wpDgtFJENPjD6-47" value="N" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="on0nce2wpDgtFJENPjD6-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="-310" as="sourcePoint" />
-            <mxPoint x="480" y="-340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="on0nce2wpDgtFJENPjD6-48" value="空仓观望" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-370" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="on0nce2wpDgtFJENPjD6-49" value="失业率&amp;lt;4%?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -184,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="on0nce2wpDgtFJENPjD6-77" value="抄底" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="840" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="on0nce2wpDgtFJENPjD6-79" value="财报日&amp;lt;21天？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="410" width="120" height="60" as="geometry" />
@@ -231,7 +213,7 @@
         <mxCell id="on0nce2wpDgtFJENPjD6-88" value="50%做多" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="840" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="on0nce2wpDgtFJENPjD6-89" value="GMMA浪花数&amp;gt;2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="on0nce2wpDgtFJENPjD6-89" value="4小时GMMA浪花数&amp;gt;2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="on0nce2wpDgtFJENPjD6-90" value="熊市超过1.5年？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -253,7 +235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="on0nce2wpDgtFJENPjD6-94" value="公司估值超低？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="on0nce2wpDgtFJENPjD6-95" value="距离股灾底部&amp;gt;3个月？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
@@ -267,13 +249,22 @@
         <mxCell id="on0nce2wpDgtFJENPjD6-97" value="Y" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="on0nce2wpDgtFJENPjD6-89" target="on0nce2wpDgtFJENPjD6-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="780" as="sourcePoint" />
-            <mxPoint x="810" y="730" as="targetPoint" />
+            <mxPoint x="820" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="on0nce2wpDgtFJENPjD6-98" value="Y" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="on0nce2wpDgtFJENPjD6-94" target="on0nce2wpDgtFJENPjD6-77">
+        <mxCell id="on0nce2wpDgtFJENPjD6-98" value="Y" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="on0nce2wpDgtFJENPjD6-94" target="on0nce2wpDgtFJENPjD6-100">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="280" as="sourcePoint" />
-            <mxPoint x="830" y="230" as="targetPoint" />
+            <mxPoint x="810" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0nce2wpDgtFJENPjD6-100" value="量化图红&amp;gt;10天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="on0nce2wpDgtFJENPjD6-101" value="Y" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="on0nce2wpDgtFJENPjD6-100" target="on0nce2wpDgtFJENPjD6-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="270" as="sourcePoint" />
+            <mxPoint x="1000" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
