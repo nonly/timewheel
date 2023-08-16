@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T11:55:05.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="PS_yaJnuTci_MsBhw5Zc" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T08:11:13.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="DPblfFDOB5AaMro9jVbB" version="21.5.1" type="github">
   <diagram id="Q7qHMEH2d3SDrPlgRbmK" name="Page-1">
-    <mxGraphModel dx="2008" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2247" dy="787" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2511,7 +2511,7 @@
         <mxCell id="X-ilfVV2pMsEwJHOJNE--22" value="NS1 Pod5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-146" y="573.39" width="34" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="X-ilfVV2pMsEwJHOJNE--23" value="Full Node scenario 1 - schedule 6 NS1 Pods, it&#39;s like anti-affinity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X-ilfVV2pMsEwJHOJNE--23" value="Full Node scenario 1 - schedule 6 NS1 Pods, Max: Min pod number is 1:0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-577.25" y="451.39" width="417" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-ilfVV2pMsEwJHOJNE--24" value="&lt;span style=&quot;color: rgb(17, 24, 39); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(247, 247, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TopologySpreadConstraint with maxSkew = 1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2586,7 +2586,7 @@
         <mxCell id="X-ilfVV2pMsEwJHOJNE--48" value="Scale 3 more nodes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-270.87" y="1117.39" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X-ilfVV2pMsEwJHOJNE--49" value="Full Node scenario 2 - schedule 10 NS1 Pods, traffic imbalance in busy node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X-ilfVV2pMsEwJHOJNE--49" value="Full Node scenario 2 - schedule 10 NS1 Pods, Max: Min pod number is 2:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-577.25" y="843" width="417" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-ilfVV2pMsEwJHOJNE--50" value="NS1 Pod5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
