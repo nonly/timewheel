@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T13:50:04.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="eil9AS7erV6kB9azT7dR" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T05:09:07.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="e079-xBK1lup9Aq6peRf" version="21.6.9" type="github">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Page-1">
     <mxGraphModel dx="1688" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -523,9 +523,9 @@
         <mxCell id="RTzMiIdGn6YYxI03QgRo-18" value="RSI&amp;lt;=50" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1620" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RTzMiIdGn6YYxI03QgRo-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTzMiIdGn6YYxI03QgRo-18" target="0GDwCWzRlNwKjIjE7QBR-17">
+        <mxCell id="RTzMiIdGn6YYxI03QgRo-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTzMiIdGn6YYxI03QgRo-50" target="0GDwCWzRlNwKjIjE7QBR-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1585" y="290" as="sourcePoint" />
+            <mxPoint x="1680" y="440" as="sourcePoint" />
             <mxPoint x="1580" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -639,6 +639,24 @@
         <mxCell id="RTzMiIdGn6YYxI03QgRo-47" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RTzMiIdGn6YYxI03QgRo-46">
           <mxGeometry x="-0.1815" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTzMiIdGn6YYxI03QgRo-48" value="RSI形成向上趋势线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTzMiIdGn6YYxI03QgRo-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTzMiIdGn6YYxI03QgRo-18" target="RTzMiIdGn6YYxI03QgRo-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1760" y="400" as="sourcePoint" />
+            <mxPoint x="1810" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTzMiIdGn6YYxI03QgRo-50" value="RSI距离趋势线&amp;lt;=5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTzMiIdGn6YYxI03QgRo-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTzMiIdGn6YYxI03QgRo-48" target="RTzMiIdGn6YYxI03QgRo-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="640" as="sourcePoint" />
+            <mxPoint x="1710" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
