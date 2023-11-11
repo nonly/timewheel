@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T02:00:20.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.0" etag="Gog7WyykZ-UnW4y7lO-y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T02:21:03.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="B2Znmc69qGB8Wi3_Kecm" version="22.1.0" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
-    <mxGraphModel>
+    <mxGraphModel dx="1798" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="swO-_-nKR9-th-vh1F2U-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="swO-_-nKR9-th-vh1F2U-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="swO-_-nKR9-th-vh1F2U-1" value="ECS Cloud Global Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swO-_-nKR9-th-vh1F2U-2" value="ECS Service Global Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
