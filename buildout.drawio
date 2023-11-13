@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T08:16:26.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="c4WuigjPLVxbN2P0CI99" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T08:20:14.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vjZtym_N6djkMZrDZQ3h" version="21.1.7" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1728" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-2" value="RA-lib" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="910" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AnB0dwLxFMZhTZSeHD-A-3" value="CA infra ready" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AnB0dwLxFMZhTZSeHD-A-3" value="CA definition ready" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-4" value="Automation Guidance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -148,7 +148,7 @@
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-7" value="RA-lib adoption ready" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AnB0dwLxFMZhTZSeHD-A-8" value="CA object creation in public cloud and gallinta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AnB0dwLxFMZhTZSeHD-A-8" value="CA creation in public cloud and gallinta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-9" value="Automation Onboard Completion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
