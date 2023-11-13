@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T14:31:13.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="CoFCfsk-4_CfbQ8wAzs0" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T14:46:38.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="4xZ8Bx-SuGp4s0wwHfSV" version="22.1.0" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1798" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,13 +125,13 @@
           <mxGeometry x="200" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-3" value="CA definition ready" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="910" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-4" value="Automation Guidance" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-5" value="RA Pilot" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="910" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="860" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-6" value="CY23H2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="945" width="60" height="30" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="200" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-8" value="CA creation in public cloud and gallinta" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1050" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-9" value="Automation Onboard Completion" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="1140" width="120" height="80" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="90" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-11" value="RA Adoption Completion" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1240" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="1220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AnB0dwLxFMZhTZSeHD-A-12" value="CY24Q3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="1270" width="60" height="30" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="1210" y="1350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XIDz57G52PuHBvire1xS-1" value="RA Guidance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="910" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
