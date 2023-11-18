@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T14:47:09.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="8KlrAN7Vr5YKkkXROOED" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-18T14:54:46.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="-5LRWM4FbaiESIGFDWwr" version="22.1.3" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1893" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -280,8 +280,8 @@
         <mxCell id="3SoOQQYGxqN1ZP2SB03N-55" value="ECS LIBs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2350" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3SoOQQYGxqN1ZP2SB03N-56" value="1. overall stage&lt;br&gt;2. IC3 buildout stage&lt;br&gt;3. automation&amp;nbsp; area&lt;br&gt;3.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="-940" width="200" height="30" as="geometry" />
+        <mxCell id="3SoOQQYGxqN1ZP2SB03N-56" value="1. overall stage - preBuildout, buildout, postBuildout&lt;br&gt;2. IC3 buildout stage - prepare, buildout, validation&lt;br&gt;3. automation&amp;nbsp; area - Azure resources, config, validation&lt;br&gt;4. component: cis, ev2, ecs, vf&lt;br&gt;5. service side resources: sub, cert, dns, aad, keyvault, geneva, storage, compute&amp;nbsp;&lt;br&gt;6.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="-940" width="640" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
