@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T11:57:00.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="89f4X6dmnngy1NZvVt-o" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T11:59:27.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ECbIuDQPUs61FuneS21b" version="22.1.3" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1798" dy="2125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -989,7 +989,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3SoOQQYGxqN1ZP2SB03N-489" value="IC3 Buildout Flow" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="4450" y="460" width="1300" height="855" as="geometry">
+          <mxGeometry x="4450" y="460" width="1300" height="830" as="geometry">
             <mxRectangle x="5270" y="235" width="790" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1202,11 +1202,6 @@
         </mxCell>
         <mxCell id="3SoOQQYGxqN1ZP2SB03N-586" value="Region Agnostic Artifacts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="3SoOQQYGxqN1ZP2SB03N-399">
           <mxGeometry x="290" y="150" width="118" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3SoOQQYGxqN1ZP2SB03N-424" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3SoOQQYGxqN1ZP2SB03N-489" target="3SoOQQYGxqN1ZP2SB03N-423">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="745" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3SoOQQYGxqN1ZP2SB03N-445" value="Service B" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="3SoOQQYGxqN1ZP2SB03N-489">
           <mxGeometry x="870" y="130" width="410" height="680" as="geometry" />
