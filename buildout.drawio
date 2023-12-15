@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T13:23:41.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Jy1xxEKvED7Q7WjlXF0y" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T07:45:47.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="6gFdntHxuIMzVrCa7bre" version="22.1.8" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
-    <mxGraphModel dx="1688" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="2245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1423,6 +1423,30 @@
               <mxPoint x="6154" y="1200" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1FoPO4s-eCOmZz0SfC6Q-38" value="Service A Buildout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="6448" y="1504" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FoPO4s-eCOmZz0SfC6Q-39" value="Service B Buildout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="6129" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FoPO4s-eCOmZz0SfC6Q-40" value="Azure Resource Buildout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5848" y="1448" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FoPO4s-eCOmZz0SfC6Q-42" value="Service B Runtime Ready" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="6292" y="1375" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1FoPO4s-eCOmZz0SfC6Q-43" value="Service A Runtime Ready" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="6608" y="1494" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1FoPO4s-eCOmZz0SfC6Q-44" value="Service B validation start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="6746" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FoPO4s-eCOmZz0SfC6Q-45" value="Service A validation start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="6764" y="1504" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FoPO4s-eCOmZz0SfC6Q-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="5854" y="1628" width="1188" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
