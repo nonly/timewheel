@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T13:04:26.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="y4x4scD3xWPTrRIqnmKV" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T13:07:00.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="yTw-2EzjFletPNH9u-w7" version="22.1.11" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1447" dy="1918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1521,30 +1521,33 @@
           <mxGeometry x="3803" y="1634" width="404" height="226" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-49" value="Configuration with region-cloud-ring level placeholders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-29">
-          <mxGeometry x="251" y="88" width="112" height="60" as="geometry" />
+          <mxGeometry x="264" y="94" width="112" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-59" value="ECS" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-29">
           <mxGeometry x="18" y="34" width="135" height="180" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-46" value="Global Config Values" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-59">
-          <mxGeometry x="8" y="33" width="120" height="60" as="geometry" />
+          <mxGeometry x="8" y="31" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-47" value="Service Specific Config Values" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-59">
-          <mxGeometry x="7.5" y="109" width="120" height="60" as="geometry" />
+          <mxGeometry x="8" y="135" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-85" value="Library Config Values" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-59">
+          <mxGeometry x="8" y="83" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-61" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-29">
-          <mxGeometry x="251" y="43" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="264" y="44" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_add_circle_48px-128.png" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-29">
-          <mxGeometry x="176" y="91" width="49" height="49" as="geometry" />
+          <mxGeometry x="180" y="99.5" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-50" value="1. Buildout Automation Framework" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3448" y="1458" width="756" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-2" value="DTS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-2" value="DTS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
           <mxGeometry x="201" y="57" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-55" value="CIS M365 Buildout Job" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-55" value="CIS M365 Buildout Job (BOC)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
           <mxGeometry x="388" y="37" width="335.24" height="106" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-56" value="Ev2 Buildout Task" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-55">
@@ -1553,7 +1556,7 @@
         <mxCell id="v67d1HXDxWtm9W3xnhnF-57" value="Validation Task" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-55">
           <mxGeometry x="195.99999999999977" y="36" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-58" value="CIS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-58" value="CIS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
           <mxGeometry x="45" y="57" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-62" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.dependency_monitor" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
