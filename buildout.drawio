@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T13:07:00.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="yTw-2EzjFletPNH9u-w7" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T13:10:05.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2LnZIK_M-PMne5nkQeS5" version="22.1.11" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1447" dy="1918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1517,7 +1517,7 @@
         <mxCell id="v67d1HXDxWtm9W3xnhnF-72" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-18">
           <mxGeometry x="102" y="67" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-29" value="3. Service Configuration Management" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-29" value="3. Service Configuration Region Agnostic" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3803" y="1634" width="404" height="226" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-49" value="Configuration with region-cloud-ring level placeholders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-29">
@@ -1571,7 +1571,7 @@
         <mxCell id="v67d1HXDxWtm9W3xnhnF-69" value="Partly Automated, or Automation is planned but needs funding, or Key components are WIP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3972" y="1982" width="242" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-82" value="4. Test" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-82" value="4. Test in sovereign clouds" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3803" y="1869" width="155" height="177" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-83" value="Geneva Synthetic Onboarding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-82">
