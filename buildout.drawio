@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T13:28:53.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="g8nie4bfzkzdmTkFPfUg" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T13:32:40.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SKV1A32T2SA73gW6Pk79" version="22.1.11" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1447" dy="1918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1560,7 +1560,7 @@
           <mxGeometry x="3448" y="1633" width="402" height="418" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-29" value="2.1 Service Configuration Region Agnostic" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-88">
-          <mxGeometry x="15" y="27" width="383" height="216" as="geometry" />
+          <mxGeometry x="9.5" y="28" width="383" height="216" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-49" value="Configuration with ring-region-cloud level placeholders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-29">
           <mxGeometry x="227" y="94" width="112" height="60" as="geometry" />
@@ -1584,7 +1584,7 @@
           <mxGeometry x="167" y="99.5" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-89" value="2.2 Non Compute Region Agnostic&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-88">
-          <mxGeometry x="17" y="253" width="381" height="160" as="geometry" />
+          <mxGeometry x="11.5" y="252" width="381" height="160" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-90" value="Artifacts with &lt;br&gt;ring-region-cloud level placeholders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-89">
           <mxGeometry x="225" y="85" width="101" height="51.5" as="geometry" />
