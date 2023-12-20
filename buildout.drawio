@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T14:18:49.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="pwubfJ5S6SUlVvKbcykk" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T03:46:27.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="mpjNdv37pASIQeMb9mM4" version="22.1.11" type="github">
   <diagram name="Page-1" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1134" dy="1816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1590,7 +1590,7 @@
           <mxGeometry x="227" y="44" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_add_circle_48px-128.png" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-29">
-          <mxGeometry x="167" y="99.5" width="49" height="49" as="geometry" />
+          <mxGeometry x="160.5" y="99.5" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-89" value="2.2 Non Compute Region Agnostic&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-88">
           <mxGeometry x="11.5" y="252" width="381" height="160" as="geometry" />
@@ -1602,7 +1602,7 @@
           <mxGeometry x="225" y="39" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_add_circle_48px-128.png" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-89">
-          <mxGeometry x="166" y="51" width="49" height="49" as="geometry" />
+          <mxGeometry x="159.5" y="51" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-93" value="ECS" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-89">
           <mxGeometry x="15" y="28" width="135" height="125" as="geometry" />
