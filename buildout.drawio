@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T10:06:20.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="OtZ3HDgadLMY32fyJxAB" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-20T10:37:45.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="R52vXTy8iQqGR_YQc3v3" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="551" dy="172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -110,13 +110,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-67" value="Automated before CY20, not in buildout automation scope" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1774" y="1344" width="240" height="44" as="geometry" />
+          <mxGeometry x="1830" y="1340.5" width="240" height="44" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-68" value="Automated after CY20, pending by users&#39; adoption" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1774" y="1396" width="242" height="41" as="geometry" />
+          <mxGeometry x="1830" y="1392.5" width="242" height="41" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-69" value="Partly Automated, or Automations are WIP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1772" y="1444" width="242" height="46" as="geometry" />
+          <mxGeometry x="1828" y="1440.5" width="242" height="46" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-82" value="4. Test in sovereign clouds" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="2102" y="2024" width="758" height="105" as="geometry" />
@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-1" value="1. overall stage - preBuildout, buildout, postBuildout&lt;br&gt;2. IC3 buildout stage - prepare, buildout, validation&lt;br&gt;3. automation&amp;nbsp; area - Azure resources, config, validation&lt;br&gt;4. component: cis, ev2, ecs, vf&lt;br&gt;5. service side resources: sub, cert, dns, aad, keyvault, geneva, storage, compute&amp;nbsp;&lt;br&gt;6. ownership: EC, ESP, Partner, Lib owner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2156" y="2170" width="640" height="30" as="geometry" />
+          <mxGeometry x="2869" y="2188" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.518;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v67d1HXDxWtm9W3xnhnF-120" target="v67d1HXDxWtm9W3xnhnF-115">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
