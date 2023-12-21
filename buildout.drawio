@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T10:37:45.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="R52vXTy8iQqGR_YQc3v3" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-21T09:22:22.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="wgIRfYmi5Vol0KlZcMoi" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
-    <mxGraphModel dx="551" dy="172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="-59" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="2905" y="1641" width="637" height="364" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-11" value="3. Non compute automation (Ev2)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2521" y="1502" width="339" height="511" as="geometry" />
+          <mxGeometry x="2288" y="1500" width="339" height="511" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-17" value="3.2 Security" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-11">
           <mxGeometry x="9" y="237" width="142" height="263" as="geometry" />
@@ -83,19 +83,22 @@
           <mxGeometry x="101" y="149" width="34" height="31" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-50" value="1. Buildout Automation Framework" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2103" y="1337" width="756" height="153" as="geometry" />
+          <mxGeometry x="1869" y="1281" width="756" height="204" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-2" value="DTS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
           <mxGeometry x="22" y="65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-55" value="CIS M365 Buildout Job" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
-          <mxGeometry x="210.38" y="33" width="335.24" height="106" as="geometry" />
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-55" value="CIS M365 Buildout Jobs" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
+          <mxGeometry x="209" y="30" width="335.62" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-56" value="Buildout Stage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-55">
-          <mxGeometry x="34" y="36" width="120" height="60" as="geometry" />
+        <mxCell id="-EJnAy-5DUUTnXOJpVL9-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-55">
+          <mxGeometry x="24.31" y="60" width="287" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-57" value="Validation Stage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-55">
-          <mxGeometry x="195.99999999999977" y="36" width="120" height="60" as="geometry" />
+        <mxCell id="-EJnAy-5DUUTnXOJpVL9-13" value="Validation Stage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-55">
+          <mxGeometry x="180" y="69" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-EJnAy-5DUUTnXOJpVL9-11" value="Buildout Stage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-55">
+          <mxGeometry x="37.999999999999886" y="69" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-58" value="CIS Event Store" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-50">
           <mxGeometry x="611" y="65" width="120" height="60" as="geometry" />
@@ -109,17 +112,17 @@
             <mxPoint x="608" y="99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-67" value="Automated before CY20, not in buildout automation scope" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="1340.5" width="240" height="44" as="geometry" />
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-67" value="Natively Automated Resources in Ev2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1549" y="1144" width="240" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-68" value="Automated after CY20, pending by users&#39; adoption" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="1392.5" width="242" height="41" as="geometry" />
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-68" value="Automated, pending by users&#39; adoption" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1549" y="1196" width="242" height="41" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-69" value="Partly Automated, or Automations are WIP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1828" y="1440.5" width="242" height="46" as="geometry" />
+          <mxGeometry x="1547" y="1244" width="242" height="46" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-82" value="4. Test in sovereign clouds" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2102" y="2024" width="758" height="105" as="geometry" />
+          <mxGeometry x="1869" y="2022" width="758" height="105" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-83" value="Geneva Synthetic Onboarding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-82">
           <mxGeometry x="159" y="35" width="120" height="60" as="geometry" />
@@ -128,7 +131,7 @@
           <mxGeometry x="469" y="33" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-88" value="2. Region Agnostic" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2103" y="1501" width="402" height="515" as="geometry" />
+          <mxGeometry x="1870" y="1499" width="402" height="515" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-29" value="2.1 Service Configuration Region Agnostic" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="v67d1HXDxWtm9W3xnhnF-88">
           <mxGeometry x="9.5" y="28" width="383" height="271" as="geometry" />
@@ -177,20 +180,20 @@
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-97" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="2079" y="2020" as="sourcePoint" />
-            <mxPoint x="2079" y="1504" as="targetPoint" />
+            <mxPoint x="1846" y="2018" as="sourcePoint" />
+            <mxPoint x="1846" y="1502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-98" value="Buildout Stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1997" y="1725" width="60" height="30" as="geometry" />
+          <mxGeometry x="1764" y="1723" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-99" value="Validation Stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="2066" width="60" height="30" as="geometry" />
+          <mxGeometry x="1767" y="2064" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-100" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="2078" y="2123" as="sourcePoint" />
-            <mxPoint x="2078" y="2034" as="targetPoint" />
+            <mxPoint x="1845" y="2121" as="sourcePoint" />
+            <mxPoint x="1845" y="2032" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-101" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" vertex="1" parent="1">
@@ -261,8 +264,8 @@
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-126" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2253" y="1434" as="sourcePoint" />
-            <mxPoint x="2311" y="1434" as="targetPoint" />
+            <mxPoint x="2020" y="1432" as="sourcePoint" />
+            <mxPoint x="2078" y="1432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-1" value="1. overall stage - preBuildout, buildout, postBuildout&lt;br&gt;2. IC3 buildout stage - prepare, buildout, validation&lt;br&gt;3. automation&amp;nbsp; area - Azure resources, config, validation&lt;br&gt;4. component: cis, ev2, ecs, vf&lt;br&gt;5. service side resources: sub, cert, dns, aad, keyvault, geneva, storage, compute&amp;nbsp;&lt;br&gt;6. ownership: EC, ESP, Partner, Lib owner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
