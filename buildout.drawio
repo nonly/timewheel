@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T14:04:11.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Wi-GS6mVX8-s5zwOqTHL" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-22T14:20:52.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kVFA0__-QZdaFTm9ccLZ" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
-    <mxGraphModel dx="2766" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="431" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,14 +109,14 @@
             <mxPoint x="608" y="99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-67" value="Natively Automated Resources in Ev2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="907" y="1117" width="240" height="44" as="geometry" />
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-67" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Natively Automated Resources in Ev2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="2208" y="992" width="294" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-68" value="Automated, pending by users&#39; adoption" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="907" y="1169" width="242" height="41" as="geometry" />
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-68" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Automated, pending by users&#39; adoption&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2208" y="1080" width="293" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="v67d1HXDxWtm9W3xnhnF-69" value="Partly Automated, or Automations are WIP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="905" y="1217" width="242" height="46" as="geometry" />
+        <mxCell id="v67d1HXDxWtm9W3xnhnF-69" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Partly Automated, or Automations are WIP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2210" y="1159" width="291" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v67d1HXDxWtm9W3xnhnF-82" value="4. Test in sovereign clouds" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1227" y="1995" width="758" height="105" as="geometry" />
@@ -283,14 +283,11 @@
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-5" value="COSMOS DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4581" y="1735" width="122" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sr_DLJUD-M-fBetLO8eR-18" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.user_permissions;fillColor=#0078D7;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2272" y="1391.5" width="47" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-54" value="Upload region-cloud specific config values" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2269" y="1696" width="126" height="30" as="geometry" />
+        <mxCell id="Mstsz90rW2gQe7y916td-54" value="3.1 adopt region agnostic artifacts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="2269.5" y="2189" width="292" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-55" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="3376" y="2588" width="52.5" height="76" as="geometry" />
+          <mxGeometry x="2217" y="1936" width="52.5" height="76" as="geometry" />
         </mxCell>
         <mxCell id="sr_DLJUD-M-fBetLO8eR-19" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;fontSize=14;" parent="Mstsz90rW2gQe7y916td-55" vertex="1">
           <mxGeometry x="14" width="18.5" height="50" as="geometry" />
@@ -300,27 +297,6 @@
         </mxCell>
         <mxCell id="sr_DLJUD-M-fBetLO8eR-21" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;fontSize=14;" parent="Mstsz90rW2gQe7y916td-55" vertex="1">
           <mxGeometry x="34" y="20" width="18.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-56" value="Read region-cloud specific config values" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2260" y="2201" width="123" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-63" value="Read region-cloud specific config values from ECS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2395" y="2027" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-90" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2335" y="1831" width="56" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-116" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2586" y="1694" as="sourcePoint" />
-            <mxPoint x="2612" y="1371" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2588" y="1371" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-117" value="Onboard DTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2434" y="1502" width="151" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-95" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2201" y="2446" width="2157" height="64" as="geometry" />
@@ -692,9 +668,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
-          <mxGeometry x="40" y="12.5" width="35" height="35" as="geometry" />
+          <mxGeometry x="279" y="12" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="OvSE7zPeziySaJ2T2hTH-4" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Service A passes dependency check due to no dependency while service B doesn&#39;t pass check since A hasn&#39;t deployed.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="-EJnAy-5DUUTnXOJpVL9-17">
+        <mxCell id="OvSE7zPeziySaJ2T2hTH-4" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Service A passes dependency check due to no dependency.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="-EJnAy-5DUUTnXOJpVL9-17">
           <mxGeometry x="582.9965994511613" y="30.996915564851406" as="geometry">
             <mxPoint x="-24" as="offset" />
           </mxGeometry>
@@ -825,9 +801,6 @@
             <mxPoint x="3063" y="1543" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OvSE7zPeziySaJ2T2hTH-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;0&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="2328" y="1384" width="35" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-16" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;5.d&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="2856" y="1781" width="35" height="35" as="geometry" />
         </mxCell>
@@ -872,6 +845,18 @@
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-135" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="OvSE7zPeziySaJ2T2hTH-129">
           <mxGeometry x="65" width="55.88" height="55.88" as="geometry" />
+        </mxCell>
+        <mxCell id="OvSE7zPeziySaJ2T2hTH-137" value="1.Onboard DTS &amp;amp; CIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2277" y="1464" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvSE7zPeziySaJ2T2hTH-138" value="2. Onboard multiple ev2 extensions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2259" y="1760" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvSE7zPeziySaJ2T2hTH-139" value="4. Onboard VF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2272" y="2383.5" width="292" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvSE7zPeziySaJ2T2hTH-140" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;3.2 Upload region-cloud specific config values to ECS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2273.4963050255406" y="2267.0012125338044" width="289" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
