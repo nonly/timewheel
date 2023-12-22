@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T03:34:12.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SLlm5NR_tc_Ye48WsVgr" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-22T03:39:46.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="8LNM74mA4LoR7Wbx5uqY" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1215" dy="-117" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -495,23 +495,14 @@
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-17" value="M365 Buildout Co-Ordinator (BOC)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-15">
           <mxGeometry x="33" y="127" width="1669" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="-EJnAy-5DUUTnXOJpVL9-19" value="Service A Validation Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
-          <mxGeometry x="1214" y="35" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-107" value="Service A Validation Completion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
-          <mxGeometry x="1416" y="35" width="120" height="60" as="geometry" />
+        <mxCell id="-EJnAy-5DUUTnXOJpVL9-19" value="Service A Validation&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
+          <mxGeometry x="1156" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-129" value="Service B Buildout Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
           <mxGeometry x="1104" y="112" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-133" value="Wait for A Buildout ready" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
           <mxGeometry x="467" y="112" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-135" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-EJnAy-5DUUTnXOJpVL9-17" source="-EJnAy-5DUUTnXOJpVL9-19" target="Mstsz90rW2gQe7y916td-107">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="918" y="-28" as="sourcePoint" />
-            <mxPoint x="968" y="-78" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-125" value="Dependency Load From DTS (B -&amp;gt; A)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
           <mxGeometry x="21" y="35" width="126" height="60" as="geometry" />
@@ -544,7 +535,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-104" value="Service A Buildout Completion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
-          <mxGeometry x="960" y="35" width="120" height="60" as="geometry" />
+          <mxGeometry x="984" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-106" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-EJnAy-5DUUTnXOJpVL9-17" source="Mstsz90rW2gQe7y916td-103" target="Mstsz90rW2gQe7y916td-104">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -559,7 +550,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-138" value="Service B Buildout Completion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
-          <mxGeometry x="1308" y="112" width="110" height="60" as="geometry" />
+          <mxGeometry x="1292" y="112" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mstsz90rW2gQe7y916td-140" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-EJnAy-5DUUTnXOJpVL9-17" source="Mstsz90rW2gQe7y916td-129" target="Mstsz90rW2gQe7y916td-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157" y="75" as="sourcePoint" />
+            <mxPoint x="222" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mstsz90rW2gQe7y916td-141" value="Service B Validation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
+          <mxGeometry x="1520" y="112" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mstsz90rW2gQe7y916td-142" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="-EJnAy-5DUUTnXOJpVL9-17" source="Mstsz90rW2gQe7y916td-138" target="Mstsz90rW2gQe7y916td-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="75" as="sourcePoint" />
+            <mxPoint x="1166" y="75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-110" value="Write readiness signal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-15">
           <mxGeometry x="846" y="62" width="131" height="30" as="geometry" />
