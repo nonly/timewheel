@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T03:29:39.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hEkhRBxDWuuYwTgRcMDt" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-22T03:34:12.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SLlm5NR_tc_Ye48WsVgr" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1215" dy="-117" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-1" value="1. overall stage - preBuildout, buildout, postBuildout&lt;br&gt;2. IC3 buildout stage - prepare, buildout, validation&lt;br&gt;3. automation area - Dependency (When), Azure resources, Non Azure Resources (how - single resource automation), config (split config and code, configuration), validation ()&lt;br&gt;4. component: cis, ev2, ecs, vf&lt;br&gt;5. service side resources: sub, cert, dns, aad, keyvault, geneva, storage, compute&amp;nbsp;&lt;br&gt;6. ownership: EC, ESP, Partner, Lib owner&lt;br&gt;7. Suzhou team&#39;s responsibility" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4262" y="2115" width="640" height="30" as="geometry" />
+          <mxGeometry x="4668" y="2106" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.518;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v67d1HXDxWtm9W3xnhnF-120" target="v67d1HXDxWtm9W3xnhnF-115">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -453,10 +453,10 @@
         <mxCell id="Mstsz90rW2gQe7y916td-60" value="RDFE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Mstsz90rW2gQe7y916td-57">
           <mxGeometry x="12" y="114" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-116" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-EJnAy-5DUUTnXOJpVL9-16">
+        <mxCell id="Mstsz90rW2gQe7y916td-116" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2586" y="1694" as="sourcePoint" />
-            <mxPoint x="2783" y="1323" as="targetPoint" />
+            <mxPoint x="2612" y="1371" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2588" y="1371" />
             </Array>
@@ -474,11 +474,11 @@
         <mxCell id="Mstsz90rW2gQe7y916td-121" value="Infra Non compute deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Mstsz90rW2gQe7y916td-120">
           <mxGeometry x="29" y="32.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-122" value="Compute deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Mstsz90rW2gQe7y916td-120">
+        <mxCell id="Mstsz90rW2gQe7y916td-122" value="Compute deployment (Service Fabric)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Mstsz90rW2gQe7y916td-120">
           <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-123" value="Functional Non compute deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Mstsz90rW2gQe7y916td-120">
-          <mxGeometry x="29" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="29" y="119" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-124" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Service A buildout&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="3790" y="2177" width="220" height="48" as="geometry" />
@@ -487,7 +487,7 @@
           <mxGeometry x="2611" y="1301" width="1728" height="316" as="geometry" />
         </mxCell>
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-20" value="CIS Event Store" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-15">
-          <mxGeometry x="576" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="43" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-112" value="Read readiness signal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-15">
           <mxGeometry x="355" y="56" width="203" height="30" as="geometry" />
@@ -499,12 +499,12 @@
           <mxGeometry x="1214" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-107" value="Service A Validation Completion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
-          <mxGeometry x="1493" y="35" width="120" height="60" as="geometry" />
+          <mxGeometry x="1416" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-129" value="Service B Buildout Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
           <mxGeometry x="1104" y="112" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-133" value="Wait for A ready" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
+        <mxCell id="Mstsz90rW2gQe7y916td-133" value="Wait for A Buildout ready" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
           <mxGeometry x="467" y="112" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-135" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-EJnAy-5DUUTnXOJpVL9-17" source="-EJnAy-5DUUTnXOJpVL9-19" target="Mstsz90rW2gQe7y916td-107">
@@ -559,16 +559,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-138" value="Service B Buildout Completion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
-          <mxGeometry x="1359" y="110" width="110" height="60" as="geometry" />
+          <mxGeometry x="1308" y="112" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-110" value="Write readiness signal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-15">
-          <mxGeometry x="720" y="53" width="131" height="30" as="geometry" />
+          <mxGeometry x="846" y="62" width="131" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.dependency_monitor" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-15">
-          <mxGeometry x="211" y="43.5" width="50" height="49" as="geometry" />
+          <mxGeometry x="207" y="37.5" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-95" value="" style="group" vertex="1" connectable="0" parent="-EJnAy-5DUUTnXOJpVL9-15">
-          <mxGeometry x="-208" y="1203" width="1945" height="64" as="geometry" />
+        <mxCell id="Mstsz90rW2gQe7y916td-139" value="DTS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-15">
+          <mxGeometry x="78" y="32" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sr_DLJUD-M-fBetLO8eR-11" value="c" style="endArrow=classic;html=1;rounded=0;exitX=0.064;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-EJnAy-5DUUTnXOJpVL9-15" source="-EJnAy-5DUUTnXOJpVL9-17" target="Mstsz90rW2gQe7y916td-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249" y="176" as="sourcePoint" />
+            <mxPoint x="140" y="84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sr_DLJUD-M-fBetLO8eR-12" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sr_DLJUD-M-fBetLO8eR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sr_DLJUD-M-fBetLO8eR-13" value="1.Read Dependency data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sr_DLJUD-M-fBetLO8eR-11">
+          <mxGeometry x="-0.0278" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mstsz90rW2gQe7y916td-115" value="Service B -&amp;gt; Service A&lt;br&gt;1. service A buildout start needs to wait for service B buildout completion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2603" y="1220" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mstsz90rW2gQe7y916td-95" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2482" y="2237" width="1945" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-82" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Pre-Buildout&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Mstsz90rW2gQe7y916td-95">
           <mxGeometry width="532" height="57" as="geometry" />
@@ -587,26 +607,6 @@
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-92" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="Mstsz90rW2gQe7y916td-95">
           <mxGeometry x="65" width="55.88" height="55.88" as="geometry" />
-        </mxCell>
-        <mxCell id="-EJnAy-5DUUTnXOJpVL9-16" value="DTS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Mstsz90rW2gQe7y916td-95">
-          <mxGeometry x="282" y="-1163" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sr_DLJUD-M-fBetLO8eR-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.548;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.064;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-EJnAy-5DUUTnXOJpVL9-15" source="-EJnAy-5DUUTnXOJpVL9-17" target="-EJnAy-5DUUTnXOJpVL9-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="249" y="176" as="sourcePoint" />
-            <mxPoint x="303" y="132" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sr_DLJUD-M-fBetLO8eR-12" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sr_DLJUD-M-fBetLO8eR-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sr_DLJUD-M-fBetLO8eR-13" value="1.Read Dependency data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sr_DLJUD-M-fBetLO8eR-11">
-          <mxGeometry x="-0.0278" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-115" value="Service B -&amp;gt; Service A&lt;br&gt;1. service A buildout start needs to wait for service B buildout completion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2603" y="1220" width="215" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
