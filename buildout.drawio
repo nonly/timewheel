@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T02:36:15.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="QNtOlDs_5nQtzfHyZVWV" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-26T02:46:11.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="_IYfX5OZ6QxAdyhhGdZ1" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1284" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -781,10 +781,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-121" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;13&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
-          <mxGeometry x="917" y="7" width="35" height="35" as="geometry" />
+          <mxGeometry x="921" y="9" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BZcLbCC_hFVXoTFtT_z9-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Write Service B buildout completion event&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="F3USO4dGOuers2OH0cSO-12">
-          <mxGeometry x="1148.9965994511613" y="22.996915564851406" as="geometry">
+          <mxGeometry x="1149.9965994511613" y="25.996915564851406" as="geometry">
             <mxPoint x="-24" as="offset" />
           </mxGeometry>
         </mxCell>
