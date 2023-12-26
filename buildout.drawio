@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T02:55:50.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="DJa0Wrb8P4_xxSPSTXVT" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-26T02:56:04.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="cqE_brixvr_uDm0NUl-M" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1284" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -359,7 +359,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F3USO4dGOuers2OH0cSO-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;VF&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=34;" parent="1" vertex="1">
-          <mxGeometry x="2603" y="2319" width="1756" height="127" as="geometry" />
+          <mxGeometry x="2603" y="2319" width="1755" height="127" as="geometry" />
         </mxCell>
         <mxCell id="F3USO4dGOuers2OH0cSO-7" value="Test Suite of the service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="F3USO4dGOuers2OH0cSO-6" vertex="1">
           <mxGeometry x="1527" y="28" width="178" height="70" as="geometry" />
