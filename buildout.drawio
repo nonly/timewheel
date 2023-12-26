@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T02:29:49.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="n5is4P24q-p0n7bXkpb8" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-26T02:32:31.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="81acShfnnTtbaE049zJn" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1284" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -596,7 +596,7 @@
         <mxCell id="F3USO4dGOuers2OH0cSO-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CIS &amp;amp; DTS&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=34;" parent="1" vertex="1">
           <mxGeometry x="2603" y="1295" width="1755" height="347" as="geometry" />
         </mxCell>
-        <mxCell id="-EJnAy-5DUUTnXOJpVL9-17" value="CIS M365 Buildout Co-Ordinator" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
+        <mxCell id="-EJnAy-5DUUTnXOJpVL9-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CIS M365 Buildout Co-Ordinator&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
           <mxGeometry x="49" y="161" width="1669" height="183" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-108" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="-EJnAy-5DUUTnXOJpVL9-17" source="F3USO4dGOuers2OH0cSO-34" target="F3USO4dGOuers2OH0cSO-36" edge="1">
@@ -660,10 +660,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;2.a&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="-EJnAy-5DUUTnXOJpVL9-17" vertex="1">
-          <mxGeometry x="251" y="10" width="35" height="35" as="geometry" />
+          <mxGeometry x="259" y="16" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-4" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Service A passes dependency check while Service B doesn&#39;t.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="-EJnAy-5DUUTnXOJpVL9-17" vertex="1" connectable="0">
-          <mxGeometry x="558.9965994511613" y="27.996915564851406" as="geometry">
+          <mxGeometry x="565.9965994511613" y="33.496915564851406" as="geometry">
             <mxPoint x="-24" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -750,21 +750,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OvSE7zPeziySaJ2T2hTH-27" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;7&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
-          <mxGeometry x="740" y="8" width="35" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-110" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Write Service B buildout completion event&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
-          <mxGeometry x="935" y="62.5" width="349" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/20/check-circle-outline-128.png" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
-          <mxGeometry x="766" y="84.5" width="42" height="42" as="geometry" />
+          <mxGeometry x="761" y="88" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="OvSE7zPeziySaJ2T2hTH-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.784;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;" parent="F3USO4dGOuers2OH0cSO-12" source="-EJnAy-5DUUTnXOJpVL9-17" target="-EJnAy-5DUUTnXOJpVL9-20" edge="1">
+        <mxCell id="OvSE7zPeziySaJ2T2hTH-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.784;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;" parent="F3USO4dGOuers2OH0cSO-12" source="-EJnAy-5DUUTnXOJpVL9-17" target="-EJnAy-5DUUTnXOJpVL9-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1239" y="89" as="sourcePoint" />
             <mxPoint x="1289" y="39" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1357" y="59" />
+              <mxPoint x="1357" y="26" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -785,6 +779,22 @@
           <mxGeometry x="619.9965994511613" y="105.4969155648514" as="geometry">
             <mxPoint x="-24" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OvSE7zPeziySaJ2T2hTH-121" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;13&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
+          <mxGeometry x="917" y="7" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BZcLbCC_hFVXoTFtT_z9-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Write Service B buildout completion event&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="F3USO4dGOuers2OH0cSO-12">
+          <mxGeometry x="1148.9965994511613" y="22.996915564851406" as="geometry">
+            <mxPoint x="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZcLbCC_hFVXoTFtT_z9-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Write Service A buildout completion event&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="F3USO4dGOuers2OH0cSO-12">
+          <mxGeometry x="1011.9965994511613" y="62.496915564851406" as="geometry">
+            <mxPoint x="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvSE7zPeziySaJ2T2hTH-27" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;7&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
+          <mxGeometry x="786" y="45" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="F3USO4dGOuers2OH0cSO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mstsz90rW2gQe7y916td-57" target="sr_DLJUD-M-fBetLO8eR-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -811,12 +821,6 @@
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-18" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;5.d&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2856" y="1965" width="35" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="OvSE7zPeziySaJ2T2hTH-121" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;13&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="3502" y="1355" width="35" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="OvSE7zPeziySaJ2T2hTH-122" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Write Service A buildout completion event&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="3391" y="1318" width="349" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-125" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="F3USO4dGOuers2OH0cSO-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
