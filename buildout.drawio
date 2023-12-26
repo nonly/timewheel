@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T02:35:26.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="gtFQH5mhxOTw0v7-eMv6" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-26T02:36:15.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="QNtOlDs_5nQtzfHyZVWV" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1284" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -526,7 +526,7 @@
           <mxGeometry x="651" y="385" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-120" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ev2 Buildout - Service B&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="F3USO4dGOuers2OH0cSO-11" vertex="1">
-          <mxGeometry x="1062" y="44" width="340" height="514" as="geometry" />
+          <mxGeometry x="1061" y="44" width="340" height="514" as="geometry" />
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Non compute deployment&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" parent="Mstsz90rW2gQe7y916td-120" vertex="1">
           <mxGeometry x="24" y="43" width="295" height="345" as="geometry">
@@ -534,7 +534,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Functional non compute resources deployment&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="OvSE7zPeziySaJ2T2hTH-72" vertex="1">
-          <mxGeometry x="26" y="241" width="256" height="97" as="geometry" />
+          <mxGeometry x="19" y="241" width="265" height="97" as="geometry" />
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-84" value="" style="shape=mxgraph.cisco.routers.atm_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=14;" parent="OvSE7zPeziySaJ2T2hTH-73" vertex="1">
           <mxGeometry x="16" y="41.970000000000006" width="47.25" height="52" as="geometry" />
