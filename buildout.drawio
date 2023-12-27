@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T02:56:01.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="09lj-x1hsTmvk-tBvoZu" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-27T03:06:49.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="w54yj_PsfEWOVXTG9Nk0" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
-    <mxGraphModel dx="2017" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1998" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -587,7 +587,7 @@
         <mxCell id="F3USO4dGOuers2OH0cSO-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CIS &amp;amp; DTS&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=34;" parent="1" vertex="1">
           <mxGeometry x="2603" y="1295" width="1755" height="347" as="geometry" />
         </mxCell>
-        <mxCell id="-EJnAy-5DUUTnXOJpVL9-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CIS M365 Buildout Job Template&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
+        <mxCell id="-EJnAy-5DUUTnXOJpVL9-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CIS M365 Buildout Job Template&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;strokeWidth=4;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
           <mxGeometry x="49" y="161" width="1669" height="183" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-108" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="-EJnAy-5DUUTnXOJpVL9-17" source="F3USO4dGOuers2OH0cSO-34" target="F3USO4dGOuers2OH0cSO-36" edge="1">
