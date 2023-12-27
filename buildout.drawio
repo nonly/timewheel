@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T06:35:49.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="e9l_EaJaZewxnG0LwT78" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-27T09:57:06.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="DF61konO8WVVY5T-zU3r" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2017" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -295,8 +295,8 @@
         <mxCell id="-EJnAy-5DUUTnXOJpVL9-5" value="COSMOS DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4581" y="1735" width="122" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mstsz90rW2gQe7y916td-54" value="Onboard region agnostic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="2227" y="1997.5" width="297" height="66" as="geometry" />
+        <mxCell id="Mstsz90rW2gQe7y916td-54" value="Onboard cloud-region agnostic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="2227" y="1997.5" width="353" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-95" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2201" y="2446" width="2157" height="64" as="geometry" />
@@ -877,7 +877,7 @@
           <mxGeometry x="2243" y="1722.48" width="291" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-139" value="Onboard VF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="2245" y="2356" width="134" height="30" as="geometry" />
+          <mxGeometry x="2235" y="2356" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-140" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Upload cloud-region specific &lt;br&gt;config values to ECS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2270" y="2222" width="314" height="39" as="geometry" />
