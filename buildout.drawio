@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T06:34:05.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="WIwKVeWPCzA3GzhfpslS" version="22.1.11" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-27T06:35:49.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="e9l_EaJaZewxnG0LwT78" version="22.1.11" type="github" pages="7">
   <diagram name="Birds eyes view on 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2017" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -663,7 +663,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Pending A buildout start until Service A&#39;s dependencies are deployed&lt;/font&gt;.&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="-EJnAy-5DUUTnXOJpVL9-17" vertex="1" connectable="0">
-          <mxGeometry x="414.9965994511613" y="29.996915564851406" as="geometry">
+          <mxGeometry x="479.9965994511613" y="30.996915564851406" as="geometry">
             <mxPoint x="-24" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -701,7 +701,7 @@
           <mxGeometry x="733" y="98" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BZcLbCC_hFVXoTFtT_z9-29" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;2.a&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6600CC;strokeWidth=4;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
-          <mxGeometry x="75" y="14.5" width="35" height="35" as="geometry" />
+          <mxGeometry x="138" y="17.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BZcLbCC_hFVXoTFtT_z9-32" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;10.a&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFB570;strokeWidth=4;" vertex="1" parent="-EJnAy-5DUUTnXOJpVL9-17">
           <mxGeometry x="430" y="72.5" width="35" height="35" as="geometry" />
