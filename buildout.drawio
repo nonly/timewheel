@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T06:18:16.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="V2cIAsZNpPDfcwtOpiAn" version="22.1.18" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-22T06:48:57.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="BXlVhQlF4S9KSzBoBlIG" version="22.1.18" type="github" pages="7">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="3397" dy="858" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1052,10 +1052,10 @@
         <mxCell id="68U3YkHAYryrwLpMyiGJ-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;implement config consumption&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2244" y="2210" width="353" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="68U3YkHAYryrwLpMyiGJ-24" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to dependencies buildout readiness checking (10% time saving of the whole solution)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="68U3YkHAYryrwLpMyiGJ-24" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to dependencies buildout readiness checking (7% time saving of the whole solution)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2212" y="1560" width="355" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="68U3YkHAYryrwLpMyiGJ-25" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to infra non compute resources provision (55%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="68U3YkHAYryrwLpMyiGJ-25" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to infra non compute resources provision (42%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2212" y="1890" width="356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="68U3YkHAYryrwLpMyiGJ-26" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual code rebuilding effort due to wrong configs (2%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1067,7 +1067,7 @@
         <mxCell id="68U3YkHAYryrwLpMyiGJ-28" value="Onboard service global" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2235" y="2165" width="289" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="68U3YkHAYryrwLpMyiGJ-30" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: integrate with BOC and reduce manual effort related to Geneva synthetic onboarding (10%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="68U3YkHAYryrwLpMyiGJ-30" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: integrate with BOC and reduce manual effort related to Geneva synthetic onboarding (9%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2221" y="2489" width="355" height="30" as="geometry" />
         </mxCell>
         <mxCell id="68U3YkHAYryrwLpMyiGJ-31" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;4.a&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
@@ -1079,7 +1079,7 @@
         <mxCell id="68U3YkHAYryrwLpMyiGJ-33" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;4.b&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="2238" y="2266" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="68U3YkHAYryrwLpMyiGJ-34" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to upstream configs collection (23%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="68U3YkHAYryrwLpMyiGJ-34" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to upstream configs collection (18%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2210" y="2314" width="384" height="30" as="geometry" />
         </mxCell>
         <mxCell id="68U3YkHAYryrwLpMyiGJ-39" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;One-time onboarding effort for service teams&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
