@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T11:05:36.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="N4ZBrWKKMmkRleXgsqlh" version="22.1.17" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-22T06:16:35.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="o8VNNOygXPu4davrDUrB" version="22.1.18" type="github" pages="7">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
-    <mxGraphModel dx="2911" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3397" dy="858" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -641,7 +641,7 @@
         <mxCell id="F3USO4dGOuers2OH0cSO-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CIS &amp;amp; DTS&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=34;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2603" y="1295" width="1755" height="347" as="geometry" />
         </mxCell>
-        <mxCell id="-EJnAy-5DUUTnXOJpVL9-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CIS M365 Buildout Job Template&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;strokeWidth=4;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
+        <mxCell id="-EJnAy-5DUUTnXOJpVL9-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CIS M365 Buildout Job Template (BOC)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;strokeWidth=4;" parent="F3USO4dGOuers2OH0cSO-12" vertex="1">
           <mxGeometry x="49" y="161" width="1669" height="183" as="geometry" />
         </mxCell>
         <mxCell id="Mstsz90rW2gQe7y916td-108" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="-EJnAy-5DUUTnXOJpVL9-17" source="F3USO4dGOuers2OH0cSO-34" target="F3USO4dGOuers2OH0cSO-36" edge="1">
@@ -912,8 +912,8 @@
         <mxCell id="OvSE7zPeziySaJ2T2hTH-135" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" parent="OvSE7zPeziySaJ2T2hTH-129" vertex="1">
           <mxGeometry x="65" width="41.910000000000004" height="41.910000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="OvSE7zPeziySaJ2T2hTH-137" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Onboard DTS &amp;amp; CIS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2253" y="1439" width="221" height="30" as="geometry" />
+        <mxCell id="OvSE7zPeziySaJ2T2hTH-137" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Onboard DTS &amp;amp; BOC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="2253" y="1439" width="243" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvSE7zPeziySaJ2T2hTH-138" value="Onboard Ev2 non compute automations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2253" y="1670" width="291" height="30" as="geometry" />
@@ -1094,16 +1094,16 @@
         <mxCell id="68U3YkHAYryrwLpMyiGJ-42" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Recurring onboarding effort for service teams across different clouds (3.b &amp;amp; 4.b)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1700" y="1433.5" width="476" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpDEAQ3c5iEceD1VBKYE-3" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Service B compute doesn&#39;t onboard service local&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BpDEAQ3c5iEceD1VBKYE-3" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Service B compute doesn&#39;t onboard service local&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3645" y="2200" width="402" height="35" as="geometry" />
         </mxCell>
         <mxCell id="68U3YkHAYryrwLpMyiGJ-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Read&lt;br&gt;dependency configs&lt;br&gt;by&lt;br&gt;build-time&lt;br&gt;library&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="4066" y="2160" width="83" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="BpDEAQ3c5iEceD1VBKYE-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Onboard Geneva synthetic automation (optional)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="BpDEAQ3c5iEceD1VBKYE-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Onboard Geneva synthetic automation (optional)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2230" y="2406" width="331" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="BpDEAQ3c5iEceD1VBKYE-7" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;5.a&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="BpDEAQ3c5iEceD1VBKYE-7" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;5.a&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="2235" y="2406" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
