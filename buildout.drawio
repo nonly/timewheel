@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T15:41:40.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="552hH_eXCtmWtJXX4UBV" version="22.1.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-26T15:41:57.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="3LHfcTWDbJwKkWsUUYRY" version="22.1.21" type="github" pages="7">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2911" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1058,7 +1058,7 @@
         <mxCell id="68U3YkHAYryrwLpMyiGJ-25" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to infra non compute resources provision (46%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2212" y="1890" width="356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="68U3YkHAYryrwLpMyiGJ-26" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual code rebuilding effort due to wrong configs (2%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="68U3YkHAYryrwLpMyiGJ-26" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual code rebuilding effort due to wrong configs (1%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2206" y="2130" width="395" height="30" as="geometry" />
         </mxCell>
         <mxCell id="68U3YkHAYryrwLpMyiGJ-27" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
