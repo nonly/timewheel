@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T14:04:52.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="1eLTDIm-R8p5FXvArsYs" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-03T14:12:04.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="rWCgsAj8M_zbYF66pJ0X" version="22.1.17" type="github" pages="3">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -728,7 +728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dAzKOq1Z-laMrzXJgP3E" name="市场周期论">
-    <mxGraphModel dx="4080" dy="1220" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3740" dy="1046" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -917,6 +917,21 @@
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-66" value="SPX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-788" y="839" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXF5LH7xMDKq17__St7g-68" value="SMH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="857" y="924" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXF5LH7xMDKq17__St7g-69" value="SPX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="927" width="494" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXF5LH7xMDKq17__St7g-70" value="SPX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-321" y="927" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXF5LH7xMDKq17__St7g-71" value="SPX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-735" y="927" width="248" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXF5LH7xMDKq17__St7g-72" value="SPX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-876" y="927" width="88" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
