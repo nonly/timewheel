@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T13:19:45.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="u00CMimtosa_h6VN4b7N" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-03T13:23:59.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="NH1a4hXlh6bJFIje3IFU" version="22.1.17" type="github" pages="2">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -710,25 +710,49 @@
           <mxGeometry x="37" y="59" width="456" height="83" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="36" y="180" width="380" height="60" as="geometry" />
+          <mxGeometry x="37" y="156" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-3" value="20%短线（1小时/30分）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="268" y="182" width="77" height="56" as="geometry" />
+          <mxGeometry x="269" y="158" width="77" height="56" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-4" value="50% 美股波段（4小时/日线）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="39" y="182" width="226" height="56" as="geometry" />
+          <mxGeometry x="40" y="158" width="226" height="56" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-5" value="1%期权（分钟）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="348" y="182" width="63" height="56" as="geometry" />
+          <mxGeometry x="349" y="158" width="63" height="56" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="36" y="284" as="sourcePoint" />
-            <mxPoint x="397" y="283" as="targetPoint" />
+            <mxPoint x="36" y="341" as="sourcePoint" />
+            <mxPoint x="397" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-7" value="3年3倍" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="401" y="259" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="4-PwmHR9drd7Zptvlytu-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="424" as="sourcePoint" />
+            <mxPoint x="214" y="257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-9" value="蓝色梯子 &amp;lt; 黄色梯子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="37" y="315" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-11" value="蓝色梯子 &amp;gt; 黄色梯子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="224" y="315" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-12" value="K线&amp;lt;蓝色梯子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="169" y="435" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="4-PwmHR9drd7Zptvlytu-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="424" as="sourcePoint" />
+            <mxPoint x="214" y="257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-13" value="K线&amp;gt;蓝色梯子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="236" width="99" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
