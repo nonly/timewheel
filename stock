@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T15:01:46.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="a5bGRTcjStX_ALe-DoKL" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-03T15:45:41.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="VThkTOw4Ru3A3hhTmL8K" version="22.1.17" type="github" pages="3">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -728,7 +728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dAzKOq1Z-laMrzXJgP3E" name="市场周期论">
-    <mxGraphModel dx="3220" dy="873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4132" dy="1396" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -961,40 +961,40 @@
           <mxGeometry x="-321" y="1081" width="232" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-83" value="CCL (34%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="855" y="1170" width="157" height="60" as="geometry" />
+          <mxGeometry x="859" y="1158" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-84" value="CCL (50%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="679" y="1170" width="176" height="60" as="geometry" />
+          <mxGeometry x="683" y="1158" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-85" value="CCL (40%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="334" y="1170" width="182" height="60" as="geometry" />
+          <mxGeometry x="338" y="1158" width="182" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-86" value="CCL (20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="9" y="1170" width="141" height="60" as="geometry" />
+          <mxGeometry x="13" y="1158" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-87" value="CCL (20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-224" y="1167" width="106" height="60" as="geometry" />
+          <mxGeometry x="-220" y="1155" width="106" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-88" value="CCL (40%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-656" y="1171" width="233" height="60" as="geometry" />
+          <mxGeometry x="-652" y="1159" width="233" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-89" value="TSLA(20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1003" y="1260" width="86" height="60" as="geometry" />
+          <mxGeometry x="1007" y="1248" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-90" value="TSLA(20%)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="564" y="1259" width="438" height="60" as="geometry" />
+          <mxGeometry x="568" y="1247" width="438" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-91" value="TSLA(40%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="324" y="1259" width="240" height="60" as="geometry" />
+          <mxGeometry x="328" y="1247" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-92" value="TSLA(30%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1263" width="78" height="60" as="geometry" />
+          <mxGeometry x="84" y="1251" width="78" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-93" value="TSLA(30%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-221" y="1263" width="236" height="60" as="geometry" />
+          <mxGeometry x="-217" y="1251" width="236" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-94" value="TSLA(30%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="1263" width="92" height="60" as="geometry" />
+          <mxGeometry x="-656" y="1251" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-95" value="TSLA关注蓝色梯子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1164" y="1281" width="165" height="30" as="geometry" />
