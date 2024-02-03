@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T13:31:32.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="MoiqH2d4YjyCAh5yHVuE" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-03T13:32:51.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="yeMFmW3LEUZhI8ru9q0_" version="22.1.17" type="github" pages="2">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
         <mxCell id="4-PwmHR9drd7Zptvlytu-15" value="20%妖股（抄底）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="419" y="97" width="63" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4-PwmHR9drd7Zptvlytu-16" value="牛市 -&amp;gt; 猴市，轻仓做T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4-PwmHR9drd7Zptvlytu-16" value="牛猴市，轻仓做T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="444" width="137" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-17" value="牛市，重仓做多" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -760,7 +760,7 @@
         <mxCell id="4-PwmHR9drd7Zptvlytu-18" value="熊市，做空" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="53" y="440" width="116" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4-PwmHR9drd7Zptvlytu-19" value="熊市 -&amp;gt; 猴市，轻仓做T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4-PwmHR9drd7Zptvlytu-19" value="熊猴市，轻仓做T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="294" width="149" height="30" as="geometry" />
         </mxCell>
       </root>
