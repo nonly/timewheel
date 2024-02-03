@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T13:16:43.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="AUGpvbdptryDDihC7a0m" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-03T13:17:10.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="-5E7uVq41cMEsPI6yn0_" version="22.1.17" type="github" pages="2">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -723,12 +723,12 @@
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="49" y="312" as="sourcePoint" />
-            <mxPoint x="410" y="311" as="targetPoint" />
+            <mxPoint x="36" y="284" as="sourcePoint" />
+            <mxPoint x="397" y="283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-7" value="3年10倍" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="274" width="60" height="30" as="geometry" />
+          <mxGeometry x="401" y="259" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
