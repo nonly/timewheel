@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T14:30:19.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="u41qZQh2O2pqEbOO3wjz" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-03T14:35:43.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="dTbaBOacbruWQ4xloc2m" version="22.1.17" type="github" pages="3">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -950,6 +950,15 @@
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-79" value="QQQ（25%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-656" y="1010" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXF5LH7xMDKq17__St7g-80" value="MSFT (26%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="855" y="1082" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXF5LH7xMDKq17__St7g-81" value="MSFT (37%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="89" y="1077" width="495" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXF5LH7xMDKq17__St7g-82" value="MSFT (15%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-321" y="1081" width="232" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
