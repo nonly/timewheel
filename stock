@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T04:51:50.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="-tBcI6vAUQjkQgCc4fnU" version="22.0.3" type="github">
-  <diagram id="1rlURXPfwSZlDotuRP0P" name="Page-1">
-    <mxGraphModel dx="2026" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-02-03T13:15:28.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="KlVPJaSMWAMtr4rpiBKC" version="22.1.17" type="github" pages="2">
+  <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
+    <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,7 +597,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTzMiIdGn6YYxI03QgRo-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="RTzMiIdGn6YYxI03QgRo-59" edge="1" source="RTzMiIdGn6YYxI03QgRo-11">
+        <mxCell id="RTzMiIdGn6YYxI03QgRo-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RTzMiIdGn6YYxI03QgRo-11" target="RTzMiIdGn6YYxI03QgRo-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1770" y="310" as="sourcePoint" />
             <mxPoint x="1770" y="350" as="targetPoint" />
@@ -697,6 +697,29 @@
         </mxCell>
         <mxCell id="bV9DVQLozXKKMpVqIqm8-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1570" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
+    <mxGraphModel dx="579" dy="332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4-PwmHR9drd7Zptvlytu-1" value="蓝色梯子是核心，占比80%；&lt;br&gt;蓝色梯子在黄色梯子之下是下跌趋势，每一次抄底小心又小心；&lt;br&gt;蓝色梯子在黄色梯子之上是上涨趋势，每一次卖出慎重又慎重；&lt;br&gt;如果你做长线，蓝色梯子在黄色梯子之上就不要卖出，之下就不要买入；" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="37" y="59" width="456" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="180" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-3" value="20%短线（1小时/30分）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="268" y="182" width="77" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-4" value="50% 美股波段（4小时/日线）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="39" y="182" width="226" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PwmHR9drd7Zptvlytu-5" value="1%期权（分钟）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="348" y="182" width="63" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
