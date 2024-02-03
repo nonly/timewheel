@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T13:34:09.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="IYCiF1B0qr0V60GxXPaF" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-03T13:34:46.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="uGnXQM-7qujAFJuNQmkd" version="22.1.17" type="github" pages="3">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -767,6 +767,9 @@
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-11" value="熊猴市，轻仓做T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="284" width="149" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RXF5LH7xMDKq17__St7g-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="558" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
