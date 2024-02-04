@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T12:43:32.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Os8j67lnZutz4NAcpAg4" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-04T13:03:06.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="AWsPv3cxD-UHWte3Lx4I" version="22.1.17" type="github" pages="3">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -918,10 +918,10 @@
         <mxCell id="RXF5LH7xMDKq17__St7g-66" value="SPX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-787" y="853" width="133" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXF5LH7xMDKq17__St7g-68" value="SMH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="RXF5LH7xMDKq17__St7g-68" value="SOXL(30%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="858" y="938" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXF5LH7xMDKq17__St7g-69" value="SMH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="RXF5LH7xMDKq17__St7g-69" value="SOXL(50%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="91" y="941" width="494" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-70" value="SMH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
@@ -933,22 +933,22 @@
         <mxCell id="RXF5LH7xMDKq17__St7g-72" value="SMH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-875" y="941" width="88" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXF5LH7xMDKq17__St7g-73" value="QQQ (50%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="RXF5LH7xMDKq17__St7g-73" value="TQQQ (50%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="858" y="1014" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXF5LH7xMDKq17__St7g-74" value="QQQ（56%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="RXF5LH7xMDKq17__St7g-74" value="TQQQ（56%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="91" y="1020" width="495" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXF5LH7xMDKq17__St7g-75" value="QQQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="RXF5LH7xMDKq17__St7g-75" value="SQQQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-62" y="1020" width="96" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXF5LH7xMDKq17__St7g-76" value="QQQ（22%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="RXF5LH7xMDKq17__St7g-76" value="SQQQ（22%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-279" y="1022" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXF5LH7xMDKq17__St7g-78" value="QQQ（22%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="RXF5LH7xMDKq17__St7g-78" value="SQQQ（22%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-941.5" y="1018" width="154.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RXF5LH7xMDKq17__St7g-79" value="QQQ（25%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="RXF5LH7xMDKq17__St7g-79" value="SQQQ（25%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-655" y="1024" width="221" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-80" value="MSFT (26%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
