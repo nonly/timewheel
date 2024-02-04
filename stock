@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T15:45:41.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="VThkTOw4Ru3A3hhTmL8K" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-04T01:03:33.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ttJj_wB3Yya4oWtYt64M" version="22.1.17" type="github" pages="3">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -712,10 +712,10 @@
         <mxCell id="4-PwmHR9drd7Zptvlytu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="39" y="95" width="448" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4-PwmHR9drd7Zptvlytu-3" value="20%短线（1小时/30分）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="4-PwmHR9drd7Zptvlytu-3" value="20%短线（1小时/30分）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="97" width="77" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4-PwmHR9drd7Zptvlytu-4" value="50% 美股波段（4小时/日线）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="4-PwmHR9drd7Zptvlytu-4" value="50% 美股波段（4小时/日线）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="42" y="97" width="226" height="56" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-5" value="1%期权（分钟）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
@@ -728,7 +728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dAzKOq1Z-laMrzXJgP3E" name="市场周期论">
-    <mxGraphModel dx="4132" dy="1396" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3727" dy="1163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -997,7 +997,7 @@
           <mxGeometry x="-656" y="1251" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RXF5LH7xMDKq17__St7g-95" value="TSLA关注蓝色梯子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1164" y="1281" width="165" height="30" as="geometry" />
+          <mxGeometry x="1134" y="1266" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
