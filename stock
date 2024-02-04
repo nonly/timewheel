@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T15:24:31.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Zl4KxCD7m2v1YhSXBZO-" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-04T15:32:34.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="F9V2tv0hdc4Oq1xCN2D7" version="22.1.17" type="github" pages="3">
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
     <mxGraphModel dx="2240" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1013,6 +1013,21 @@
         </mxCell>
         <mxCell id="kSvtiG3aV1_8YJciEtx9-6" value="COIN(20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-983" y="1335" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSvtiG3aV1_8YJciEtx9-7" value="SMCI(100%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1413" width="242" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSvtiG3aV1_8YJciEtx9-8" value="SMCI(50%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="1413" width="82" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSvtiG3aV1_8YJciEtx9-9" value="SMCI(20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="1413" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSvtiG3aV1_8YJciEtx9-10" value="SMCI(30%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-198" y="1413" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSvtiG3aV1_8YJciEtx9-11" value="SMCI(20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="169" y="1413" width="126" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
