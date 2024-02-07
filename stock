@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T12:15:32.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="NujBgOQd2fs-AWmzppCr" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-07T13:44:06.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="2FvnImXM-LmEY6GRBdQ5" version="23.1.1" type="github" pages="3">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1216" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="419" y="97" width="63" height="56" as="geometry" />
         </mxCell>
         <mxCell id="7HLE2zOZKimn2Fxau60Z-1" value="短线做法：10%底仓 + 5%机动 + 5%机动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="36" y="291" width="253" height="60" as="geometry" />
+          <mxGeometry x="39" y="259" width="253" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
