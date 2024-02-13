@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T13:06:40.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Tx0oO7yL1fte5JY4LdnS" version="23.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-13T13:09:18.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="bkU_WZNjh4WTUwgIZ94f" version="23.1.1" type="github" pages="4">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1216" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2104,56 +2104,8 @@
             <mxRectangle width="294" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-184" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-1">
-          <mxGeometry y="313" width="1009.8863830566406" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-185" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
-          <mxGeometry width="60" height="82" as="geometry">
-            <mxRectangle width="60" height="82" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-186" value="NIO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
-          <mxGeometry x="60" width="61" height="82" as="geometry">
-            <mxRectangle width="61" height="82" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-187" value="中概" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
-          <mxGeometry x="121" width="59" height="82" as="geometry">
-            <mxRectangle width="59" height="82" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-188" value="A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
-          <mxGeometry x="180" width="61" height="82" as="geometry">
-            <mxRectangle width="61" height="82" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-40" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
-          <mxGeometry x="241" width="61" height="82" as="geometry">
-            <mxRectangle width="61" height="82" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-189" value="2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
-          <mxGeometry x="302" width="60" height="82" as="geometry">
-            <mxRectangle width="60" height="82" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-190" value="2/6/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
-          <mxGeometry x="362" width="60" height="82" as="geometry">
-            <mxRectangle width="60" height="82" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-191" value="做T（买在球哥止损线上方），涨幅10%卖出机动资金；&lt;br&gt;不能追涨，等回踩；&lt;br&gt;买入后的止损位置在2H、D抄底的日线位置；起飞后可以参考2H梯子或者日级别的-10%止损线；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
-          <mxGeometry x="422" width="294" height="82" as="geometry">
-            <mxRectangle width="294" height="82" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-302" value="日线和2H提示抄底，没理由不做；止损位置5.5；&lt;br&gt;起飞后10%，可以卖出1/3; 回踩在10%附近，可以加回卖出的部分；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
-          <mxGeometry x="716" width="294" height="82" as="geometry">
-            <mxRectangle width="294" height="82" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-216" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-1">
-          <mxGeometry y="395" width="1009.8863830566406" height="63" as="geometry" />
+          <mxGeometry y="313" width="1009.8863830566406" height="63" as="geometry" />
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-217" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-216">
           <mxGeometry width="60" height="63" as="geometry">
@@ -2198,6 +2150,54 @@
         <mxCell id="12P33xhxEBNRbPYeFPQx-305" value="关注是否为22年10月的行情复制，站稳黄色梯子开启二次进攻；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-216">
           <mxGeometry x="716" width="294" height="63" as="geometry">
             <mxRectangle width="294" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-184" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-1">
+          <mxGeometry y="376" width="1009.8863830566406" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-185" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
+          <mxGeometry width="60" height="82" as="geometry">
+            <mxRectangle width="60" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-186" value="NIO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
+          <mxGeometry x="60" width="61" height="82" as="geometry">
+            <mxRectangle width="61" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-187" value="中概" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
+          <mxGeometry x="121" width="59" height="82" as="geometry">
+            <mxRectangle width="59" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-188" value="A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
+          <mxGeometry x="180" width="61" height="82" as="geometry">
+            <mxRectangle width="61" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sv_zkquqd6CutIyaG7F-40" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
+          <mxGeometry x="241" width="61" height="82" as="geometry">
+            <mxRectangle width="61" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-189" value="2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
+          <mxGeometry x="302" width="60" height="82" as="geometry">
+            <mxRectangle width="60" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-190" value="2/6/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
+          <mxGeometry x="362" width="60" height="82" as="geometry">
+            <mxRectangle width="60" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-191" value="做T（买在球哥止损线上方），涨幅10%卖出机动资金；&lt;br&gt;不能追涨，等回踩；&lt;br&gt;买入后的止损位置在2H、D抄底的日线位置；起飞后可以参考2H梯子或者日级别的-10%止损线；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
+          <mxGeometry x="422" width="294" height="82" as="geometry">
+            <mxRectangle width="294" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-302" value="日线和2H提示抄底，没理由不做；止损位置5.5；&lt;br&gt;起飞后10%，可以卖出1/3; 回踩在10%附近，可以加回卖出的部分；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-184">
+          <mxGeometry x="716" width="294" height="82" as="geometry">
+            <mxRectangle width="294" height="82" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-232" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-1">
@@ -3135,7 +3135,7 @@
             <mxRectangle width="61" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-29">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-51" value="C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-29">
           <mxGeometry x="241" width="61" height="40" as="geometry">
             <mxRectangle width="61" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -3183,7 +3183,7 @@
             <mxRectangle width="61" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-133">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-52" value="C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-133">
           <mxGeometry x="241" width="61" height="46" as="geometry">
             <mxRectangle width="61" height="46" as="alternateBounds" />
           </mxGeometry>
@@ -3231,7 +3231,7 @@
             <mxRectangle width="61" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-53" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-38">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-53" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-38">
           <mxGeometry x="241" width="61" height="39" as="geometry">
             <mxRectangle width="61" height="39" as="alternateBounds" />
           </mxGeometry>
