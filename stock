@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T13:25:18.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="mAhwzW0MGr9bbSEQrLLQ" version="23.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-13T13:32:17.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="oIP7PMzkpIbO9-Z_Vaxq" version="23.1.1" type="github" pages="4">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1216" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2147,7 +2147,7 @@
             <mxRectangle width="294" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-305" value="关注是否为22年10月的行情复制，站稳黄色梯子开启二次进攻；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-216">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-305" value="关注站稳黄色梯子开启二次进攻；长线止损位置120；分批买入，每次4%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-216">
           <mxGeometry x="716" width="294" height="63" as="geometry">
             <mxRectangle width="294" height="63" as="alternateBounds" />
           </mxGeometry>
