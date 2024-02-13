@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T11:23:31.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="DUctxwDAA5qwhZ8-ptQg" version="23.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-13T11:57:12.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="GDtgRcLjDX1SmKV0KKcu" version="23.1.1" type="github" pages="4">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1216" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1809,7 +1809,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z2aIBYo-PSqu7gH0IQxu" name="stock list">
-    <mxGraphModel dx="839" dy="1581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3049,12 +3049,12 @@
             <mxRectangle width="60" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-294" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-288">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-294" value="1/22/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-288">
           <mxGeometry x="362" width="60" height="46" as="geometry">
             <mxRectangle width="60" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-295" value="美团由1个月的箱体震荡构成，符合三点诱骗；&lt;br&gt;根据30分钟的K找到箱体下沿，最好配合抄底提示，1个月有1-2次左右的期权交易机会；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-288">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-295" value="美团由1-2星期的箱体震荡构成，符合三点诱骗；&lt;br&gt;根据30分钟的K找到箱体下沿，最好配合抄底提示，1个月有1-2次左右的期权交易机会；规避掉下跌趋势的窄箱体；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-288">
           <mxGeometry x="422" width="294" height="46" as="geometry">
             <mxRectangle width="294" height="46" as="alternateBounds" />
           </mxGeometry>
