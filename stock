@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T12:25:59.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="atSPFrR6XQsD_-P2Nqe1" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-14T12:33:11.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="q7udpC4eqCakVJPeaT6o" version="23.1.1" type="github" pages="5">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="634" dy="1471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1086" dy="1505" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dAzKOq1Z-laMrzXJgP3E" name="市场周期论">
-    <mxGraphModel dx="2334" dy="371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2786" dy="405" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2049,32 +2049,32 @@
             <mxRectangle width="61" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-4" value="互联网" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
           <mxGeometry x="121" width="59" height="39" as="geometry">
             <mxRectangle width="59" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-5" value="A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
           <mxGeometry x="180" width="61" height="39" as="geometry">
             <mxRectangle width="61" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-6" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
           <mxGeometry x="241" width="61" height="39" as="geometry">
             <mxRectangle width="61" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-7" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
           <mxGeometry x="302" width="60" height="39" as="geometry">
             <mxRectangle width="60" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-8" value="1/5/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
           <mxGeometry x="362" width="60" height="39" as="geometry">
             <mxRectangle width="60" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-9" value="配合抄底提示，做周call；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PW7NKqL3Uw1iAm-7bFNX-1">
           <mxGeometry x="422" width="294" height="39" as="geometry">
             <mxRectangle width="294" height="39" as="alternateBounds" />
           </mxGeometry>
