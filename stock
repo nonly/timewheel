@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T04:15:31.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="mGJgHl6MS0gn0BgUK7BH" version="23.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-15T04:16:03.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="44IQcr9YFHSPz8PEiVEf" version="23.1.4" type="github" pages="6">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1456" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="526" y="97" width="63" height="56" as="geometry" />
         </mxCell>
         <mxCell id="7HLE2zOZKimn2Fxau60Z-1" value="短线做法：10%底仓 + 5%机动 + 5%机动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="668" y="97" width="253" height="60" as="geometry" />
+          <mxGeometry x="597" y="97" width="253" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yLJeHbLIfVSMdIhJXHwD-1" value="1，发掘牛股&lt;br&gt;2. 提前持有牛股&lt;br&gt;3.利用波段的利润去不断加码牛股" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="559" y="15" width="192" height="30" as="geometry" />
