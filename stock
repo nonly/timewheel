@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T12:23:48.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="e9bWuYTlqmzc7edLTzXC" version="23.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-15T12:27:56.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="o46JMtHI61KYaaTDybfi" version="23.1.4" type="github" pages="6">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1216" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,11 +40,8 @@
         <mxCell id="qEjpMvw4PonDgoeP3QfY-2" value="指数ETF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SWJJTzRuUexJNL7H4vBf-3">
           <mxGeometry x="17" y="96" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-4" value="中盘股" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SWJJTzRuUexJNL7H4vBf-3">
+        <mxCell id="qEjpMvw4PonDgoeP3QfY-4" value="中盘牛股" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SWJJTzRuUexJNL7H4vBf-3">
           <mxGeometry x="146" y="32" width="79" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-5" value="老牌低估值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SWJJTzRuUexJNL7H4vBf-3">
-          <mxGeometry x="146" y="96" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="SWJJTzRuUexJNL7H4vBf-5" value="A股 0%" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="SWJJTzRuUexJNL7H4vBf-2">
           <mxGeometry x="650" y="127" width="173" height="87" as="geometry" />
