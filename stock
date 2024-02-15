@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T05:03:01.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="xlAnrUPSeVkS6YQBufdI" version="23.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-15T07:25:23.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="D98FeI0yXt13qjkVXo2m" version="23.1.4" type="github" pages="6">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1456" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="9" y="95" width="553" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-3" value="20%短线（1小时/30分）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="209" y="97" width="108" height="56" as="geometry" />
+          <mxGeometry x="211" y="97" width="108" height="56" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-4" value="30% * 2 波段（4小时/日线）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="11" y="97" width="190" height="56" as="geometry" />
