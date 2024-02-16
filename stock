@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T06:13:08.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="HhDTdh5RNahK_uI6frga" version="23.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-16T06:15:30.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="pOy287JeGvFuBmgoAPun" version="23.1.4" type="github" pages="6">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1216" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,13 +49,16 @@
           <mxGeometry x="95" y="83" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qEjpMvw4PonDgoeP3QfY-12" value="潜力股票" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="SWJJTzRuUexJNL7H4vBf-3">
-          <mxGeometry x="193" y="33" width="174" height="80" as="geometry" />
+          <mxGeometry x="193" y="33" width="174" height="136" as="geometry" />
         </mxCell>
         <mxCell id="qEjpMvw4PonDgoeP3QfY-4" value="SMCI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qEjpMvw4PonDgoeP3QfY-12">
           <mxGeometry x="6" y="32" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qEjpMvw4PonDgoeP3QfY-13" value="VRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qEjpMvw4PonDgoeP3QfY-12">
           <mxGeometry x="91" y="32" width="79" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="qK1XgH-Dm6hCDFiqjZ2y-1" value="ARM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qEjpMvw4PonDgoeP3QfY-12">
+          <mxGeometry x="6" y="87" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qEjpMvw4PonDgoeP3QfY-2" value="指数ETF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SWJJTzRuUexJNL7H4vBf-3">
           <mxGeometry x="380" y="33" width="79" height="41" as="geometry" />
