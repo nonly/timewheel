@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T06:46:15.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="BRfhDytAza4TTfErADN9" version="23.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-17T07:01:54.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="SAr3OpSeV5ZSAZPl0EcL" version="23.1.4" type="github" pages="7">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="1216" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="1832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,25 +94,119 @@
           <mxGeometry x="901.9977203369141" y="29.000018615722638" width="747" height="474" as="geometry" />
         </mxCell>
         <mxCell id="XXeC2O2tCGGckf-N8Io3-1" value="末日期权 玩不了" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="17" y="581" width="120" height="60" as="geometry" />
+          <mxGeometry x="13" y="543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XXeC2O2tCGGckf-N8Io3-2" value="Soun 妖股玩不了" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="17" y="659" width="120" height="60" as="geometry" />
+          <mxGeometry x="13" y="618" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XXeC2O2tCGGckf-N8Io3-3" value="profit/loss picture till 2/11/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1191" y="4" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o29eJ1YFrr03dJXNi23o-1" value="1. SMCI 末日 24K&lt;br&gt;2. NVDA 末日0.4K&lt;br&gt;3. SOUN跟单损失1K" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="164" y="596" width="184" height="30" as="geometry" />
+          <mxGeometry x="145" y="558" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6UlM_DinPG7shT5wigiH-1" value="1.任何时候不要用杠杆和融资&lt;br&gt;2 期权不要超过15%，末日不超过1%&lt;br&gt;3 蓝色梯子在黄色梯子之下的不要超过50%仓位" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="9" y="-95" width="456" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="21" y="763" width="534.9772033691406" height="278.1532745361328" as="geometry" />
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry width="534.9772033691406" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-4" value="股市中如何亏钱" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-2">
+          <mxGeometry width="272" height="43" as="geometry">
+            <mxRectangle width="272" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-17" value="例子" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-2">
+          <mxGeometry x="272" width="263" height="43" as="geometry">
+            <mxRectangle width="263" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry y="43" width="534.9772033691406" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-7" value="1.跟着消息，去买盘前已经涨了50%的妖股" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-5">
+          <mxGeometry width="272" height="44" as="geometry">
+            <mxRectangle width="272" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-18" value="SOUN跟单亏损$1K on 2/15/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-5">
+          <mxGeometry x="272" width="263" height="44" as="geometry">
+            <mxRectangle width="263" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry y="87" width="534.9772033691406" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-10" value="2.看着QOG的期权推送买期权" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-8">
+          <mxGeometry width="272" height="39" as="geometry">
+            <mxRectangle width="272" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-19" value="NVDA, SMCI买末日亏损$3K on 2/16/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-8">
+          <mxGeometry x="272" width="263" height="39" as="geometry">
+            <mxRectangle width="263" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry y="126" width="534.9772033691406" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-13" value="3. 看了几篇公众号的分析就all in" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-11">
+          <mxGeometry width="272" height="38" as="geometry">
+            <mxRectangle width="272" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-20" value="赛力斯追涨亏损$50K on 7/30/23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-11">
+          <mxGeometry x="272" width="263" height="38" as="geometry">
+            <mxRectangle width="263" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry y="164" width="534.9772033691406" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-16" value="4. 就喜欢越跌越买，摊平成本" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-14">
+          <mxGeometry width="272" height="38" as="geometry">
+            <mxRectangle width="272" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-21" value="立昂微亏损$20K on 3/30/23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-14">
+          <mxGeometry x="272" width="263" height="38" as="geometry">
+            <mxRectangle width="263" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry y="202" width="534.9772033691406" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-23" value="5. 觉得做空美股可以一直做下去" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-22">
+          <mxGeometry width="272" height="38" as="geometry">
+            <mxRectangle width="272" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-24" value="SOXS亏损$30K on Cy23 Q1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-22">
+          <mxGeometry x="272" width="263" height="38" as="geometry">
+            <mxRectangle width="263" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry y="240" width="534.9772033691406" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-26" value="6. 突然有个想法就买入" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-25">
+          <mxGeometry width="272" height="38" as="geometry">
+            <mxRectangle width="272" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-25">
+          <mxGeometry x="272" width="263" height="38" as="geometry">
+            <mxRectangle width="263" height="38" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Z2aIBYo-PSqu7gH0IQxu" name="stock list">
-    <mxGraphModel dx="1668" dy="1832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="1832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1761,7 +1855,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dAzKOq1Z-laMrzXJgP3E" name="市场周期论">
-    <mxGraphModel dx="2916" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3156" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2621,7 +2715,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8HEuVMS3snwHu9irJYUt" name="美股AI基本面分析">
-    <mxGraphModel dx="1216" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2635,7 +2729,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uaXPwq2NSc6kcAN9NkS8" name="交易等级">
-    <mxGraphModel dx="1216" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
