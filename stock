@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T04:30:45.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="n9UN0zuoJU6oGdrPcuyY" version="23.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-17T04:36:30.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="uXzjxPqlgc-a_aBcFSTg" version="23.1.4" type="github" pages="7">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="1216" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="o29eJ1YFrr03dJXNi23o-1" value="1. SMCI 末日 24K&lt;br&gt;2. NVDA 末日0.4K&lt;br&gt;3. SOUN跟单损失1K" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="164" y="596" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6UlM_DinPG7shT5wigiH-1" value="1.任何时候不要用杠杆和融资&lt;br&gt;2 期权不要超过15%，末日不超过1%&lt;br&gt;3 蓝色梯子在黄色梯子之下的不要超过50%仓位" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9" y="-95" width="456" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
