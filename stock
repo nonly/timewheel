@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T06:35:58.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="RBO8JaQ0VvrV-JLizWYE" version="23.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-17T06:46:15.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="BRfhDytAza4TTfErADN9" version="23.1.4" type="github" pages="7">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1216" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -463,27 +463,27 @@
             <mxRectangle width="60" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-81" value="LLY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
           <mxGeometry x="60" width="52" height="49" as="geometry">
             <mxRectangle width="52" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-82" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-82" value="减肥药" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
           <mxGeometry x="112" width="68" height="49" as="geometry">
             <mxRectangle width="68" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-83" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-83" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
           <mxGeometry x="180" width="61" height="49" as="geometry">
             <mxRectangle width="61" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-84" value="A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
           <mxGeometry x="241" width="61" height="49" as="geometry">
             <mxRectangle width="61" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-85" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-85" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
           <mxGeometry x="302" width="60" height="49" as="geometry">
             <mxRectangle width="60" height="49" as="alternateBounds" />
           </mxGeometry>
@@ -3354,7 +3354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xStdVbTSzx4En6Z2hGss" name="穷查理宝典的思维模型">
-    <mxGraphModel dx="1216" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3369,6 +3369,12 @@
         </mxCell>
         <mxCell id="1JoKKjQRAEchO-p8pE4j-4" value="profit / (profit + initial + new) = 80% * (profit / profit + initial)&lt;br&gt;new = 0.25*(profit + initial)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="299" y="259" width="326" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="27iMqp9pWf95Nw3WB26M-2" value="思维模型" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="858" y="63" width="543" height="453" as="geometry" />
+        </mxCell>
+        <mxCell id="27iMqp9pWf95Nw3WB26M-1" value="逆向思维" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="27iMqp9pWf95Nw3WB26M-2">
+          <mxGeometry x="21" y="47" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
