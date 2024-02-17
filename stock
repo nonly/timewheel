@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T16:21:42.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="va-XUXRs5hKkg8kKzA_V" version="23.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-17T04:29:43.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="y6OHVBF3XX5SWIyuFR96" version="23.1.4" type="github" pages="7">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1216" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
           <mxGeometry x="1191" y="4" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o29eJ1YFrr03dJXNi23o-1" value="1. SMCI 末日 24K&lt;br&gt;2. NVDA 末日0.4K&lt;br&gt;3. SOUN跟单损失1K" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="161" y="589" width="184" height="30" as="geometry" />
+          <mxGeometry x="164" y="596" width="184" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1749,7 +1749,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-58" value="难度S+：走势凌乱，只有周线蓝色梯子可用，日线需要是用蓝色+黄色梯子；提示卖出就T掉；黄色梯子附近接回来；&lt;br&gt;难度S: 走势凌乱，日线级别蓝色梯子勉强用；需要使用蓝色黄色梯子&lt;br&gt;难度A：任何级别的抄底都不准，但是蓝色梯子可以用&lt;br&gt;难度B：抄底偶尔准，蓝色梯子可用&lt;br&gt;难度C：抄底比较准，蓝色梯子可用&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="217" y="-293" width="686" height="25" as="geometry" />
+          <mxGeometry x="203" y="-296" width="686" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2YudE8bRHZmCg3UjdhKs-1" value="分析80只美股，20只中概和港股" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="217" y="-408" width="213" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
