@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T07:01:54.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="SAr3OpSeV5ZSAZPl0EcL" version="23.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-17T07:03:38.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="KssW9LgI-dAWVfo8ON7H" version="23.1.4" type="github" pages="7">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1456" dy="1832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="ubyKyDaO3-KK-u0BwVue-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
           <mxGeometry y="43" width="534.9772033691406" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ubyKyDaO3-KK-u0BwVue-7" value="1.跟着消息，去买盘前已经涨了50%的妖股" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-5">
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-7" value="1.跟着微信群里的推荐，去买盘前已经涨了50%的妖股" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-5">
           <mxGeometry width="272" height="44" as="geometry">
             <mxRectangle width="272" height="44" as="alternateBounds" />
           </mxGeometry>
@@ -158,7 +158,7 @@
             <mxRectangle width="272" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubyKyDaO3-KK-u0BwVue-20" value="赛力斯追涨亏损$50K on 7/30/23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-11">
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-20" value="赛力斯追涨亏损$50K on 7/15/23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-11">
           <mxGeometry x="272" width="263" height="38" as="geometry">
             <mxRectangle width="263" height="38" as="alternateBounds" />
           </mxGeometry>
@@ -192,12 +192,12 @@
         <mxCell id="ubyKyDaO3-KK-u0BwVue-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
           <mxGeometry y="240" width="534.9772033691406" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ubyKyDaO3-KK-u0BwVue-26" value="6. 突然有个想法就买入" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-25">
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-26" value="6. 突然有个技术图形的新想法就买入" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-25">
           <mxGeometry width="272" height="38" as="geometry">
             <mxRectangle width="272" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubyKyDaO3-KK-u0BwVue-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-25">
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-27" value="SE亏损$10K on 7/30/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-25">
           <mxGeometry x="272" width="263" height="38" as="geometry">
             <mxRectangle width="263" height="38" as="alternateBounds" />
           </mxGeometry>
