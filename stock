@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T04:15:29.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="BV7Tn5nX-OWFXdnyFoO6" version="23.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-18T04:27:22.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="GOweDBGmY_vnAp5gdVNd" version="23.1.5" type="github" pages="7">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="1938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -945,7 +945,7 @@
             <mxRectangle width="60" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FumZLj7Mq1QkP2dHfOBK-1">
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-9" value="日线抄底后，1H也需要有抄底并且钻出蓝色梯子" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FumZLj7Mq1QkP2dHfOBK-1">
           <mxGeometry x="490" width="294" height="34" as="geometry">
             <mxRectangle width="294" height="34" as="alternateBounds" />
           </mxGeometry>
