@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T04:13:45.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Uf-HeuAEDFMO-R1dBIoV" version="23.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-18T04:13:57.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="0bQhf-tS5BYFumo2RFG1" version="23.1.5" type="github" pages="7">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="1938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
             <mxRectangle width="61" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-64" value="S" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-64" value="10%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
           <mxGeometry x="309" width="61" height="39" as="geometry">
             <mxRectangle width="61" height="39" as="alternateBounds" />
           </mxGeometry>
@@ -400,7 +400,7 @@
             <mxRectangle width="61" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-49" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-49" value="10%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
           <mxGeometry x="309" width="61" height="38" as="geometry">
             <mxRectangle width="61" height="38" as="alternateBounds" />
           </mxGeometry>
