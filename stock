@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T09:45:34.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ypDl_Ta3_7zRK7SQ4wZh" version="23.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-23T09:45:48.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Vvrcn5aXYBcJpFpLMaDW" version="23.1.5" type="github" pages="7">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1071" dy="1489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-5" value="1% long期权（30分钟）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="445" y="97" width="114" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="7HLE2zOZKimn2Fxau60Z-1" value="短线做法：10%底仓 + 5%机动 + 5%机动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="597" y="97" width="253" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SWJJTzRuUexJNL7H4vBf-2" value="仓位管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="9" y="174" width="831" height="357" as="geometry" />
