@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T09:40:47.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="THjqfmpqeZo6eUPK7szq" version="23.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-23T09:42:09.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="0su3puxoEsnoYHl0yqn0" version="23.1.5" type="github" pages="7">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="859" dy="1489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="1489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4-PwmHR9drd7Zptvlytu-1" value="蓝色梯子是核心，占比80%；&lt;br&gt;蓝色梯子在黄色梯子之下是下跌趋势，每一次抄底小心又小心；&lt;br&gt;蓝色梯子在黄色梯子之上是上涨趋势，每一次卖出慎重又慎重；&lt;br&gt;如果你做长线，蓝色梯子在黄色梯子之上就不要卖出，之下就不要买入；" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="9" y="4" width="456" height="83" as="geometry" />
+        <mxCell id="4-PwmHR9drd7Zptvlytu-1" value="蓝色梯子是核心，占比80%；&lt;br&gt;蓝色梯子在黄色梯子之下是下跌趋势，每一次抄底小心又小心；&lt;br&gt;蓝色梯子在黄色梯子之上是上涨趋势，每一次卖出慎重又慎重；&lt;br&gt;如果你做长线，蓝色梯子在黄色梯子之上就不要卖出，之下就不要买入；" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="9" y="-12" width="456" height="83" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="9" y="95" width="553" height="60" as="geometry" />
