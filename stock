@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T10:42:08.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="UzdLsuHsaENaOWHHA4z6" version="23.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-23T11:09:25.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="dC4GGXUiEAuLHIygaHMU" version="23.1.5" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="875" dy="1509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1127" dy="1509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,7 +226,7 @@
         <mxCell id="jhC-Oz38TJ2h4or6X4e7-9" value="CCL&amp;nbsp; CY2310" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1250" y="886" width="112" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="jhC-Oz38TJ2h4or6X4e7-10" value="PLTR CY2401" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="jhC-Oz38TJ2h4or6X4e7-10" value="PLTR CY2401" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1362" y="776" width="112" height="56" as="geometry" />
         </mxCell>
       </root>
@@ -251,6 +251,9 @@
         </mxCell>
         <mxCell id="aLY_w_fWMo8V8T_eYucW-5" value="地球哥-长短线方法" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="617" y="85" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-1" value="自研-期权跟单法" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="617" y="302" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
