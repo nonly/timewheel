@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T16:12:22.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="cUx9b-FV9Al2H_RzHpNT" version="23.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-23T16:12:35.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="a-4O96FoVbI6IQfAuHFE" version="23.1.5" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1127" dy="1509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
         <mxCell id="aLY_w_fWMo8V8T_eYucW-5" value="地球哥-长短线方法" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="617" y="85" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-1" value="自研-期权跟单法" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-1" value="自研-期权跟单法（行不通）" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="617" y="302" width="674" height="415" as="geometry" />
         </mxCell>
         <mxCell id="aw2xVNhjCHg9UtsCvs19-2" value="数据准确性？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-1">
