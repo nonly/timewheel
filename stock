@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T16:13:25.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="coVEJEm4OjglfXnellFL" version="23.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-23T16:14:18.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="29NO7PR7ukQRgVp8CE1d" version="23.1.5" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1127" dy="1509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -272,12 +272,12 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-29" value="极速买入,&amp;gt;=100K" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-27">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-29" value="极速买入,&amp;gt;=100K" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-27">
           <mxGeometry x="60" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-30" value="+买入, &amp;gt;=100K" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-27">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-30" value="+买入, &amp;gt;=100K" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-27">
           <mxGeometry x="160" width="106" height="40" as="geometry">
             <mxRectangle width="106" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -287,7 +287,7 @@
             <mxRectangle width="106" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-47" value="+买入*权益金&amp;gt;=1M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-27">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-47" value="+买入*权益金&amp;gt;=1M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-27">
           <mxGeometry x="372" width="106" height="40" as="geometry">
             <mxRectangle width="106" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -323,7 +323,7 @@
         <mxCell id="aw2xVNhjCHg9UtsCvs19-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-26">
           <mxGeometry y="111" width="478.4734191894531" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-36" value="中期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-35">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-36" value="中期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-35">
           <mxGeometry width="60" height="79" as="geometry">
             <mxRectangle width="60" height="79" as="alternateBounds" />
           </mxGeometry>
@@ -379,7 +379,7 @@
         <mxCell id="aw2xVNhjCHg9UtsCvs19-43" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-26">
           <mxGeometry y="284" width="478.4734191894531" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-44" value="超长" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-43">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-44" value="超长" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-43">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
