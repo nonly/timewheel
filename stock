@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T16:14:18.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="29NO7PR7ukQRgVp8CE1d" version="23.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-23T16:15:11.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="EWRXat6ok-5Pdt9v-dnP" version="23.1.5" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1127" dy="1509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -255,10 +255,10 @@
         <mxCell id="aw2xVNhjCHg9UtsCvs19-1" value="自研-期权跟单法（行不通，只能作为选股的signal，无法作为买点signal）" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="617" y="302" width="674" height="415" as="geometry" />
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-2" value="数据准确性？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-1">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-2" value="数据准确性？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-1">
           <mxGeometry x="11" y="31" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-3" value="赚钱逻辑？- 跟着机构打单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-1">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-3" value="赚钱逻辑？- 跟着机构大单选股" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-1">
           <mxGeometry x="11" y="108" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aw2xVNhjCHg9UtsCvs19-26" value="NVDA - 未平仓量&gt;=1K" style="shape=table;startSize=32;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-1">
@@ -282,7 +282,7 @@
             <mxRectangle width="106" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-52" value="极速买入&amp;amp;权益金&amp;gt;=1M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-27">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-52" value="极速买入&amp;amp;权益金&amp;gt;=1M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#2D7600;overflow=hidden;fillColor=#60a917;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-27">
           <mxGeometry x="266" width="106" height="40" as="geometry">
             <mxRectangle width="106" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -404,7 +404,7 @@
             <mxRectangle width="106" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aw2xVNhjCHg9UtsCvs19-57" value="机构也不一定是对的；大单也有错的；关注极速买入+SWEEP+1M大单；" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-1">
+        <mxCell id="aw2xVNhjCHg9UtsCvs19-57" value="机构也不一定是对的；大单也有错的；关注极速买入+SWEEP+1M大单；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="aw2xVNhjCHg9UtsCvs19-1">
           <mxGeometry x="11" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
