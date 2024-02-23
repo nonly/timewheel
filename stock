@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T09:45:48.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Vvrcn5aXYBcJpFpLMaDW" version="23.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-23T09:50:14.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="SQgpNsb4YAWkCTh334zO" version="23.1.5" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1071" dy="1489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -202,8 +202,16 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="WdeTxWdvGrrDE82Gqrs9" name="How to earn money?">
+    <mxGraphModel dx="1071" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="Z2aIBYo-PSqu7gH0IQxu" name="stock list">
-    <mxGraphModel dx="1278" dy="1576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="1489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1164,55 +1172,55 @@
             <mxRectangle width="255" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="12P33xhxEBNRbPYeFPQx-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
           <mxGeometry y="695" width="1069.8863830566406" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry width="60" height="58" as="geometry">
             <mxRectangle width="60" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry x="60" width="60" height="58" as="geometry">
             <mxRectangle width="60" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry x="120" width="52" height="58" as="geometry">
             <mxRectangle width="52" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry x="172" width="68" height="58" as="geometry">
             <mxRectangle width="68" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry x="240" width="61" height="58" as="geometry">
             <mxRectangle width="61" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry x="301" width="61" height="58" as="geometry">
             <mxRectangle width="61" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry x="362" width="60" height="58" as="geometry">
             <mxRectangle width="60" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry x="422" width="88" height="58" as="geometry">
             <mxRectangle width="88" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry x="510" width="305" height="58" as="geometry">
             <mxRectangle width="305" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PI8ierVeVoaamWDe-jX-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="8PI8ierVeVoaamWDe-jX-1">
+        <mxCell id="8PI8ierVeVoaamWDe-jX-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
           <mxGeometry x="815" width="255" height="58" as="geometry">
             <mxRectangle width="255" height="58" as="alternateBounds" />
           </mxGeometry>
@@ -2658,7 +2666,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dAzKOq1Z-laMrzXJgP3E" name="市场周期论">
-    <mxGraphModel dx="3079" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2771" dy="389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3518,7 +3526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8HEuVMS3snwHu9irJYUt" name="美股AI基本面分析">
-    <mxGraphModel dx="1379" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3532,7 +3540,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uaXPwq2NSc6kcAN9NkS8" name="交易等级">
-    <mxGraphModel dx="1379" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3549,7 +3557,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
-    <mxGraphModel dx="1379" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="1489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
