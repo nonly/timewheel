@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T10:20:03.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="gv7YkonOlN4bWOwNtSFb" version="23.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-23T10:21:00.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="esBNZIp6Gn_I_eYixJQz" version="23.1.5" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1071" dy="1489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -206,21 +206,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WdeTxWdvGrrDE82Gqrs9" name="How to earn money?">
-    <mxGraphModel dx="619" dy="389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aLY_w_fWMo8V8T_eYucW-1" value="David方法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="85" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="aLY_w_fWMo8V8T_eYucW-2" value="地久天长方法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aLY_w_fWMo8V8T_eYucW-2" value="地久天长-龙头股方法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="85" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="aLY_w_fWMo8V8T_eYucW-3" value="叶子方法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="299" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="aLY_w_fWMo8V8T_eYucW-4" value="康康方法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aLY_w_fWMo8V8T_eYucW-4" value="康康-长短线方法" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="392" y="299" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aLY_w_fWMo8V8T_eYucW-5" value="地球哥-长短线方法" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="617" y="85" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
