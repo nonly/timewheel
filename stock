@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T10:37:32.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="wYBC3fWEqb8uSUcKtIPr" version="23.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-23T10:38:35.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="LfbmOQeYuR_y0Fcwb9YB" version="23.1.5" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="875" dy="1509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="7" y="83" width="456" height="83" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-3" value="20%（2小时/1小时/30分）抄底+蓝色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="912.99" y="829" width="153" height="56" as="geometry" />
+          <mxGeometry x="909.99" y="773" width="153" height="56" as="geometry" />
         </mxCell>
         <mxCell id="4-PwmHR9drd7Zptvlytu-4" value="40%（4小时/日线）抄底+钻蓝色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="861" y="941" width="252" height="56" as="geometry" />
@@ -197,10 +197,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mvq8p4kFGaJWg88-zBdi-2" value="30%（4小时/日线）回踩蓝色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="888" y="885" width="199" height="56" as="geometry" />
+          <mxGeometry x="885" y="829" width="199" height="56" as="geometry" />
         </mxCell>
         <mxCell id="mvq8p4kFGaJWg88-zBdi-3" value="10%（2小时/1小时/30分）回踩蓝色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="943.6199999999999" y="773" width="87.75" height="56" as="geometry" />
+          <mxGeometry x="940.6199999999999" y="717" width="87.75" height="56" as="geometry" />
         </mxCell>
         <mxCell id="jhC-Oz38TJ2h4or6X4e7-1" value="MARA 2月行情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1138" y="831" width="112" height="56" as="geometry" />
@@ -210,6 +210,12 @@
         </mxCell>
         <mxCell id="jhC-Oz38TJ2h4or6X4e7-4" value="SMCI 1月行情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1250" y="831" width="112" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="jhC-Oz38TJ2h4or6X4e7-5" value="COIN&amp;nbsp; 2月行情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1138" y="941" width="112" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="jhC-Oz38TJ2h4or6X4e7-6" value="30%（4小时/日线）钻蓝色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="884.99" y="885" width="199" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
