@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T10:19:39.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="sYIvJFqMspI6zEQfMGvX" version="23.1.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-24T10:25:02.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="bojiedJxmhZn2526iuSt" version="23.1.6" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="861" dy="1490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -527,7 +527,7 @@
         <mxCell id="12P33xhxEBNRbPYeFPQx-331" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
           <mxGeometry y="95" width="1069.8863830566406" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-117" value="10万亿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-117" value="GPU市场的领导地位、在人工智能和深度学习领域的技术创新，以及在数据中心和自动驾驶技术的长期增长潜力10万亿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
           <mxGeometry width="91" height="47" as="geometry">
             <mxRectangle width="91" height="47" as="alternateBounds" />
           </mxGeometry>
@@ -580,7 +580,7 @@
         <mxCell id="-sv_zkquqd6CutIyaG7F-69" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
           <mxGeometry y="142" width="1069.8863830566406" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-113" value="在AI应用推动下表现出色，股价大涨。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-113" value="随着AI应用需求增长，企业对高效能和节能服务器的需求不断增长。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
           <mxGeometry width="91" height="68" as="geometry">
             <mxRectangle width="91" height="68" as="alternateBounds" />
           </mxGeometry>
