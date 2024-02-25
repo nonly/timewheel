@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T09:18:42.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="fgeQaxxEXbNPAHQlMt7p" version="23.1.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-25T09:21:32.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="C7HvflNbokHqf4c7fxkj" version="23.1.6" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="939" dy="1426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
             <mxRectangle width="263" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mvq8p4kFGaJWg88-zBdi-2" value="25%（4小时/日线）抄底后，回踩蓝色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="mvq8p4kFGaJWg88-zBdi-2" value="25%（4小时/日线）蓝&amp;gt;黄，回踩蓝色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="896" y="829" width="176" height="56" as="geometry" />
         </mxCell>
         <mxCell id="mvq8p4kFGaJWg88-zBdi-3" value="10%（2小时/1小时/30分）抄底后，回踩蓝色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -231,6 +231,18 @@
         </mxCell>
         <mxCell id="oXvEqYshhAVdHwCSgUIM-1" value="CRM&amp;nbsp; CY2211" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1250" y="943" width="112" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oXvEqYshhAVdHwCSgUIM-2" value="&amp;nbsp;CY2302" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="831" width="112" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="oXvEqYshhAVdHwCSgUIM-3" value="只能做正股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="664" y="829" width="176" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="oXvEqYshhAVdHwCSgUIM-4" value="只能做正股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="664" y="885" width="176" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="oXvEqYshhAVdHwCSgUIM-5" value="只能做正股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="669" y="710" width="176" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
