@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T10:27:00.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="uiFmpll3FvF8RjJo42qV" version="23.1.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-25T10:27:55.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="jud1-7457efiLFPGXTkP" version="23.1.6" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1955" dy="1484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="SWJJTzRuUexJNL7H4vBf-2" value="仓位管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="9" y="174" width="831" height="357" as="geometry" />
         </mxCell>
-        <mxCell id="SWJJTzRuUexJNL7H4vBf-3" value="美股 69%" style="swimlane;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-2" vertex="1">
+        <mxCell id="SWJJTzRuUexJNL7H4vBf-3" value="美股 70%" style="swimlane;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-2" vertex="1">
           <mxGeometry x="5" y="31" width="475" height="184" as="geometry" />
         </mxCell>
         <mxCell id="qEjpMvw4PonDgoeP3QfY-7" value="做多（仓位10%）" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="SWJJTzRuUexJNL7H4vBf-3" vertex="1">
@@ -54,7 +54,7 @@
         <mxCell id="qEjpMvw4PonDgoeP3QfY-11" value="TSLA" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-12" vertex="1">
           <mxGeometry x="7" y="86.5" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="SWJJTzRuUexJNL7H4vBf-5" value="A股 0%" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="SWJJTzRuUexJNL7H4vBf-2" vertex="1">
+        <mxCell id="SWJJTzRuUexJNL7H4vBf-5" value="A股 10%" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="SWJJTzRuUexJNL7H4vBf-2" vertex="1">
           <mxGeometry x="650" y="127" width="173" height="87" as="geometry" />
         </mxCell>
         <mxCell id="8wanhIGsnsYKpiLI0MyL-26" value="纳斯达克ETF" style="rounded=0;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-5" vertex="1">
@@ -63,7 +63,7 @@
         <mxCell id="i1_vgzLtSynaj-Y2RqXo-1" value="赛力斯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SWJJTzRuUexJNL7H4vBf-5">
           <mxGeometry x="91" y="33" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="SWJJTzRuUexJNL7H4vBf-4" value="中概 20%" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="SWJJTzRuUexJNL7H4vBf-2" vertex="1">
+        <mxCell id="SWJJTzRuUexJNL7H4vBf-4" value="中概 10%" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="SWJJTzRuUexJNL7H4vBf-2" vertex="1">
           <mxGeometry x="486" y="31" width="337" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8wanhIGsnsYKpiLI0MyL-27" value="拼多多" style="rounded=0;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-4" vertex="1">
