@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T10:24:40.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="iO0wSisiLbcIqLTCbRb2" version="23.1.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-25T10:27:00.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="uiFmpll3FvF8RjJo42qV" version="23.1.6" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="1105" dy="1484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,37 +22,37 @@
         <mxCell id="SWJJTzRuUexJNL7H4vBf-3" value="美股 69%" style="swimlane;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-2" vertex="1">
           <mxGeometry x="5" y="31" width="475" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-7" value="美股巨头（仓位10%）" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="SWJJTzRuUexJNL7H4vBf-3" vertex="1">
-          <mxGeometry x="6" y="33" width="179" height="137" as="geometry">
+        <mxCell id="qEjpMvw4PonDgoeP3QfY-7" value="做多（仓位10%）" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="SWJJTzRuUexJNL7H4vBf-3" vertex="1">
+          <mxGeometry x="6" y="33" width="277" height="137" as="geometry">
             <mxRectangle x="6" y="33" width="83" height="26" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-8" value="MSFT" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
-          <mxGeometry x="3" y="32" width="79" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-9" value="META" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
-          <mxGeometry x="3" y="83" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qEjpMvw4PonDgoeP3QfY-10" value="NVDA" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
           <mxGeometry x="95" y="32" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-11" value="AMD" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
-          <mxGeometry x="95" y="83" width="79" height="41" as="geometry" />
+        <mxCell id="qEjpMvw4PonDgoeP3QfY-4" value="SMCI" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
+          <mxGeometry x="3" y="85" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-12" value="潜力股票（仓位10%）" style="swimlane;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-3" vertex="1">
-          <mxGeometry x="193" y="33" width="174" height="136" as="geometry" />
+        <mxCell id="qK1XgH-Dm6hCDFiqjZ2y-1" value="MARA" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
+          <mxGeometry x="3" y="32" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-4" value="SMCI" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-12" vertex="1">
-          <mxGeometry x="6" y="32" width="79" height="41" as="geometry" />
+        <mxCell id="qEjpMvw4PonDgoeP3QfY-8" value="MSFT" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
+          <mxGeometry x="95" y="85" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-13" value="VRT" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-12" vertex="1">
-          <mxGeometry x="91" y="32" width="79" height="41" as="geometry" />
+        <mxCell id="qEjpMvw4PonDgoeP3QfY-13" value="DIS" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
+          <mxGeometry x="186" y="32" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qK1XgH-Dm6hCDFiqjZ2y-1" value="MARA" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-12" vertex="1">
-          <mxGeometry x="6" y="87" width="79" height="41" as="geometry" />
+        <mxCell id="i1_vgzLtSynaj-Y2RqXo-2" value="CCL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qEjpMvw4PonDgoeP3QfY-7">
+          <mxGeometry x="186" y="85" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-2" value="指数ETF" style="rounded=0;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-3" vertex="1">
-          <mxGeometry x="380" y="33" width="79" height="41" as="geometry" />
+        <mxCell id="qEjpMvw4PonDgoeP3QfY-12" value="做空股票（仓位10%）" style="swimlane;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-3" vertex="1">
+          <mxGeometry x="293" y="34" width="174" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="qEjpMvw4PonDgoeP3QfY-9" value="META" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-12" vertex="1">
+          <mxGeometry x="7" y="30" width="79" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="qEjpMvw4PonDgoeP3QfY-11" value="TSLA" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-12" vertex="1">
+          <mxGeometry x="7" y="86.5" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="SWJJTzRuUexJNL7H4vBf-5" value="A股 0%" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="SWJJTzRuUexJNL7H4vBf-2" vertex="1">
           <mxGeometry x="650" y="127" width="173" height="87" as="geometry" />
@@ -246,6 +246,9 @@
         </mxCell>
         <mxCell id="oXvEqYshhAVdHwCSgUIM-5" value="只能做正股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="664" y="710" width="176" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="qEjpMvw4PonDgoeP3QfY-2" value="指数ETF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-174" y="383" width="79" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
