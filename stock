@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T13:12:58.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="01Mpzjri-oz6HYTtAjFp" version="23.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-27T13:42:21.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="SXMuRGE6VqiZKr-kqy74" version="23.1.5" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="1938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -93,8 +93,8 @@
         <mxCell id="XXeC2O2tCGGckf-N8Io3-1" value="末日期权 玩不了" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="13" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XXeC2O2tCGGckf-N8Io3-2" value="Soun 妖股玩不了，为啥没有加到自己的backlog里面，错过50%涨幅？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="13" y="618" width="534" height="60" as="geometry" />
+        <mxCell id="XXeC2O2tCGGckf-N8Io3-2" value="Soun 妖股玩不了，为啥没有加到自己的backlog里面，错过50%涨幅？- 对小盘股不放心，但是你有蓝色梯子呀，怕啥？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="13" y="618" width="662" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XXeC2O2tCGGckf-N8Io3-3" value="profit/loss picture till 2/11/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1127" y="13" width="205" height="30" as="geometry" />
