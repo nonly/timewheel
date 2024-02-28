@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T10:10:54.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="IL01c3XgSBBQHElLWpEw" version="23.1.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-28T12:26:39.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Ag-MdLksbAKxoXftYD7y" version="23.1.6" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="1379" dy="1938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="1455" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
         <mxCell id="qEjpMvw4PonDgoeP3QfY-4" value="SMCI" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
           <mxGeometry x="3" y="85" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qK1XgH-Dm6hCDFiqjZ2y-1" value="MARA" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
+        <mxCell id="qK1XgH-Dm6hCDFiqjZ2y-1" value="CLSK" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
           <mxGeometry x="3" y="32" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qEjpMvw4PonDgoeP3QfY-8" value="MSFT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
