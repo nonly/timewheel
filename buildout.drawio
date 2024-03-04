@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T11:59:55.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="UEjqoZwIRz_iy7KwuFCW" version="24.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-04T12:03:01.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="l5Q8svZ1fy2s72nRSkUp" version="24.0.1" type="github" pages="8">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1798" dy="175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2467,7 +2467,7 @@
         <mxCell id="nhFkO93609jCBAf3iY5T-20" value="Compute and Service config prepare and update (16 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="557" y="598" width="113" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-21" value="12. Update service dependency config and rebuild/deploy during test (3 days) &lt;b&gt;-&amp;gt; (1 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-21" value="12. Update service dependency config and rebuild/deploy during test (3 days)&lt;b&gt; -&amp;gt; (1 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="545" y="157" width="120" height="104" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-22" value="10. Update service local config and rebuild/deploy during test (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
