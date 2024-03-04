@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T11:43:46.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="dPtdH-8YLKPx1uqb3zyW" version="24.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-04T11:44:38.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Gd0yLOe-mFFTw_pt6Thq" version="24.0.1" type="github" pages="8">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1798" dy="175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2453,7 +2453,7 @@
           <mxGeometry x="550" y="-116" width="120" height="74" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-15" value="17. collect dependency service buildout completion signal (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="870" y="356" width="120" height="155" as="geometry" />
+          <mxGeometry x="870" y="441" width="120" height="89" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-16" value="11. Service local config prepare (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="550" y="99" width="120" height="62" as="geometry" />
@@ -2504,7 +2504,7 @@
           <mxGeometry x="680" y="696" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-35" value="18. notify service&#39;s buildout completion signal to others (1 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="870" y="512" width="120" height="63" as="geometry" />
+          <mxGeometry x="870" y="530" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-36" value="Not in scope" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="826" y="696" width="120" height="60" as="geometry" />
