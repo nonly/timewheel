@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T15:47:52.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="BR_Ewh7GNvjMi9aLfdjS" version="23.1.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-04T16:35:11.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="3mqcdlkITEYujHg2m8lo" version="23.1.7" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1798" dy="2125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -479,8 +479,14 @@
         <mxCell id="qHKnVUWwS6zztOAGTuv2-4" value="回落10%减半仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="qHKnVUWwS6zztOAGTuv2-2">
           <mxGeometry x="21" y="114" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qHKnVUWwS6zztOAGTuv2-5" value="蓝色梯子反弹法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qHKnVUWwS6zztOAGTuv2-5" value="蓝色梯子超跌反弹法（U）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1087" y="87" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qHKnVUWwS6zztOAGTuv2-6" value="选黄色梯子是压力的级别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qHKnVUWwS6zztOAGTuv2-5">
+          <mxGeometry x="19" y="28" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHKnVUWwS6zztOAGTuv2-7" value="压力确认2次后，抄底+快速钻蓝色梯子为佳" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qHKnVUWwS6zztOAGTuv2-5">
+          <mxGeometry x="21.5" y="99" width="157" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
