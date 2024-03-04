@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T13:46:22.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="FmfJfkZHwKaq2Tpcf3bA" version="23.1.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-04T05:02:05.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="7RaaO311TeAjJQ5xFob-" version="24.0.1" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="740" dy="1455" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1798" dy="2125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WdeTxWdvGrrDE82Gqrs9" name="How to earn money?">
-    <mxGraphModel dx="1138" dy="1646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1798" dy="2125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,20 +431,32 @@
         <mxCell id="dJtvpFZVgvFk0XaL-dHe-3" value="Mara 做T" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="852" y="85" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="EPWxXKe5M-rq8EsN4P1d-1" value="知乎牛马线" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EPWxXKe5M-rq8EsN4P1d-1" value="知乎牛马线" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="-119" width="426" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="EPWxXKe5M-rq8EsN4P1d-2" value="先大盘-&amp;gt;周线-&amp;gt;日线，周线需要升浪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EPWxXKe5M-rq8EsN4P1d-1">
+        <mxCell id="EPWxXKe5M-rq8EsN4P1d-2" value="先大盘-&amp;gt;周线-&amp;gt;日线，周线需要升浪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="EPWxXKe5M-rq8EsN4P1d-1" vertex="1">
           <mxGeometry x="9" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EPWxXKe5M-rq8EsN4P1d-3" value="个股日线，1）最好买在强势突破牛马线；2）次之买在会踩点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EPWxXKe5M-rq8EsN4P1d-1">
+        <mxCell id="EPWxXKe5M-rq8EsN4P1d-3" value="个股日线，1）最好买在强势突破牛马线；2）次之买在会踩点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="EPWxXKe5M-rq8EsN4P1d-1" vertex="1">
           <mxGeometry x="11" y="106" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EPWxXKe5M-rq8EsN4P1d-4" value="止损看ATR止损线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EPWxXKe5M-rq8EsN4P1d-1">
+        <mxCell id="EPWxXKe5M-rq8EsN4P1d-4" value="止损看ATR止损线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="EPWxXKe5M-rq8EsN4P1d-1" vertex="1">
           <mxGeometry x="145" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EPWxXKe5M-rq8EsN4P1d-5" value="强势票，主升浪后会立马开启第二浪；弱势票，会休息一个周期在开启第二轮；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EPWxXKe5M-rq8EsN4P1d-1">
+        <mxCell id="EPWxXKe5M-rq8EsN4P1d-5" value="强势票，主升浪后会立马开启第二浪；弱势票，会休息一个周期在开启第二轮；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="EPWxXKe5M-rq8EsN4P1d-1" vertex="1">
           <mxGeometry x="148" y="108" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWyF4yG6eBH3n6y-nW_I-1" value="美团 做T" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1087" y="85" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="JWyF4yG6eBH3n6y-nW_I-2" value="下午2点，看5分钟期权，出现抄底+站上黄色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JWyF4yG6eBH3n6y-nW_I-1">
+          <mxGeometry x="18" y="81" width="161" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="JWyF4yG6eBH3n6y-nW_I-4" value="HSI和美团 - 3H没有跌势" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JWyF4yG6eBH3n6y-nW_I-1">
+          <mxGeometry x="19.5" y="27" width="161" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="JWyF4yG6eBH3n6y-nW_I-5" value="40%止损" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JWyF4yG6eBH3n6y-nW_I-1">
+          <mxGeometry x="16" y="138" width="161" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
