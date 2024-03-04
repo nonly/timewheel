@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T11:45:27.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="nj8My2Tma3rVIPKHSdrj" version="24.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-04T11:47:04.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="1E53yQfExZg-uA9DqJSK" version="24.0.1" type="github" pages="8">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1798" dy="175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2480,12 +2480,12 @@
           <mxGeometry x="703" y="521" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-27" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;1 is in non compute region agnostic scope&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;2 - 7 are in non compute automation tools scope&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;9 is in library region agnostic scope&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;10 and 11 are in service local ECS scope&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;12 and 13, 14 are in service global scope.&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;16 is in VF scope&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;17 and 18 are in BOC/DTS scope&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-329" y="436" width="530" height="30" as="geometry" />
+          <mxGeometry x="-99" y="173" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-29" value="total (45 days) =&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="596" width="94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-30" value="IC3 has concern" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-30" value="IC3 has concern for region agnostic solution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="213" y="696" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
