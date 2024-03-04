@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T05:02:05.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="7RaaO311TeAjJQ5xFob-" version="24.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-04T05:02:23.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="BoxZqXPV8ZNTpGOboFH5" version="24.0.1" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1798" dy="2125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
         <mxCell id="JWyF4yG6eBH3n6y-nW_I-4" value="HSI和美团 - 3H没有跌势" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JWyF4yG6eBH3n6y-nW_I-1">
           <mxGeometry x="19.5" y="27" width="161" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="JWyF4yG6eBH3n6y-nW_I-5" value="40%止损" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JWyF4yG6eBH3n6y-nW_I-1">
+        <mxCell id="JWyF4yG6eBH3n6y-nW_I-5" value="40%止损，看5分钟梯子止盈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JWyF4yG6eBH3n6y-nW_I-1">
           <mxGeometry x="16" y="138" width="161" height="44" as="geometry" />
         </mxCell>
       </root>
