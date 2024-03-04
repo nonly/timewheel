@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T10:53:24.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="XQ47k1vQ1sjHovdFZfto" version="24.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-04T10:59:27.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="iKW1f9ppu4ZGKd3kGBot" version="24.0.1" type="github" pages="8">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1798" dy="175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2435,10 +2435,10 @@
           <mxGeometry x="386" y="183" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-8" value="14. Geneva synthetic provision (5 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="708" y="304" width="120" height="217" as="geometry" />
+          <mxGeometry x="703" y="258" width="120" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-9" value="13. Service dependency config preparation via wiki, email and chat group (8 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="559" y="240" width="120" height="330" as="geometry" />
+        <mxCell id="nhFkO93609jCBAf3iY5T-9" value="13. Service dependency config preparation via wiki, email and chat group (7 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="559" y="268" width="120" height="302" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-10" value="3. AAD provision (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="386" y="10" width="120" height="86" as="geometry" />
@@ -2453,37 +2453,40 @@
           <mxGeometry x="360" y="598" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-14" value="8. COSMIC onboarding (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="559" y="-139" width="120" height="74" as="geometry" />
+          <mxGeometry x="559" y="-113" width="120" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-15" value="16. Schedule buildout among IC3 services - wait for dependency buildout to complete (2.5 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-15" value="17. Schedule buildout among IC3 services - wait for dependency buildout to complete (3 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="872" y="415" width="120" height="155" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-16" value="11. Service local config prepare (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="559" y="76" width="120" height="62" as="geometry" />
+          <mxGeometry x="559" y="102" width="120" height="62" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-17" value="Buildout/validation dependency schedule (3 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="855" y="596" width="172" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-19" value="Test (5 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-19" value="Test (7 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="703" y="598" width="113" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-20" value="Compute and Service config prepare and update (17 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-20" value="Compute and Service config prepare and update (16 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="557" y="598" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-21" value="12. Update service dependency config effort during test (3 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="559" y="138" width="120" height="104" as="geometry" />
+          <mxGeometry x="559" y="164" width="120" height="104" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-22" value="10. Update service local config effort during test (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="559" y="14" width="120" height="62" as="geometry" />
+          <mxGeometry x="559" y="40" width="120" height="62" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-23" value="9. Shared library update (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="559" y="-65" width="120" height="79" as="geometry" />
+          <mxGeometry x="559" y="-39" width="120" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-24" value="15. Schedule validation among IC3 services (0.5 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="708" y="521" width="120" height="49" as="geometry" />
+        <mxCell id="nhFkO93609jCBAf3iY5T-24" value="15. Schedule validation among IC3 services (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="703" y="472" width="120" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-27" value="&lt;div&gt;1 is in non compute region agnostic scope&lt;/div&gt;&lt;div&gt;2 - 7 are in non compute automation tools scope&lt;/div&gt;&lt;div&gt;9 is in library region agnostic scope&lt;/div&gt;&lt;div&gt;10 and 11 are in service local ECS scope&lt;/div&gt;12 and 13 are in service global scope.&lt;div&gt;15 is in VF scope&lt;/div&gt;&lt;div&gt;16 is in BOC/DTS scope&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-27" value="&lt;div&gt;1 is in non compute region agnostic scope&lt;/div&gt;&lt;div&gt;2 - 7 are in non compute automation tools scope&lt;/div&gt;&lt;div&gt;9 is in library region agnostic scope&lt;/div&gt;&lt;div&gt;10 and 11 are in service local ECS scope&lt;/div&gt;12 and 13 are in service global scope.&lt;div&gt;15 and 16 are in VF scope&lt;/div&gt;&lt;div&gt;17 is in BOC/DTS scope&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="266" width="366" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nhFkO93609jCBAf3iY5T-28" value="16. prepare test configs for new cloud (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="703" y="521" width="120" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
