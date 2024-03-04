@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T15:21:41.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="6Ii7GMJVqZcATQbyCQ2h" version="23.1.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-04T15:42:05.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="ffAjfFfEBTXuJqvc2p73" version="23.1.7" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1798" dy="2125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -468,7 +468,7 @@
           <mxGeometry x="160" y="521" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Ncm27wegzcbJx38RYS9C-5" value="DIS协同战法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="521" width="200" height="341" as="geometry" />
+          <mxGeometry x="389" y="521" width="200" height="254" as="geometry" />
         </mxCell>
         <mxCell id="Ncm27wegzcbJx38RYS9C-6" value="日线 蓝色&amp;nbsp; &amp;gt; 黄色" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Ncm27wegzcbJx38RYS9C-5">
           <mxGeometry x="16" y="31" width="120" height="60" as="geometry" />
@@ -478,6 +478,15 @@
         </mxCell>
         <mxCell id="qHKnVUWwS6zztOAGTuv2-1" value="卖出：30分钟蓝色梯子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Ncm27wegzcbJx38RYS9C-5">
           <mxGeometry x="16" y="181" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHKnVUWwS6zztOAGTuv2-2" value="地球哥右侧战法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="81" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qHKnVUWwS6zztOAGTuv2-3" value="新高买入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qHKnVUWwS6zztOAGTuv2-2">
+          <mxGeometry x="19" y="33" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHKnVUWwS6zztOAGTuv2-4" value="回落10%减半仓" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qHKnVUWwS6zztOAGTuv2-2">
+          <mxGeometry x="21" y="114" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
