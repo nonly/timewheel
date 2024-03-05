@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T14:05:49.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="696HNCFeFxC2cTFR1Slz" version="24.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-05T14:12:08.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="9-rG8Fn1K4cJjZwkjoEQ" version="24.0.1" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="1938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -561,7 +561,7 @@
             <mxRectangle width="81" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RucERruqQGH7UAjCKnzY-10" value="黄色梯子作用不明显;震荡走势；&lt;b&gt;下跌30%以上的&lt;/b&gt;，4H抄底+站稳蓝色梯子有用；3/5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="RucERruqQGH7UAjCKnzY-1">
+        <mxCell id="RucERruqQGH7UAjCKnzY-10" value="1. 黄色梯子作用不明显;震荡走势；&lt;b&gt;下跌30%以上的&lt;/b&gt;，4H抄底+站稳蓝色梯子有用；&lt;div&gt;2. 周线出抄底提示了，3/5&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="RucERruqQGH7UAjCKnzY-1">
           <mxGeometry x="348" width="441" height="68" as="geometry">
             <mxRectangle width="441" height="68" as="alternateBounds" />
           </mxGeometry>
