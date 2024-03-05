@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T12:58:49.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="FOC4-9UHLRzPHScUaLMl" version="24.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-05T13:31:30.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="8gAvn4SAhf5qxpUsx1yf" version="24.0.1" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="1938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -431,7 +431,7 @@
         <mxCell id="dJtvpFZVgvFk0XaL-dHe-3" value="Mara 做T" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="852" y="85" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="vYHh5uelYFB4vhiVlPH8-1" value="每次4%买入，最多买入三次；卖出一半或者4%；仓位在2% - 12%之间；" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dJtvpFZVgvFk0XaL-dHe-3">
+        <mxCell id="vYHh5uelYFB4vhiVlPH8-1" value="30分钟，震荡时做T；围绕蓝色梯子做T；" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dJtvpFZVgvFk0XaL-dHe-3">
           <mxGeometry x="21" y="32" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EPWxXKe5M-rq8EsN4P1d-1" value="知乎牛马线" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -513,7 +513,7 @@
             <mxRectangle width="132" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-85" value="MARA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-85" value="MARA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
           <mxGeometry x="132" width="72" height="68" as="geometry">
             <mxRectangle width="72" height="68" as="alternateBounds" />
           </mxGeometry>
@@ -528,12 +528,12 @@
             <mxRectangle width="81" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-26" value="1. 日线黄色梯子强力；，蓝黄贴合更加强力；1）常年被黄色梯子欺负，&lt;span style=&quot;background-color: initial;&quot;&gt;暴力反弹只到黄色梯子；2）蓝色梯子长期欺负的抄底才有效；3/5&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-26" value="1. 日线黄色梯子强力；，蓝黄贴合更加强力；1）常年被黄色梯子欺负，&lt;span style=&quot;background-color: initial;&quot;&gt;暴力反弹只到黄色梯子；2）蓝色梯子长期欺负的抄底才有效；3/5&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
           <mxGeometry x="348" width="441" height="68" as="geometry">
             <mxRectangle width="441" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-298" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-298" value="（2）好好挖掘，震荡做T，做空和做多" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
           <mxGeometry x="789" width="175" height="68" as="geometry">
             <mxRectangle width="175" height="68" as="alternateBounds" />
           </mxGeometry>
