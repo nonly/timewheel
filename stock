@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T15:26:20.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="dxDgegRANLCbx8ONoqtz" version="24.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-06T15:39:48.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="pikXVuiOhpc0IMy6t6kk" version="24.0.2" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -549,7 +549,7 @@
             <mxRectangle width="84" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-26" value="1. 日线黄色梯子强力；，蓝黄贴合更加强力；1）常年被黄色梯子欺负，&lt;span style=&quot;background-color: initial;&quot;&gt;暴力反弹只到黄色梯子；2）蓝色梯子长期欺负的抄底才有效；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 3分钟快速钻蓝色梯子很准（钻出黄色或者离黄色很远），3/5&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-26" value="1. 日线黄色梯子强力；，蓝黄贴合更加强力；1）常年被黄色梯子欺负，&lt;span style=&quot;background-color: initial;&quot;&gt;暴力反弹只到黄色梯子；2）蓝色梯子长期欺负的抄底才有效；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 3分钟快速钻蓝色梯子很准（钻出黄色或者离黄色很远），3/5&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
           <mxGeometry x="351" width="438" height="68" as="geometry">
             <mxRectangle width="438" height="68" as="alternateBounds" />
           </mxGeometry>
