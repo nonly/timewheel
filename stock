@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T13:05:46.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="9xVvxdMaHkmsG1ung8at" version="24.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-06T13:54:34.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="FKuX_j7OOAMVafcvpqot" version="24.0.2" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -479,13 +479,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-4" value="级别" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-2" vertex="1">
-          <mxGeometry x="267" width="81" height="49" as="geometry">
-            <mxRectangle width="81" height="49" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="49" as="geometry">
+            <mxRectangle width="84" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-8" value="备注" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-2" vertex="1">
-          <mxGeometry x="348" width="441" height="49" as="geometry">
-            <mxRectangle width="441" height="49" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="49" as="geometry">
+            <mxRectangle width="438" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-296" value="（序号）计划" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-2" vertex="1">
@@ -512,13 +512,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-22" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
-          <mxGeometry x="267" width="81" height="68" as="geometry">
-            <mxRectangle width="81" height="68" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="68" as="geometry">
+            <mxRectangle width="84" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-26" value="1. 日线黄色梯子强力；，蓝黄贴合更加强力；1）常年被黄色梯子欺负，&lt;span style=&quot;background-color: initial;&quot;&gt;暴力反弹只到黄色梯子；2）蓝色梯子长期欺负的抄底才有效；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 3分钟快速钻蓝色梯子很准（钻出黄色或者离黄色很远），3/5&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
-          <mxGeometry x="348" width="441" height="68" as="geometry">
-            <mxRectangle width="441" height="68" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="68" as="geometry">
+            <mxRectangle width="438" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-298" value="（2）好好挖掘，震荡做T，做空和做多" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
@@ -545,13 +545,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RucERruqQGH7UAjCKnzY-8" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
-          <mxGeometry x="267" width="81" height="68" as="geometry">
-            <mxRectangle width="81" height="68" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="68" as="geometry">
+            <mxRectangle width="84" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RucERruqQGH7UAjCKnzY-10" value="1. 黄色梯子作用不明显;震荡走势；&lt;b&gt;下跌30%以上的&lt;/b&gt;，4H抄底+站稳蓝色梯子有用；&lt;div&gt;2. 周线出抄底提示了，3/5&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
-          <mxGeometry x="348" width="441" height="68" as="geometry">
-            <mxRectangle width="441" height="68" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="68" as="geometry">
+            <mxRectangle width="438" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RucERruqQGH7UAjCKnzY-11" value="（1）等下次4H抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
@@ -567,7 +567,7 @@
             <mxRectangle width="132" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-71" value="SMCI" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-71" value="SMCI" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
           <mxGeometry x="132" width="72" height="68" as="geometry">
             <mxRectangle width="72" height="68" as="alternateBounds" />
           </mxGeometry>
@@ -578,16 +578,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-75" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
-          <mxGeometry x="267" width="81" height="68" as="geometry">
-            <mxRectangle width="81" height="68" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="68" as="geometry">
+            <mxRectangle width="84" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-77" value="4H回踩蓝色梯子，看5分钟找买点" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
-          <mxGeometry x="348" width="441" height="68" as="geometry">
-            <mxRectangle width="441" height="68" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="68" as="geometry">
+            <mxRectangle width="438" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-78" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-78" value="（3） 等待4H回踩" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
           <mxGeometry x="789" width="175" height="68" as="geometry">
             <mxRectangle width="175" height="68" as="alternateBounds" />
           </mxGeometry>
@@ -600,7 +600,7 @@
             <mxRectangle width="132" height="84" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-333" value="NVDA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-333" value="NVDA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
           <mxGeometry x="132" width="72" height="84" as="geometry">
             <mxRectangle width="72" height="84" as="alternateBounds" />
           </mxGeometry>
@@ -611,16 +611,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-336" value="4H, D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
-          <mxGeometry x="267" width="81" height="84" as="geometry">
-            <mxRectangle width="81" height="84" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="84" as="geometry">
+            <mxRectangle width="84" height="84" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-338" value="4H提示的很准，曾经的几倍的大机会，思考如何寻找这种级别的机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
-          <mxGeometry x="348" width="441" height="84" as="geometry">
-            <mxRectangle width="441" height="84" as="alternateBounds" />
+        <mxCell id="12P33xhxEBNRbPYeFPQx-338" value="1）4H提示的很准，10月底买入的，不破蓝色梯子下边缘不卖出&lt;div&gt;2）去年1月买入的，蓝色&amp;gt;黄色不卖出&lt;/div&gt;&lt;div&gt;3）正股追高或者追long call的，看30分钟蓝色梯子&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+          <mxGeometry x="351" width="438" height="84" as="geometry">
+            <mxRectangle width="438" height="84" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-339" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-339" value="(4)不好入场了，只能long call追高" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
           <mxGeometry x="789" width="175" height="84" as="geometry">
             <mxRectangle width="175" height="84" as="alternateBounds" />
           </mxGeometry>
@@ -633,7 +633,7 @@
             <mxRectangle width="132" height="65" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-141" value="TSLA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-141" value="TSLA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
           <mxGeometry x="132" width="72" height="65" as="geometry">
             <mxRectangle width="72" height="65" as="alternateBounds" />
           </mxGeometry>
@@ -644,16 +644,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-144" value="1H，2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
-          <mxGeometry x="267" width="81" height="65" as="geometry">
-            <mxRectangle width="81" height="65" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="65" as="geometry">
+            <mxRectangle width="84" height="65" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-146" value="2小时梯子，钻上蓝色梯子视为清空做空；蓝&amp;gt;黄，视为主升浪；&lt;br&gt;2小时卖出+跌破蓝色梯子=做空&lt;br&gt;日线提示卖出 &amp;amp; 非主升浪 =做空" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
-          <mxGeometry x="348" width="441" height="65" as="geometry">
-            <mxRectangle width="441" height="65" as="alternateBounds" />
+        <mxCell id="12P33xhxEBNRbPYeFPQx-146" value="2小时梯子，钻上蓝色梯子视为清空做空；蓝&amp;gt;黄，视为主升浪；黄色梯子多空分水岭；&lt;br&gt;2小时卖出+跌破蓝色梯子=做空&lt;br&gt;日线提示卖出 &amp;amp; 非主升浪 =做空" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+          <mxGeometry x="351" width="438" height="65" as="geometry">
+            <mxRectangle width="438" height="65" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-316" value="观察近期的反弹机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-316" value="（5）观察近期的反弹机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
           <mxGeometry x="789" width="175" height="65" as="geometry">
             <mxRectangle width="175" height="65" as="alternateBounds" />
           </mxGeometry>
@@ -666,7 +666,7 @@
             <mxRectangle width="132" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-218" value="PDD" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-218" value="PDD" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
           <mxGeometry x="132" width="72" height="64" as="geometry">
             <mxRectangle width="72" height="64" as="alternateBounds" />
           </mxGeometry>
@@ -676,17 +676,17 @@
             <mxRectangle width="63" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-221" value="D, 4H,1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
-          <mxGeometry x="267" width="81" height="64" as="geometry">
-            <mxRectangle width="81" height="64" as="alternateBounds" />
+        <mxCell id="12P33xhxEBNRbPYeFPQx-221" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
+          <mxGeometry x="267" width="84" height="64" as="geometry">
+            <mxRectangle width="84" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-223" value="没有明显抄底提示，蓝色&amp;gt;黄色梯子，视为做多；长线思维，不断做T；&lt;br&gt;站在蓝色梯子即可买入，ATR/-10%视为卖出位置；需要钻研做T的方法，类似NIO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
-          <mxGeometry x="348" width="441" height="64" as="geometry">
-            <mxRectangle width="441" height="64" as="alternateBounds" />
+        <mxCell id="12P33xhxEBNRbPYeFPQx-223" value="4H黄色梯子多空分水岭；等待4H抄底提示，按照甜点理论，又一波主跌浪" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
+          <mxGeometry x="351" width="438" height="64" as="geometry">
+            <mxRectangle width="438" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-305" value="关注站稳黄色梯子开启二次进攻；长线止损位置120；分批买入，每次4%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-305" value="（6）等待4H抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
           <mxGeometry x="789" width="175" height="64" as="geometry">
             <mxRectangle width="175" height="64" as="alternateBounds" />
           </mxGeometry>
@@ -699,7 +699,7 @@
             <mxRectangle width="132" height="93" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-15" value="赛力斯" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-12" vertex="1">
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-15" value="赛力斯" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-12" vertex="1">
           <mxGeometry x="132" width="72" height="93" as="geometry">
             <mxRectangle width="72" height="93" as="alternateBounds" />
           </mxGeometry>
@@ -710,16 +710,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_wnwlGk6JsTbuT60Q1vu-19" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-12" vertex="1">
-          <mxGeometry x="267" width="81" height="93" as="geometry">
-            <mxRectangle width="81" height="93" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="93" as="geometry">
+            <mxRectangle width="84" height="93" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-12" vertex="1">
-          <mxGeometry x="348" width="441" height="93" as="geometry">
-            <mxRectangle width="441" height="93" as="alternateBounds" />
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-21" value="4H很准，A股里面难得的强势股票，起来都不回调的；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-12" vertex="1">
+          <mxGeometry x="351" width="438" height="93" as="geometry">
+            <mxRectangle width="438" height="93" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-12" vertex="1">
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-22" value="（7）等待砸下来" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-12" vertex="1">
           <mxGeometry x="789" width="175" height="93" as="geometry">
             <mxRectangle width="175" height="93" as="alternateBounds" />
           </mxGeometry>
@@ -743,16 +743,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-13" value="2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-11" vertex="1">
-          <mxGeometry x="267" width="81" height="40" as="geometry">
-            <mxRectangle width="81" height="40" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="40" as="geometry">
+            <mxRectangle width="84" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-17" value="反转机会，3/21 ~ 10/23的熊市，盈利好转，开启日级别的右侧机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-11" vertex="1">
-          <mxGeometry x="348" width="441" height="40" as="geometry">
-            <mxRectangle width="441" height="40" as="alternateBounds" />
+        <mxCell id="12P33xhxEBNRbPYeFPQx-17" value="日线甜点时刻 on 3/6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-11" vertex="1">
+          <mxGeometry x="351" width="438" height="40" as="geometry">
+            <mxRectangle width="438" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-297" value="关注2H回踩的机会，底部已经走出来了；(失败，等待4H)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-11" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-297" value="（8）关注2H回踩的机会，底部已经走出来了；(失败，等待4H)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-11" vertex="1">
           <mxGeometry x="789" width="175" height="40" as="geometry">
             <mxRectangle width="175" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -765,7 +765,7 @@
             <mxRectangle width="132" height="105" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-324" value="MSFT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-324" value="MSFT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
           <mxGeometry x="132" width="72" height="105" as="geometry">
             <mxRectangle width="72" height="105" as="alternateBounds" />
           </mxGeometry>
@@ -775,17 +775,17 @@
             <mxRectangle width="63" height="105" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-327" value="4H, D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
-          <mxGeometry x="267" width="81" height="105" as="geometry">
-            <mxRectangle width="81" height="105" as="alternateBounds" />
+        <mxCell id="12P33xhxEBNRbPYeFPQx-327" value="4H, D,15min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+          <mxGeometry x="267" width="84" height="105" as="geometry">
+            <mxRectangle width="84" height="105" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-329" value="等待大级别的日线抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
-          <mxGeometry x="348" width="441" height="105" as="geometry">
-            <mxRectangle width="441" height="105" as="alternateBounds" />
+        <mxCell id="12P33xhxEBNRbPYeFPQx-329" value="等待4H抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+          <mxGeometry x="351" width="438" height="105" as="geometry">
+            <mxRectangle width="438" height="105" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-330" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-330" value="（9）等大机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
           <mxGeometry x="789" width="175" height="105" as="geometry">
             <mxRectangle width="175" height="105" as="alternateBounds" />
           </mxGeometry>
@@ -809,13 +809,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-205" value="2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
-          <mxGeometry x="267" width="81" height="39" as="geometry">
-            <mxRectangle width="81" height="39" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-207" value="最近一年都不准，看2H蓝色梯子和橙色梯子，适合月call" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
-          <mxGeometry x="348" width="441" height="39" as="geometry">
-            <mxRectangle width="441" height="39" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-312" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
@@ -842,13 +842,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-65" value="D, 1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
-          <mxGeometry x="267" width="81" height="39" as="geometry">
-            <mxRectangle width="81" height="39" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-67" value="1H不破继续持有，日线蓝色&amp;gt;黄色，仍有机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
-          <mxGeometry x="348" width="441" height="39" as="geometry">
-            <mxRectangle width="441" height="39" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-68" value="1H回踩机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
@@ -875,13 +875,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-7" value="D -&amp;gt;1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="FumZLj7Mq1QkP2dHfOBK-1" vertex="1">
-          <mxGeometry x="267" width="81" height="58" as="geometry">
-            <mxRectangle width="81" height="58" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="58" as="geometry">
+            <mxRectangle width="84" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-9" value="日线抄底后，1H在附近需要有抄底并且钻出蓝色梯子；&lt;div&gt;日线提示卖出后，1H附近也需要提示卖出，破蓝色梯子&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="FumZLj7Mq1QkP2dHfOBK-1" vertex="1">
-          <mxGeometry x="348" width="441" height="58" as="geometry">
-            <mxRectangle width="441" height="58" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="58" as="geometry">
+            <mxRectangle width="438" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="FumZLj7Mq1QkP2dHfOBK-1" vertex="1">
@@ -908,13 +908,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U4elQ5bvfk8K6HLXWWCx-8" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
-          <mxGeometry x="267" width="81" height="110" as="geometry">
-            <mxRectangle width="81" height="110" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="110" as="geometry">
+            <mxRectangle width="84" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U4elQ5bvfk8K6HLXWWCx-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
-          <mxGeometry x="348" width="441" height="110" as="geometry">
-            <mxRectangle width="441" height="110" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="110" as="geometry">
+            <mxRectangle width="438" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U4elQ5bvfk8K6HLXWWCx-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
@@ -941,13 +941,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PW7NKqL3Uw1iAm-7bFNX-7" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
-          <mxGeometry x="267" width="81" height="39" as="geometry">
-            <mxRectangle width="81" height="39" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PW7NKqL3Uw1iAm-7bFNX-9" value="配合抄底提示，做周call；游击战打法；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
-          <mxGeometry x="348" width="441" height="39" as="geometry">
-            <mxRectangle width="441" height="39" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PW7NKqL3Uw1iAm-7bFNX-10" value="等待跌下来的抄底周call机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
@@ -974,13 +974,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OnKBCfNjT385F36Dsw0G-7" value="1H, D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="OnKBCfNjT385F36Dsw0G-1" vertex="1">
-          <mxGeometry x="267" width="81" height="55" as="geometry">
-            <mxRectangle width="81" height="55" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="55" as="geometry">
+            <mxRectangle width="84" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OnKBCfNjT385F36Dsw0G-9" value="周线级别的抄底和九转比较准；1H比较准；创新高了，可以适当追高；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="OnKBCfNjT385F36Dsw0G-1" vertex="1">
-          <mxGeometry x="348" width="441" height="55" as="geometry">
-            <mxRectangle width="441" height="55" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="55" as="geometry">
+            <mxRectangle width="438" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OnKBCfNjT385F36Dsw0G-10" value="不破1H梯子，表示有希望继续创新高；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="OnKBCfNjT385F36Dsw0G-1" vertex="1">
@@ -1007,13 +1007,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-76" value="1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-74" vertex="1">
-          <mxGeometry x="267" width="81" height="38" as="geometry">
-            <mxRectangle width="81" height="38" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="38" as="geometry">
+            <mxRectangle width="84" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-80" value="1/23 -&amp;gt; 1/31，都需要在次日晚上开盘后交易；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-74" vertex="1">
-          <mxGeometry x="348" width="441" height="38" as="geometry">
-            <mxRectangle width="441" height="38" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="38" as="geometry">
+            <mxRectangle width="438" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-299" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-74" vertex="1">
@@ -1040,13 +1040,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-7" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-1" vertex="1">
-          <mxGeometry x="267" width="81" height="38" as="geometry">
-            <mxRectangle width="81" height="38" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="38" as="geometry">
+            <mxRectangle width="84" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-1" vertex="1">
-          <mxGeometry x="348" width="441" height="38" as="geometry">
-            <mxRectangle width="441" height="38" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="38" as="geometry">
+            <mxRectangle width="438" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-1" vertex="1">
@@ -1073,13 +1073,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-27" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-21" vertex="1">
-          <mxGeometry x="267" width="81" height="38" as="geometry">
-            <mxRectangle width="81" height="38" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="38" as="geometry">
+            <mxRectangle width="84" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-21" vertex="1">
-          <mxGeometry x="348" width="441" height="38" as="geometry">
-            <mxRectangle width="441" height="38" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="38" as="geometry">
+            <mxRectangle width="438" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-21" vertex="1">
@@ -1106,13 +1106,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-17" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-11" vertex="1">
-          <mxGeometry x="267" width="81" height="34" as="geometry">
-            <mxRectangle width="81" height="34" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="34" as="geometry">
+            <mxRectangle width="84" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-11" vertex="1">
-          <mxGeometry x="348" width="441" height="34" as="geometry">
-            <mxRectangle width="441" height="34" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="34" as="geometry">
+            <mxRectangle width="438" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-11" vertex="1">
@@ -1139,13 +1139,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-37" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-31" vertex="1">
-          <mxGeometry x="267" width="81" height="35" as="geometry">
-            <mxRectangle width="81" height="35" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="35" as="geometry">
+            <mxRectangle width="84" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-31" vertex="1">
-          <mxGeometry x="348" width="441" height="35" as="geometry">
-            <mxRectangle width="441" height="35" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="35" as="geometry">
+            <mxRectangle width="438" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-31" vertex="1">
@@ -1172,13 +1172,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-47" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-41" vertex="1">
-          <mxGeometry x="267" width="81" height="34" as="geometry">
-            <mxRectangle width="81" height="34" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="34" as="geometry">
+            <mxRectangle width="84" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-41" vertex="1">
-          <mxGeometry x="348" width="441" height="34" as="geometry">
-            <mxRectangle width="441" height="34" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="34" as="geometry">
+            <mxRectangle width="438" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-41" vertex="1">
@@ -1205,13 +1205,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-57" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-51" vertex="1">
-          <mxGeometry x="267" width="81" height="34" as="geometry">
-            <mxRectangle width="81" height="34" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="34" as="geometry">
+            <mxRectangle width="84" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-51" vertex="1">
-          <mxGeometry x="348" width="441" height="34" as="geometry">
-            <mxRectangle width="441" height="34" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="34" as="geometry">
+            <mxRectangle width="438" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-51" vertex="1">
@@ -1238,13 +1238,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-67" value="1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-61" vertex="1">
-          <mxGeometry x="267" width="81" height="33" as="geometry">
-            <mxRectangle width="81" height="33" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="33" as="geometry">
+            <mxRectangle width="84" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-61" vertex="1">
-          <mxGeometry x="348" width="441" height="33" as="geometry">
-            <mxRectangle width="441" height="33" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="33" as="geometry">
+            <mxRectangle width="438" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-70" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-61" vertex="1">
@@ -1271,13 +1271,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-77" value="30M, 1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-71" vertex="1">
-          <mxGeometry x="267" width="81" height="34" as="geometry">
-            <mxRectangle width="81" height="34" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="34" as="geometry">
+            <mxRectangle width="84" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-71" vertex="1">
-          <mxGeometry x="348" width="441" height="34" as="geometry">
-            <mxRectangle width="441" height="34" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="34" as="geometry">
+            <mxRectangle width="438" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-71" vertex="1">
@@ -1304,13 +1304,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-87" value="3H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-81" vertex="1">
-          <mxGeometry x="267" width="81" height="33" as="geometry">
-            <mxRectangle width="81" height="33" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="33" as="geometry">
+            <mxRectangle width="84" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-89" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-81" vertex="1">
-          <mxGeometry x="348" width="441" height="33" as="geometry">
-            <mxRectangle width="441" height="33" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="33" as="geometry">
+            <mxRectangle width="438" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-90" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-81" vertex="1">
@@ -1337,13 +1337,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-150" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="FumZLj7Mq1QkP2dHfOBK-143" vertex="1">
-          <mxGeometry x="267" width="81" height="34" as="geometry">
-            <mxRectangle width="81" height="34" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="34" as="geometry">
+            <mxRectangle width="84" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-152" value="切到3H看梯子，一年提示一次" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="FumZLj7Mq1QkP2dHfOBK-143" vertex="1">
-          <mxGeometry x="348" width="441" height="34" as="geometry">
-            <mxRectangle width="441" height="34" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="34" as="geometry">
+            <mxRectangle width="438" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-153" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="FumZLj7Mq1QkP2dHfOBK-143" vertex="1">
@@ -1370,13 +1370,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8PI8ierVeVoaamWDe-jX-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
-          <mxGeometry x="267" width="81" height="58" as="geometry">
-            <mxRectangle width="81" height="58" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="58" as="geometry">
+            <mxRectangle width="84" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8PI8ierVeVoaamWDe-jX-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
-          <mxGeometry x="348" width="441" height="58" as="geometry">
-            <mxRectangle width="441" height="58" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="58" as="geometry">
+            <mxRectangle width="438" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8PI8ierVeVoaamWDe-jX-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="8PI8ierVeVoaamWDe-jX-1" vertex="1">
@@ -1403,13 +1403,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-197" value="1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
-          <mxGeometry x="267" width="81" height="49" as="geometry">
-            <mxRectangle width="81" height="49" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="49" as="geometry">
+            <mxRectangle width="84" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-199" value="1小时比较准，提示了几次大机会；但是牛短熊长不够硬，不抗跌；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
-          <mxGeometry x="348" width="441" height="49" as="geometry">
-            <mxRectangle width="441" height="49" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="49" as="geometry">
+            <mxRectangle width="438" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-304" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
@@ -1436,13 +1436,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-85" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
-          <mxGeometry x="267" width="81" height="49" as="geometry">
-            <mxRectangle width="81" height="49" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="49" as="geometry">
+            <mxRectangle width="84" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-87" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
-          <mxGeometry x="348" width="441" height="49" as="geometry">
-            <mxRectangle width="441" height="49" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="49" as="geometry">
+            <mxRectangle width="438" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-88" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-79" vertex="1">
@@ -1469,13 +1469,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-151" value="W" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
-          <mxGeometry x="267" width="81" height="39" as="geometry">
-            <mxRectangle width="81" height="39" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-153" value="关注周线级别卖出机会，日线跌破蓝色梯子，做空" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
-          <mxGeometry x="348" width="441" height="39" as="geometry">
-            <mxRectangle width="441" height="39" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-301" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
@@ -1502,13 +1502,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-237" value="D, W" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-232" vertex="1">
-          <mxGeometry x="267" width="81" height="47" as="geometry">
-            <mxRectangle width="81" height="47" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="47" as="geometry">
+            <mxRectangle width="84" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-239" value="日级别提示比较准，可以切换到4H去观察；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-232" vertex="1">
-          <mxGeometry x="348" width="441" height="47" as="geometry">
-            <mxRectangle width="441" height="47" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="47" as="geometry">
+            <mxRectangle width="438" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-309" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-232" vertex="1">
@@ -1535,13 +1535,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-58" value="4H，D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-56" vertex="1">
-          <mxGeometry x="267" width="81" height="75" as="geometry">
-            <mxRectangle width="81" height="75" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="75" as="geometry">
+            <mxRectangle width="84" height="75" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-62" value="波动大，学会做T;&lt;br&gt;主升浪看日线，波段看4H; 两个方案：1）四小时提示抄底后，看日线的ATR线决定止损位置；2）四小时提示抄底后，看四小时蓝色梯子；破掉立即止损；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-56" vertex="1">
-          <mxGeometry x="348" width="441" height="75" as="geometry">
-            <mxRectangle width="441" height="75" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="75" as="geometry">
+            <mxRectangle width="438" height="75" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-307" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-56" vertex="1">
@@ -1568,13 +1568,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-181" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-176" vertex="1">
-          <mxGeometry x="267" width="81" height="39" as="geometry">
-            <mxRectangle width="81" height="39" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-183" value="蓝色梯子和黄色梯子，向上发散，说明涨的概率大，可以做T" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-176" vertex="1">
-          <mxGeometry x="348" width="441" height="39" as="geometry">
-            <mxRectangle width="441" height="39" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-310" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-176" vertex="1">
@@ -1601,13 +1601,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-130" value="1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-126" vertex="1">
-          <mxGeometry x="267" width="81" height="49" as="geometry">
-            <mxRectangle width="81" height="49" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="49" as="geometry">
+            <mxRectangle width="84" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-132" value="日线追踪抄底，蓝色&amp;gt;黄色时看1H找阶段抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-126" vertex="1">
-          <mxGeometry x="348" width="441" height="49" as="geometry">
-            <mxRectangle width="441" height="49" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="49" as="geometry">
+            <mxRectangle width="438" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-300" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-126" vertex="1">
@@ -1634,13 +1634,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-229" value="1H, D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-224" vertex="1">
-          <mxGeometry x="267" width="81" height="39" as="geometry">
-            <mxRectangle width="81" height="39" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-231" value="游击战" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-224" vertex="1">
-          <mxGeometry x="348" width="441" height="39" as="geometry">
-            <mxRectangle width="441" height="39" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-306" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-224" vertex="1">
@@ -1667,13 +1667,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-285" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-280" vertex="1">
-          <mxGeometry x="267" width="81" height="46" as="geometry">
-            <mxRectangle width="81" height="46" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="46" as="geometry">
+            <mxRectangle width="84" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-287" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-280" vertex="1">
-          <mxGeometry x="348" width="441" height="46" as="geometry">
-            <mxRectangle width="441" height="46" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="46" as="geometry">
+            <mxRectangle width="438" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-311" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-280" vertex="1">
@@ -1700,13 +1700,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-213" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-208" vertex="1">
-          <mxGeometry x="267" width="81" height="49" as="geometry">
-            <mxRectangle width="81" height="49" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="49" as="geometry">
+            <mxRectangle width="84" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-215" value="最近两次日线抄底，非常准确；涨幅比较小；适合月call;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-208" vertex="1">
-          <mxGeometry x="348" width="441" height="49" as="geometry">
-            <mxRectangle width="441" height="49" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="49" as="geometry">
+            <mxRectangle width="438" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-303" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-208" vertex="1">
@@ -1733,13 +1733,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-277" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-272" vertex="1">
-          <mxGeometry x="267" width="81" height="46" as="geometry">
-            <mxRectangle width="81" height="46" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="46" as="geometry">
+            <mxRectangle width="84" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-279" value="4H抄底上次比较准，可以等" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-272" vertex="1">
-          <mxGeometry x="348" width="441" height="46" as="geometry">
-            <mxRectangle width="441" height="46" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="46" as="geometry">
+            <mxRectangle width="438" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-317" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-272" vertex="1">
@@ -1766,13 +1766,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-123" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-119" vertex="1">
-          <mxGeometry x="267" width="81" height="39" as="geometry">
-            <mxRectangle width="81" height="39" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-125" value="波动太大，梯子不好追踪；蓝色&amp;gt;黄色时，不断做T" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-119" vertex="1">
-          <mxGeometry x="348" width="441" height="39" as="geometry">
-            <mxRectangle width="441" height="39" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-313" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-119" vertex="1">
@@ -1799,13 +1799,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-158" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-154" vertex="1">
-          <mxGeometry x="267" width="81" height="47" as="geometry">
-            <mxRectangle width="81" height="47" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="47" as="geometry">
+            <mxRectangle width="84" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-160" value="日级别抄底后，用1H梯子查看，这次抄底需要注意，蓝色梯子下跌趋势还在" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-154" vertex="1">
-          <mxGeometry x="348" width="441" height="47" as="geometry">
-            <mxRectangle width="441" height="47" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="47" as="geometry">
+            <mxRectangle width="438" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-308" value="日线提示抄底，1H在梯子上，没理由不做；止损位置在16.5；不做T；看了一下筹码分布，觉得空间可能不够大；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-154" vertex="1">
@@ -1832,13 +1832,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-40" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-38" vertex="1">
-          <mxGeometry x="267" width="81" height="39" as="geometry">
-            <mxRectangle width="81" height="39" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-44" value="波动大，日线蓝色在黄色之上，可以视为持有；需要做T才能拿住；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-38" vertex="1">
-          <mxGeometry x="348" width="441" height="39" as="geometry">
-            <mxRectangle width="441" height="39" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-320" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-38" vertex="1">
@@ -1865,13 +1865,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-67" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-65" vertex="1">
-          <mxGeometry x="267" width="81" height="31" as="geometry">
-            <mxRectangle width="81" height="31" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="31" as="geometry">
+            <mxRectangle width="84" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-71" value="需要做T" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-65" vertex="1">
-          <mxGeometry x="348" width="441" height="31" as="geometry">
-            <mxRectangle width="441" height="31" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="31" as="geometry">
+            <mxRectangle width="438" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-315" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-65" vertex="1">
@@ -1898,13 +1898,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-189" value="2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-184" vertex="1">
-          <mxGeometry x="267" width="81" height="82" as="geometry">
-            <mxRectangle width="81" height="82" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="82" as="geometry">
+            <mxRectangle width="84" height="82" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-191" value="做T（买在球哥止损线上方），涨幅10%卖出机动资金；&lt;br&gt;不能追涨，等回踩；&lt;br&gt;买入后的止损位置在2H、D抄底的日线位置；起飞后可以参考2H梯子或者日级别的-10%止损线；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-184" vertex="1">
-          <mxGeometry x="348" width="441" height="82" as="geometry">
-            <mxRectangle width="441" height="82" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="82" as="geometry">
+            <mxRectangle width="438" height="82" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-302" value="日线和2H提示抄底，没理由不做；止损位置5.5；&lt;br&gt;起飞后10%，可以卖出1/3; 回踩在10%附近，可以加回卖出的部分；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-184" vertex="1">
@@ -1931,13 +1931,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-49" value="1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-47" vertex="1">
-          <mxGeometry x="267" width="81" height="48" as="geometry">
-            <mxRectangle width="81" height="48" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="48" as="geometry">
+            <mxRectangle width="84" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-53" value="10%卖出，支撑跌20%考虑介入；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-47" vertex="1">
-          <mxGeometry x="348" width="441" height="48" as="geometry">
-            <mxRectangle width="441" height="48" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="48" as="geometry">
+            <mxRectangle width="438" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-314" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-47" vertex="1">
@@ -1964,13 +1964,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-31" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-29" vertex="1">
-          <mxGeometry x="267" width="81" height="40" as="geometry">
-            <mxRectangle width="81" height="40" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="40" as="geometry">
+            <mxRectangle width="84" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-35" value="没合适的抄底级别，可以关注4H或者日线蓝色梯子" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-29" vertex="1">
-          <mxGeometry x="348" width="441" height="40" as="geometry">
-            <mxRectangle width="441" height="40" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="40" as="geometry">
+            <mxRectangle width="438" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-318" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-29" vertex="1">
@@ -1997,13 +1997,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-137" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-133" vertex="1">
-          <mxGeometry x="267" width="81" height="47" as="geometry">
-            <mxRectangle width="81" height="47" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="47" as="geometry">
+            <mxRectangle width="84" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-139" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-133" vertex="1">
-          <mxGeometry x="348" width="441" height="47" as="geometry">
-            <mxRectangle width="441" height="47" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="47" as="geometry">
+            <mxRectangle width="438" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-319" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-133" vertex="1">
@@ -2030,13 +2030,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-293" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-288" vertex="1">
-          <mxGeometry x="267" width="81" height="45" as="geometry">
-            <mxRectangle width="81" height="45" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="45" as="geometry">
+            <mxRectangle width="84" height="45" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-295" value="美团由1-2星期的箱体震荡构成，符合三点诱骗；&lt;br&gt;根据30分钟的K找到箱体下沿，最好配合抄底提示，1个月有1-2次左右的期权交易机会；规避掉下跌趋势的窄箱体；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-288" vertex="1">
-          <mxGeometry x="348" width="441" height="45" as="geometry">
-            <mxRectangle width="441" height="45" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="45" as="geometry">
+            <mxRectangle width="438" height="45" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-321" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-288" vertex="1">
@@ -2063,13 +2063,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OnKBCfNjT385F36Dsw0G-17" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="OnKBCfNjT385F36Dsw0G-11" vertex="1">
-          <mxGeometry x="267" width="81" height="61" as="geometry">
-            <mxRectangle width="81" height="61" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="61" as="geometry">
+            <mxRectangle width="84" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OnKBCfNjT385F36Dsw0G-19" value="右侧开启后，日线抄底比较准；现阶段周级别压力突破，底部整理阶段；关注有望成为下一个DIS；现阶段底部做T，阴线买，阳线卖" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="OnKBCfNjT385F36Dsw0G-11" vertex="1">
-          <mxGeometry x="348" width="441" height="61" as="geometry">
-            <mxRectangle width="441" height="61" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="61" as="geometry">
+            <mxRectangle width="438" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OnKBCfNjT385F36Dsw0G-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="OnKBCfNjT385F36Dsw0G-11" vertex="1">
@@ -2096,13 +2096,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_wnwlGk6JsTbuT60Q1vu-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
-          <mxGeometry x="267" width="81" height="61" as="geometry">
-            <mxRectangle width="81" height="61" as="alternateBounds" />
+          <mxGeometry x="267" width="84" height="61" as="geometry">
+            <mxRectangle width="84" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_wnwlGk6JsTbuT60Q1vu-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
-          <mxGeometry x="348" width="441" height="61" as="geometry">
-            <mxRectangle width="441" height="61" as="alternateBounds" />
+          <mxGeometry x="351" width="438" height="61" as="geometry">
+            <mxRectangle width="438" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_wnwlGk6JsTbuT60Q1vu-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
@@ -2122,7 +2122,7 @@
         <mxCell id="RucERruqQGH7UAjCKnzY-13" value="50%的机会" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1101" y="-310" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RucERruqQGH7UAjCKnzY-14" value="Call的机会" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="RucERruqQGH7UAjCKnzY-14" value="5倍" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1219" y="-310" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RucERruqQGH7UAjCKnzY-15" value="没看懂" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
