@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T09:07:21.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="12TVkoFHKh33A0YzYWOj" version="24.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-06T08:41:12.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="WZ5QbpIMQ2VXGBwZYWyL" version="24.0.1" type="github" pages="8">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1798" dy="175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2416,7 +2416,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nhFkO93609jCBAf3iY5T-2" value="1. Non compute region specific artifacts prepare (5 days) &lt;b&gt;-&amp;gt; (1 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-2" value="1. Prepare non compute (Redis, COSMOS DB etc) ev2 artifacts (5 days) &lt;b&gt;-&amp;gt; (1 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="215" y="352" width="120" height="218" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-3" value="4. subscription provision (2 days)&lt;b&gt; -&amp;gt; (0.5 days)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -2434,7 +2434,7 @@
         <mxCell id="nhFkO93609jCBAf3iY5T-8" value="13. Geneva synthetic provision (5 days)&lt;b&gt; -&amp;gt; (1 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="703" y="307" width="120" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-9" value="11. Collect and update Service dependency static config (9 days) &lt;b&gt;-&amp;gt; (2 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-9" value="11. Prepare and update Service dependency static config (9 days) &lt;b&gt;-&amp;gt; (2 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="545" y="126" width="120" height="387" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-10" value="3. AAD application creation(2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
@@ -2503,7 +2503,7 @@
         <mxCell id="nhFkO93609jCBAf3iY5T-36" value="Not in automation scope" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="826" y="696" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-37" value="12. Service dependency dynamic config preparation (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-37" value="12. Service dependency dynamic config (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="545" y="513" width="120" height="57" as="geometry" />
         </mxCell>
       </root>
