@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T13:03:20.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="NQfyhIkg1VaTPiEjT1c7" version="24.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-06T13:05:46.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="9xVvxdMaHkmsG1ung8at" version="24.0.2" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -419,7 +419,7 @@
         <mxCell id="dJtvpFZVgvFk0XaL-dHe-3" value="Mara 做T" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="852" y="85" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="vYHh5uelYFB4vhiVlPH8-1" value="30分钟，震荡时做T；围绕蓝色梯子做T；" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dJtvpFZVgvFk0XaL-dHe-3">
+        <mxCell id="vYHh5uelYFB4vhiVlPH8-1" value="30分钟，震荡时做T；围绕蓝色梯子做T；" style="rounded=0;whiteSpace=wrap;html=1;" parent="dJtvpFZVgvFk0XaL-dHe-3" vertex="1">
           <mxGeometry x="21" y="32" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EPWxXKe5M-rq8EsN4P1d-1" value="知乎牛马线" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -453,7 +453,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z2aIBYo-PSqu7gH0IQxu" name="stock list">
-    <mxGraphModel dx="1798" dy="2125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="1938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -577,12 +577,12 @@
             <mxRectangle width="63" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-75" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-75" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
           <mxGeometry x="267" width="81" height="68" as="geometry">
             <mxRectangle width="81" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-77" value="30分钟比较准；新高就大胆追，30分钟防守；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
+        <mxCell id="-sv_zkquqd6CutIyaG7F-77" value="4H回踩蓝色梯子，看5分钟找买点" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
           <mxGeometry x="348" width="441" height="68" as="geometry">
             <mxRectangle width="441" height="68" as="alternateBounds" />
           </mxGeometry>
