@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T14:58:11.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="U5ijDqPBf_nI80PVKx8A" version="24.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-07T15:00:17.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Dg0KmNGshRezhVEmCO4l" version="24.0.2" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -249,16 +249,16 @@
         <mxCell id="dJtvpFZVgvFk0XaL-dHe-2" value="美团(5min)，下午2点，黄色梯子向上" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aLY_w_fWMo8V8T_eYucW-1" vertex="1">
           <mxGeometry x="11" y="94" width="161" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="aLY_w_fWMo8V8T_eYucW-2" value="地久天长-龙头股方法" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aLY_w_fWMo8V8T_eYucW-2" value="龙头回踩战法" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="85" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="aLY_w_fWMo8V8T_eYucW-3" value="叶子方法" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aLY_w_fWMo8V8T_eYucW-3" value="甜点时刻" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="299" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="aLY_w_fWMo8V8T_eYucW-4" value="康康-长短线方法" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+        <mxCell id="aLY_w_fWMo8V8T_eYucW-4" value="蓝色梯子回踩" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="392" y="299" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="aLY_w_fWMo8V8T_eYucW-5" value="地球哥-长短线方法" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+        <mxCell id="aLY_w_fWMo8V8T_eYucW-5" value="DIS抄底协同战法" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="617" y="85" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="aw2xVNhjCHg9UtsCvs19-1" value="自研-期权跟单法（行不通，只能作为选股的signal，无法作为买点signal）" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
