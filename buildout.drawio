@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T07:14:37.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="K-K5Yc96S__1YWs4e-qy" version="22.1.17" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-08T09:17:33.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="j6LpE2GFAIYxR_OSAA0Y" version="22.1.17" type="github" pages="8">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2503,7 +2503,7 @@
         <mxCell id="nhFkO93609jCBAf3iY5T-36" value="Not in automation scope" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="826" y="696" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-37" value="12. Service dependency dynamic config (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-37" value="12. Read service dependency dynamic config (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="545" y="513" width="120" height="57" as="geometry" />
         </mxCell>
       </root>
