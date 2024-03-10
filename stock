@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T15:20:13.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="DaHD3tT31sfbbY-SZ19B" version="24.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-10T15:28:31.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="zXSW8_A2YtAeSHnGP5QR" version="24.0.2" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -252,19 +252,22 @@
         <mxCell id="aLY_w_fWMo8V8T_eYucW-2" value="龙头回踩蓝色梯子战法" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="85" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="UynZDDhIVTz6ThC1oQ_z-3" value="SMCI 4H回踩，5min找买点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="aLY_w_fWMo8V8T_eYucW-2">
+        <mxCell id="UynZDDhIVTz6ThC1oQ_z-3" value="SMCI 4H回踩，5min找买点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aLY_w_fWMo8V8T_eYucW-2" vertex="1">
           <mxGeometry x="19" y="40" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UynZDDhIVTz6ThC1oQ_z-4" value="DIS 2H回踩，5min、10min/15min 找买点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="aLY_w_fWMo8V8T_eYucW-2">
+        <mxCell id="UynZDDhIVTz6ThC1oQ_z-4" value="DIS 2H回踩，5min、10min/15min 找买点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aLY_w_fWMo8V8T_eYucW-2" vertex="1">
           <mxGeometry x="19" y="120" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aLY_w_fWMo8V8T_eYucW-3" value="甜点时刻 - 龙头回踩黄色梯子" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aLY_w_fWMo8V8T_eYucW-3" value="甜点时刻 - 龙头回踩梯子" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="299" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XPt5MVZi5o3Jac5oEPE0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="aLY_w_fWMo8V8T_eYucW-3">
+          <mxGeometry x="9" y="34" width="161" height="44" as="geometry" />
         </mxCell>
         <mxCell id="aLY_w_fWMo8V8T_eYucW-4" value="龙头追涨" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="392" y="299" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="UynZDDhIVTz6ThC1oQ_z-2" value="NVDA 30min回踩，long call" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="aLY_w_fWMo8V8T_eYucW-4">
+        <mxCell id="UynZDDhIVTz6ThC1oQ_z-2" value="NVDA 30min回踩，long call" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aLY_w_fWMo8V8T_eYucW-4" vertex="1">
           <mxGeometry x="19" y="34" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aw2xVNhjCHg9UtsCvs19-1" value="自研-期权跟单法（行不通，只能作为选股的signal，无法作为买点signal）" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
@@ -443,7 +446,7 @@
         <mxCell id="EPWxXKe5M-rq8EsN4P1d-5" value="强势票，主升浪后会立马开启第二浪；弱势票，会休息一个周期在开启第二轮；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="EPWxXKe5M-rq8EsN4P1d-1" vertex="1">
           <mxGeometry x="148" y="108" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JWyF4yG6eBH3n6y-nW_I-1" value="美团 做T" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JWyF4yG6eBH3n6y-nW_I-1" value="美团 期权做T" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="85" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="JWyF4yG6eBH3n6y-nW_I-2" value="下午2点，看5分钟期权，出现抄底+站上黄色梯子，买2W" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JWyF4yG6eBH3n6y-nW_I-1" vertex="1">
