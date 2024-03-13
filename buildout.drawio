@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T10:00:20.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YBCnE2idHiUrCp5QPFSc" version="24.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T10:13:08.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FNqj1LBeubnh3iYVzlsT" version="24.0.2" type="github" pages="9">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2513,7 +2513,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_3KxM-magVVQBrbhdY_i" name="automation status overview">
-    <mxGraphModel dx="1430" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="1881" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2529,8 +2529,8 @@
             <mxPoint x="1066" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zMO72y31VIHevHxgqlIi-3" value="DTS &amp;amp; BOC (3%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="95" y="25" width="127" height="32" as="geometry" />
+        <mxCell id="zMO72y31VIHevHxgqlIi-3" value="DTS &amp;amp;&amp;nbsp;&lt;div&gt;BOC automatic trigger buildout (3%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="95" y="-9" width="127" height="66" as="geometry" />
         </mxCell>
         <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Solution Ready (20%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="445" width="165" height="30" as="geometry" />
@@ -2604,12 +2604,6 @@
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-11" value="non compute automation tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="104" width="216" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="84" y="173.5" as="sourcePoint" />
-            <mxPoint x="1059" y="169.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="238" as="sourcePoint" />
@@ -2620,7 +2614,7 @@
           <mxGeometry x="1034" y="281" width="216" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-22" value="non compute RA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1047" y="187" width="216" height="30" as="geometry" />
+          <mxGeometry x="1040" y="141" width="216" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gWdmcs1BKn5RmdKWivWF-1" value="test" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1047" y="372" width="216" height="30" as="geometry" />
