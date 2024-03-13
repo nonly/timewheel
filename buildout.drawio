@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T08:54:42.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1kSbNtgxaUGEx9nUGoiY" version="24.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T09:01:25.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nFRtz0bz-8T0xiIGa2bb" version="24.0.2" type="github" pages="9">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2518,10 +2518,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="orJ1ZyaAnO9yECRLyvzP-1" value="Onecert Domain provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="104" y="-183" width="125" height="86" as="geometry" />
+          <mxGeometry x="95" y="204" width="125" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zMO72y31VIHevHxgqlIi-1" value="Geneva provision (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="103" y="-83" width="127" height="83" as="geometry" />
+          <mxGeometry x="97" y="364" width="127" height="42" as="geometry" />
         </mxCell>
         <mxCell id="zMO72y31VIHevHxgqlIi-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2530,40 +2530,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zMO72y31VIHevHxgqlIi-3" value="DTS &amp;amp; BOC &amp;amp; VF (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="103" y="-290" width="127" height="83" as="geometry" />
+          <mxGeometry x="100" y="42" width="127" height="32" as="geometry" />
         </mxCell>
         <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Solution Ready (20%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="445" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Non compute - RA (Ev2 RA model) (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="301" y="14" width="120" height="93" as="geometry" />
+          <mxGeometry x="298" y="174" width="120" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Service config RA (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="469" y="313" width="120" height="93" as="geometry" />
+        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Service local config RA (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="466" y="276.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="subscription provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-180" width="120" height="86" as="geometry" />
+          <mxGeometry x="300" y="84" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-2" value="cert provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-90" width="120" height="86" as="geometry" />
+          <mxGeometry x="298" y="134" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="8j6GkCfV0Cca9WRWLpLP-3" value="service global build-time usage (20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="463" y="11" width="120" height="186" as="geometry" />
+        <mxCell id="8j6GkCfV0Cca9WRWLpLP-3" value="service global config RA (20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="466" y="185" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="WTU374NI6hd9cMv-FZc3-1" value="shared library RA (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="463" y="209" width="120" height="86" as="geometry" />
+          <mxGeometry x="466" y="234" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="fLnOMfTA1273BjCceCpT-1" value="AAD application provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="697" y="-183" width="120" height="86" as="geometry" />
+          <mxGeometry x="684" y="121" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NrST8CiUoxN8g3PDT3SZ-1" value="DNS provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="697" y="-89" width="120" height="86" as="geometry" />
+          <mxGeometry x="684" y="178" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC Managed identity provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="847" y="-180" width="120" height="83" as="geometry" />
+          <mxGeometry x="854" y="123" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbZ5lWEaIfDMu1pvGekI-1" value="Geneva synthetic provision (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="834" y="35" width="120" height="196" as="geometry" />
+          <mxGeometry x="843" y="356" width="109" height="55" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-1" value="&amp;nbsp;Solution has gaps or IC3 has concerns (50%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="308" y="445" width="287" height="30" as="geometry" />
@@ -2572,7 +2572,7 @@
           <mxGeometry x="642" y="445" width="287" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-3" value="20%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="241" y="426" width="60" height="30" as="geometry" />
+          <mxGeometry x="244" y="421" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-4" value="70%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="621" y="426" width="60" height="30" as="geometry" />
@@ -2580,11 +2580,11 @@
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-5" value="100%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="914" y="426" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-6" value="BOC automatic notify (didn&#39;t work for Ev2-classic)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="302" y="-293" width="120" height="86" as="geometry" />
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-6" value="BOC automatic notify (2%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="39" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-7" value="COSMIC onboarding (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="697" y="48" width="120" height="83" as="geometry" />
+          <mxGeometry x="681" y="239" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2597,27 +2597,15 @@
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="23" y="-1" as="sourcePoint" />
-            <mxPoint x="1041" y="-1" as="targetPoint" />
+            <mxPoint x="41" y="318" as="sourcePoint" />
+            <mxPoint x="1059" y="318" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-11" value="non compute automation tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1015" y="-132" width="216" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-12" value="non compute automation tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1069" y="87" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-13" value="test" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-14" value="non compute RA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1069" y="6" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-15" value="buildout schedule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="166" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-16" value="compute RA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="329.5" width="120" height="60" as="geometry" />
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-17" value="non compute automation tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="192" width="216" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
