@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T06:09:43.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="W3M1gTrk7c-ozwf9cr6R" version="24.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T06:13:19.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="w4W_oUV34Q8qYvAEG2PH" version="24.0.2" type="github" pages="9">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2532,14 +2532,14 @@
         <mxCell id="zMO72y31VIHevHxgqlIi-3" value="DTS &amp;amp; BOC &amp;amp; VF (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="98" y="207" width="127" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Ready" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="141" y="374" width="60" height="30" as="geometry" />
+        <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Solution Ready (20%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="351" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Non compute - RA (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="300" y="185" width="120" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Service local config RA (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="473" y="189" width="120" height="93" as="geometry" />
+        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Service config RA (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="469" y="185" width="120" height="93" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="subscription provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="300" y="-28" width="120" height="86" as="geometry" />
@@ -2547,23 +2547,26 @@
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-2" value="cert provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="300" y="73" width="120" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="8j6GkCfV0Cca9WRWLpLP-3" value="service global (20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8j6GkCfV0Cca9WRWLpLP-3" value="service global build-time usage (20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="469" y="-28" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="WTU374NI6hd9cMv-FZc3-1" value="shared library RA (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="469" y="76" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="fLnOMfTA1273BjCceCpT-1" value="3. AAD application provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="678" y="-28" width="120" height="86" as="geometry" />
+          <mxGeometry x="677" y="-22" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="NrST8CiUoxN8g3PDT3SZ-1" value="5. DNS provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="681" y="80" width="120" height="86" as="geometry" />
+          <mxGeometry x="680" y="86" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="8. COSMIC Managed identity provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="681" y="196" width="120" height="83" as="geometry" />
+          <mxGeometry x="680" y="202" width="120" height="83" as="geometry" />
         </mxCell>
         <mxCell id="PbZ5lWEaIfDMu1pvGekI-1" value="14. Geneva synthetic provision (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="830" y="-28" width="120" height="217" as="geometry" />
+          <mxGeometry x="829" y="-22" width="120" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-1" value="&amp;nbsp;Solution has gaps or IC3 has concerns (+50%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="308" y="348" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
