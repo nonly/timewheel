@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T10:22:47.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xy3qOCRxZzul0aw0ZtMs" version="24.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T10:23:04.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PQVguqa_MABOWIcurgt6" version="24.0.2" type="github" pages="9">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2601,8 +2601,8 @@
             <mxPoint x="1064" y="364" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-11" value="non compute automation tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="104" width="216" height="30" as="geometry" />
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-11" value="non compute RA and automation tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1044" y="134" width="216" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2612,9 +2612,6 @@
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-21" value="compute" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1034" y="281" width="216" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-22" value="non compute RA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="141" width="216" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gWdmcs1BKn5RmdKWivWF-1" value="test" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1047" y="372" width="216" height="30" as="geometry" />
