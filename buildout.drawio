@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T09:04:07.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="S-YNrx6Sf-rQck7Q5HBm" version="24.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T09:05:50.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-DuPD6-6p5jkJzaaeBKB" version="24.0.2" type="github" pages="9">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2434,7 +2434,7 @@
         <mxCell id="nhFkO93609jCBAf3iY5T-8" value="14. Geneva synthetic provision (5 days)&lt;b&gt; -&amp;gt; (1 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="703" y="307" width="120" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-9" value="12. Prepare and update Service dependency static config (9 days) &lt;b&gt;-&amp;gt; (2 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-9" value="12. service global config RA (9 days) &lt;b&gt;-&amp;gt; (2 day)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="545" y="110.5" width="120" height="402.5" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-10" value="3. AAD application provision (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
@@ -2449,7 +2449,7 @@
         <mxCell id="nhFkO93609jCBAf3iY5T-13" value="non compute automation tools (16 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="598" width="172" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-14" value="9. COSMIC onboarding (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-14" value="9. COSMIC onboarding (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="545" y="-125.5" width="120" height="82" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-15" value="16. collect dependency service buildout completion signal (1 day)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -2464,7 +2464,7 @@
         <mxCell id="nhFkO93609jCBAf3iY5T-20" value="Compute and Service config prepare and update (16 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="557" y="598" width="113" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-22" value="11. Prepare and Update service local config and rebuild/deploy during test (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-22" value="11. service local config RA (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="545" y="35.5" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-23" value="10. Update Shared library (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -2491,7 +2491,7 @@
         <mxCell id="nhFkO93609jCBAf3iY5T-32" value="Solution ready" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="370" y="696" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-33" value="Solution not ready" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-33" value="blocked" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="523" y="696" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-34" value="Solution ready, but it has gap for IC3 region specific requirement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -2618,6 +2618,9 @@
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-21" value="compute deployment &amp;amp; RA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1034" y="281" width="216" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-22" value="non compute RA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1047" y="187" width="216" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
