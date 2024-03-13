@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T08:32:02.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DYw_6VAXyUCiU9C8cmOA" version="24.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T08:32:15.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Tfw0Fmcy4eb9cLZdEGIx" version="24.0.2" type="github" pages="9">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2518,10 +2518,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="orJ1ZyaAnO9yECRLyvzP-1" value="Onecert Domain provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="86" y="-270" width="125" height="86" as="geometry" />
+          <mxGeometry x="98" y="-230" width="125" height="86" as="geometry" />
         </mxCell>
         <mxCell id="zMO72y31VIHevHxgqlIi-1" value="Geneva provision (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="86" y="-176" width="127" height="83" as="geometry" />
+          <mxGeometry x="98" y="-136" width="127" height="83" as="geometry" />
         </mxCell>
         <mxCell id="zMO72y31VIHevHxgqlIi-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
