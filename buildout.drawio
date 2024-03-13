@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T09:45:46.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7ajf1AJRzgeT66lE2plE" version="24.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T09:50:28.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JmEuwDOcYgwDJw7TAOMA" version="24.0.2" type="github" pages="9">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2616,7 +2616,7 @@
             <mxPoint x="1055" y="234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-21" value="compute deployment &amp;amp; RA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-21" value="compute RA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1034" y="281" width="216" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-22" value="non compute RA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
