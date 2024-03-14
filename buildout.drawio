@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T00:04:33.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="y_th8jz6T6kAcAY5USG6" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-14T00:05:31.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WxcZrnVDrptvVHFbhmvn" version="24.0.5" type="github" pages="9">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2538,7 +2538,7 @@
         <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Non compute - RA (Ev2 RA model) (8%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="298" y="183" width="120" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Service local config RA (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Service local deploy-time config binding (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="472" y="323" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="subscription provision (4%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
