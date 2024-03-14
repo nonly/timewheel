@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T00:48:31.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JYj23FKdRw8hiqJuGxdW" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-14T01:08:17.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="45H0gScdu_9MEIsV9O91" version="24.0.5" type="github" pages="9">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
-    <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="220" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1088,80 +1088,80 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X7wSr0WkXvUNmilkNi0b" name="Flow Overview for LT">
-    <mxGraphModel dx="-711" dy="2591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1326" dy="2170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-1" value="c" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-1" value="c" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="4470" y="-236" width="491.25" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-3" value="Service A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-3" value="Service A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4953" y="44" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-4" value="Certificate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-4" value="Certificate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4652.38" y="-221" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-5" value="OneCert Domain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-5" value="OneCert Domain" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4495.63" y="-141" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-6" value="DNS Records" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-6" value="DNS Records" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4652.38" y="-141" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-7" value="AAD Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-7" value="AAD Application" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4804.18" y="-141" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-8" value="Geneva Acount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-8" value="Geneva Acount" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4804.18" y="-221" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-9" value="Pre Buildout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-9" value="Pre Buildout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3901" y="-917" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-10" value="DTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-10" value="DTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="5127.24" y="-586" width="123.75" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
           <mxGeometry x="5319.25" y="-783" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-13" target="zoEOVe3GupG5Xe_KG2l_-15">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-13" target="zoEOVe3GupG5Xe_KG2l_-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
           <mxGeometry x="4492.66" y="-778" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-14" value="Ev2" style="rounded=0;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-14" value="Ev2" style="rounded=0;whiteSpace=wrap;html=1;container=1;" parent="1" vertex="1">
           <mxGeometry x="4961.25" y="-394.6" width="210" height="78.6" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-15" value="ECS Global" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-15" value="ECS Global" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4797.25" y="-783" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-16" value="Local ECS A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-16" value="Local ECS A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4797.25" y="-606" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-17" value="Local ECS B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-17" value="Local ECS B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5283" y="-633" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/User_Privacy.svg;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/User_Privacy.svg;" parent="1" vertex="1">
           <mxGeometry x="3825.0299999999997" y="-796" width="64" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-19" value="ECS LIBs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-19" value="ECS LIBs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="4005.0299999999997" y="-796" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-20" value="1. overall stage - preBuildout, buildout, postBuildout&lt;br&gt;2. IC3 buildout stage - prepare, buildout, validation&lt;br&gt;3. automation&amp;nbsp; area - Azure resources, config, validation&lt;br&gt;4. component: cis, ev2, ecs, vf&lt;br&gt;5. service side resources: sub, cert, dns, aad, keyvault, geneva, storage, compute&amp;nbsp;&lt;br&gt;6. ownership: EC, ESP, Partner, Lib owner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-20" value="1. overall stage - preBuildout, buildout, postBuildout&lt;br&gt;2. IC3 buildout stage - prepare, buildout, validation&lt;br&gt;3. automation&amp;nbsp; area - Azure resources, config, validation&lt;br&gt;4. component: cis, ev2, ecs, vf&lt;br&gt;5. service side resources: sub, cert, dns, aad, keyvault, geneva, storage, compute&amp;nbsp;&lt;br&gt;6. ownership: EC, ESP, Partner, Lib owner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4152" y="-988" width="640" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-21" value="Service owner B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-21" value="Service owner B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="5285" y="-723" width="116" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-22" value="Service owner A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-22" value="Service owner A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4470" y="-685.39" width="116" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.938;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-18" target="zoEOVe3GupG5Xe_KG2l_-19">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.938;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-18" target="zoEOVe3GupG5Xe_KG2l_-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3955.0299999999997" y="-736" as="sourcePoint" />
             <mxPoint x="4005.0299999999997" y="-786" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-22" target="zoEOVe3GupG5Xe_KG2l_-16">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-22" target="zoEOVe3GupG5Xe_KG2l_-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4529.25" y="-645.39" as="sourcePoint" />
             <mxPoint x="4529.25" y="-585.39" as="targetPoint" />
@@ -1170,49 +1170,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-21" target="zoEOVe3GupG5Xe_KG2l_-17">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-21" target="zoEOVe3GupG5Xe_KG2l_-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5429.25" y="-653" as="sourcePoint" />
             <mxPoint x="5479.25" y="-703" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-26" value="c" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.14;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-11" target="zoEOVe3GupG5Xe_KG2l_-15">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-26" value="c" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.14;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-11" target="zoEOVe3GupG5Xe_KG2l_-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4989.25" y="-672" as="sourcePoint" />
             <mxPoint x="4949.25" y="-702" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" parent="1" vertex="1">
           <mxGeometry x="4537.030000000001" y="-216.20999999999998" width="31.25" height="50.43" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-28" value="COSMOS DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-28" value="COSMOS DB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4807.030000000001" y="-50.569999999999936" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-29" value="Azure Key Vault" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-29" value="Azure Key Vault" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4492.66" y="-50.569999999999936" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-30" value="Azure Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-30" value="Azure Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4654.64" y="-50.569999999999936" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-31" value="Subscription" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-31" value="Subscription" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4522.66" y="-168.29000000000002" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-32" value="Ev2 Artifacts Store" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-32" value="Ev2 Artifacts Store" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="4473" y="-454.6" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="zoEOVe3GupG5Xe_KG2l_-32">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="zoEOVe3GupG5Xe_KG2l_-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4796.26" y="-424.6" as="sourcePoint" />
             <mxPoint x="5043" y="-449.39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="zoEOVe3GupG5Xe_KG2l_-16">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="zoEOVe3GupG5Xe_KG2l_-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4856.26" y="-454.6" as="sourcePoint" />
             <mxPoint x="4503" y="-329.39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.14;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-13" target="zoEOVe3GupG5Xe_KG2l_-32">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.14;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-13" target="zoEOVe3GupG5Xe_KG2l_-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4173" y="-539.39" as="sourcePoint" />
             <mxPoint x="4223" y="-589.39" as="targetPoint" />
@@ -1222,79 +1222,79 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-16" target="zoEOVe3GupG5Xe_KG2l_-15">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-16" target="zoEOVe3GupG5Xe_KG2l_-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4933" y="-569.39" as="sourcePoint" />
             <mxPoint x="4983" y="-619.39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-37" value="ECS" style="rounded=0;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-37" value="ECS" style="rounded=0;whiteSpace=wrap;html=1;container=1;" parent="1" vertex="1">
           <mxGeometry x="4434.389999999999" y="-366" width="217.99" height="70" as="geometry">
             <mxRectangle x="3270" y="-230" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-38" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-38" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="5083" y="49" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-39" value="Test suite of service A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-39" value="Test suite of service A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4643" y="154" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-40" value="ECS IC3 namespace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-40" value="ECS IC3 namespace" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3855.0299999999997" y="-389" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-41" value="ECS global" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-41" value="ECS global" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3924.0299999999997" y="-519" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-42" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3925.0299999999997" y="-389" as="sourcePoint" />
             <mxPoint x="3975.0299999999997" y="-439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-43" value="ECS global v1 with versions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-43" value="ECS global v1 with versions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3700.0299999999997" y="-519" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-46">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-44" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3895.0299999999997" y="-399" as="sourcePoint" />
             <mxPoint x="3775.0299999999997" y="-449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zoEOVe3GupG5Xe_KG2l_-46">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-45" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="zoEOVe3GupG5Xe_KG2l_-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3895.0299999999997" y="-399" as="sourcePoint" />
             <mxPoint x="3775.0299999999997" y="-449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-46" value="X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-46" value="X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3793.0299999999997" y="-439" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-47" value="COSMIC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-47" value="COSMIC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="3895.0299999999997" y="-279" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.588;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-47" target="zoEOVe3GupG5Xe_KG2l_-40">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.588;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-47" target="zoEOVe3GupG5Xe_KG2l_-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3965.0299999999997" y="-249" as="sourcePoint" />
             <mxPoint x="4015.0299999999997" y="-299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="zoEOVe3GupG5Xe_KG2l_-47">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-49" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="zoEOVe3GupG5Xe_KG2l_-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3715.0299999999997" y="-379" as="sourcePoint" />
             <mxPoint x="3755.0299999999997" y="-439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-50" value="ring-region" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-50" value="ring-region" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4065.0299999999997" y="-459" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zoEOVe3GupG5Xe_KG2l_-51" value="ring-region-buildversion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zoEOVe3GupG5Xe_KG2l_-51" value="ring-region-buildversion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3995.0299999999997" y="-374" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="R_4icShgGOXZ_JyszhWR" name="Buildout Draft Overview on 11/20">
-    <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1473,7 +1473,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cJlNqVpj3VHmPzKUaZ6V" name="Birds eyes view draft on 11/20">
-    <mxGraphModel dx="326" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="374" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2529,7 +2529,7 @@
             <mxPoint x="1066" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zMO72y31VIHevHxgqlIi-3" value="DTS &amp;amp;&amp;nbsp;&lt;div&gt;BOC automatic trigger buildout (3%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="zMO72y31VIHevHxgqlIi-3" value="DTS &amp;amp;&amp;nbsp;&lt;div&gt;BOC (3%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="95" y="-9" width="127" height="66" as="geometry" />
         </mxCell>
         <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Solution Ready (20%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -2580,7 +2580,7 @@
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-5" value="100%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="996" y="421" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-6" value="BOC automatic notify (2%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-6" value="BOC automatic notify (Ev2 Classic) (2%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="298" y="25" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-7" value="COSMIC onboarding (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
