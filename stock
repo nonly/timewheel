@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T13:26:08.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="k11TFYf7-233hzyUyFjy" version="24.0.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-19T13:48:44.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="5xAKfe8hDCPlbHo4b_0s" version="24.0.7" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1452" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -23,9 +23,6 @@
           <mxGeometry x="6" y="33" width="277" height="137" as="geometry">
             <mxRectangle x="6" y="33" width="83" height="26" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qEjpMvw4PonDgoeP3QfY-4" value="SMCI（回踩蓝黄买入）" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
-          <mxGeometry x="3" y="85" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qK1XgH-Dm6hCDFiqjZ2y-1" value="MARA" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
           <mxGeometry x="99" y="85" width="79" height="41" as="geometry" />
