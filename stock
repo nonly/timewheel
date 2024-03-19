@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T02:39:10.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NAdLPX-mXXZLkl-P1TKC" version="24.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-19T12:43:15.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="PUA-Knp7aGkHx0ZOt-2c" version="24.0.7" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="zJ7GScQ-YOyQgNfuBH2m-1" value="COIN" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
           <mxGeometry x="5" y="32" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-8" value="AMD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qEjpMvw4PonDgoeP3QfY-7">
+        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-8" value="AMD" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
           <mxGeometry x="99" y="32" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qEjpMvw4PonDgoeP3QfY-12" value="做空股票（仓位10%）" style="swimlane;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-3" vertex="1">
@@ -79,7 +79,7 @@
           <mxGeometry x="7" width="456" height="83" as="geometry" />
         </mxCell>
         <mxCell id="ubyKyDaO3-KK-u0BwVue-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="21" y="763" width="534.9772033691406" height="278.69478607177734" as="geometry" />
+          <mxGeometry x="21" y="763" width="534.9772033691406" height="316.69478607177734" as="geometry" />
         </mxCell>
         <mxCell id="ubyKyDaO3-KK-u0BwVue-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ubyKyDaO3-KK-u0BwVue-1" vertex="1">
           <mxGeometry width="534.9772033691406" height="43" as="geometry" />
@@ -167,7 +167,20 @@
             <mxRectangle width="272" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubyKyDaO3-KK-u0BwVue-27" value="SE亏损$10K on 7/30/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="ubyKyDaO3-KK-u0BwVue-25" vertex="1">
+        <mxCell id="ubyKyDaO3-KK-u0BwVue-27" value="SE亏损$10K on 7/30/23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="ubyKyDaO3-KK-u0BwVue-25" vertex="1">
+          <mxGeometry x="272" width="263" height="38" as="geometry">
+            <mxRectangle width="263" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fcHnVDaQZar4IB92gAQ9-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry y="279" width="534.9772033691406" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fcHnVDaQZar4IB92gAQ9-2" value="7. 【临时起意】理想汽车看到叶子哥说回踩蓝色梯子" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fcHnVDaQZar4IB92gAQ9-1">
+          <mxGeometry width="272" height="38" as="geometry">
+            <mxRectangle width="272" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fcHnVDaQZar4IB92gAQ9-3" value="Li亏损$5K on 3/19/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fcHnVDaQZar4IB92gAQ9-1">
           <mxGeometry x="272" width="263" height="38" as="geometry">
             <mxRectangle width="263" height="38" as="alternateBounds" />
           </mxGeometry>
@@ -214,29 +227,29 @@
         <mxCell id="oXvEqYshhAVdHwCSgUIM-5" value="只能做正股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="647" y="887" width="176" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-1" value="GDX&amp;nbsp; CY2403" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-1" value="GDX&amp;nbsp; CY2403" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1360" y="731" width="112" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-2" value="正股/期权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-2" value="正股/期权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="645" y="670" width="176" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-3" value="塞力斯&amp;nbsp; CY2402" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-3" value="塞力斯&amp;nbsp; CY2402" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1472" y="731" width="112" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-5" value="甜点时刻（40%/20%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-5" value="甜点时刻（40%/20%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="879" y="943" width="173" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-6" value="DIS日线&amp;nbsp; CY2301" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-6" value="DIS日线&amp;nbsp; CY2301" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1136" y="943" width="112" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-7" value="Futu 3H&amp;nbsp; CY2301" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-7" value="Futu 3H&amp;nbsp; CY2301" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1248" y="943" width="112" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="WdeTxWdvGrrDE82Gqrs9" name="How to earn money?">
-    <mxGraphModel dx="2074" dy="2232" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="1938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3702,7 +3715,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8HEuVMS3snwHu9irJYUt" name="美股AI基本面分析">
-    <mxGraphModel dx="1798" dy="1025" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3716,7 +3729,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uaXPwq2NSc6kcAN9NkS8" name="交易等级">
-    <mxGraphModel dx="1798" dy="1025" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3733,7 +3746,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1rlURXPfwSZlDotuRP0P" name="Trading v0 - positive trading">
-    <mxGraphModel dx="1798" dy="2125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4435,7 +4448,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xStdVbTSzx4En6Z2hGss" name="穷查理宝典的思维模型">
-    <mxGraphModel dx="1798" dy="1025" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
