@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T12:43:15.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="PUA-Knp7aGkHx0ZOt-2c" version="24.0.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-19T13:26:08.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="k11TFYf7-233hzyUyFjy" version="24.0.7" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,8 +185,8 @@
             <mxRectangle width="263" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mvq8p4kFGaJWg88-zBdi-2" value="回踩蓝色梯子（20%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="879" y="887" width="173" height="56" as="geometry" />
+        <mxCell id="mvq8p4kFGaJWg88-zBdi-2" value="抄底突破后，第一次回踩蓝色梯子（20%）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="884" y="821" width="173" height="56" as="geometry" />
         </mxCell>
         <mxCell id="jhC-Oz38TJ2h4or6X4e7-1" value="MARA CY2402" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1136" y="674" width="112" height="56" as="geometry" />
@@ -201,7 +201,7 @@
           <mxGeometry x="1136" y="730" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="jhC-Oz38TJ2h4or6X4e7-7" value="COIN&amp;nbsp; CY2310" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1136" y="887" width="112" height="56" as="geometry" />
+          <mxGeometry x="1140" y="821" width="112" height="56" as="geometry" />
         </mxCell>
         <mxCell id="jhC-Oz38TJ2h4or6X4e7-8" value="NVDA&amp;nbsp; CY2402" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1422" y="948" width="112" height="56" as="geometry" />
@@ -218,14 +218,8 @@
         <mxCell id="oXvEqYshhAVdHwCSgUIM-2" value="&amp;nbsp;CY2302" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1534" y="948" width="112" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="oXvEqYshhAVdHwCSgUIM-3" value="只能做正股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="647" y="943" width="176" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="oXvEqYshhAVdHwCSgUIM-4" value="只能做正股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="647" y="999" width="176" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="oXvEqYshhAVdHwCSgUIM-5" value="只能做正股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="647" y="887" width="176" height="56" as="geometry" />
+          <mxGeometry x="652" y="818" width="176" height="56" as="geometry" />
         </mxCell>
         <mxCell id="4CG7Ea5aVEembw2Ze_Zg-1" value="GDX&amp;nbsp; CY2403" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1360" y="731" width="112" height="54" as="geometry" />
