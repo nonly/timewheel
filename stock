@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T13:08:15.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="erQayWjmdmt8XjI-0wga" version="24.0.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-20T13:11:47.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="pOtWgATMOpiFX3uwlZuJ" version="24.0.7" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1452" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -603,79 +603,13 @@
             <mxRectangle width="438" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-305" value="（1）等待4H抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
+        <mxCell id="12P33xhxEBNRbPYeFPQx-305" value="（1）等待4H抄底（错失320财报机会）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-216" vertex="1">
           <mxGeometry x="789" width="178" height="64" as="geometry">
             <mxRectangle width="178" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="220" width="966.7094014485676" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-114" value="比特币减半，机构对于BTC的接受度增强，投机工具-&amp;gt;战略投资" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
-          <mxGeometry width="132" height="68" as="geometry">
-            <mxRectangle width="132" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-85" value="MARA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
-          <mxGeometry x="132" width="72" height="68" as="geometry">
-            <mxRectangle width="72" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-21" value="币" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
-          <mxGeometry x="204" width="63" height="68" as="geometry">
-            <mxRectangle width="63" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-22" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
-          <mxGeometry x="267" width="84" height="68" as="geometry">
-            <mxRectangle width="84" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-26" value="1. 日线黄色梯子强力；，蓝黄贴合更加强力；1）常年被黄色梯子欺负，&lt;span style=&quot;background-color: initial;&quot;&gt;暴力反弹只到黄色梯子；2）蓝色梯子长期欺负的抄底才有效；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 3分钟快速钻蓝色梯子很准（钻出黄色或者离黄色很远），3/5&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
-          <mxGeometry x="351" width="438" height="68" as="geometry">
-            <mxRectangle width="438" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-298" value="（2）好好挖掘，震荡做T，做空和做多" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
-          <mxGeometry x="789" width="178" height="68" as="geometry">
-            <mxRectangle width="178" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RucERruqQGH7UAjCKnzY-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="288" width="966.7094014485676" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="RucERruqQGH7UAjCKnzY-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
-          <mxGeometry width="132" height="68" as="geometry">
-            <mxRectangle width="132" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RucERruqQGH7UAjCKnzY-4" value="RKLB" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
-          <mxGeometry x="132" width="72" height="68" as="geometry">
-            <mxRectangle width="72" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RucERruqQGH7UAjCKnzY-5" value="太空" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
-          <mxGeometry x="204" width="63" height="68" as="geometry">
-            <mxRectangle width="63" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RucERruqQGH7UAjCKnzY-8" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
-          <mxGeometry x="267" width="84" height="68" as="geometry">
-            <mxRectangle width="84" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RucERruqQGH7UAjCKnzY-10" value="1. 黄色梯子作用不明显;震荡走势；&lt;b&gt;下跌30%以上的&lt;/b&gt;，4H抄底+站稳蓝色梯子有用；&lt;div&gt;2. 周线出抄底提示了，3/5&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
-          <mxGeometry x="351" width="438" height="68" as="geometry">
-            <mxRectangle width="438" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RucERruqQGH7UAjCKnzY-11" value="（3）等下次4H抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
-          <mxGeometry x="789" width="178" height="68" as="geometry">
-            <mxRectangle width="178" height="68" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-sv_zkquqd6CutIyaG7F-69" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="356" width="966.7094014485676" height="68" as="geometry" />
+          <mxGeometry y="220" width="966.7094014485676" height="68" as="geometry" />
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-113" value="随着AI应用需求增长，企业对高效能和节能服务器的需求不断增长。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-69" vertex="1">
           <mxGeometry width="132" height="68" as="geometry">
@@ -707,140 +641,8 @@
             <mxRectangle width="178" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-331" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="424" width="966.7094014485676" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-117" value="GPU市场的老大、有望10万亿市值" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
-          <mxGeometry width="132" height="84" as="geometry">
-            <mxRectangle width="132" height="84" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-333" value="NVDA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
-          <mxGeometry x="132" width="72" height="84" as="geometry">
-            <mxRectangle width="72" height="84" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-334" value="半导体" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
-          <mxGeometry x="204" width="63" height="84" as="geometry">
-            <mxRectangle width="63" height="84" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-336" value="4H, D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
-          <mxGeometry x="267" width="84" height="84" as="geometry">
-            <mxRectangle width="84" height="84" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-338" value="1）4H提示的很准，10月底买入的，不破蓝色梯子下边缘不卖出&lt;div&gt;2）去年1月买入的，蓝色&amp;gt;黄色不卖出&lt;/div&gt;&lt;div&gt;3）正股追高或者追long call的，看30分钟蓝色梯子&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
-          <mxGeometry x="351" width="438" height="84" as="geometry">
-            <mxRectangle width="438" height="84" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-339" value="(5)不好入场了，只能long call追高" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
-          <mxGeometry x="789" width="178" height="84" as="geometry">
-            <mxRectangle width="178" height="84" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-140" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="508" width="966.7094014485676" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-102" value="正股做空，学习" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
-          <mxGeometry width="132" height="65" as="geometry">
-            <mxRectangle width="132" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-141" value="TSLA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
-          <mxGeometry x="132" width="72" height="65" as="geometry">
-            <mxRectangle width="72" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-142" value="汽车" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
-          <mxGeometry x="204" width="63" height="65" as="geometry">
-            <mxRectangle width="63" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-144" value="1H，2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
-          <mxGeometry x="267" width="84" height="65" as="geometry">
-            <mxRectangle width="84" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-146" value="2小时梯子，钻上蓝色梯子视为清空做空；蓝&amp;gt;黄，视为主升浪；黄色梯子多空分水岭；&lt;br&gt;2小时卖出+跌破蓝色梯子=做空&lt;br&gt;日线提示卖出 &amp;amp; 非主升浪 =做空" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
-          <mxGeometry x="351" width="438" height="65" as="geometry">
-            <mxRectangle width="438" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-316" value="（6）观察近期的反弹机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
-          <mxGeometry x="789" width="178" height="65" as="geometry">
-            <mxRectangle width="178" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-322" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="573" width="966.7094014485676" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-120" value="微软和OpenAI合作开发AI技术，并且将AIGC技术广泛应用到其云计算平台和办公套件，搜索引擎产品中；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
-          <mxGeometry width="132" height="105" as="geometry">
-            <mxRectangle width="132" height="105" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-324" value="MSFT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
-          <mxGeometry x="132" width="72" height="105" as="geometry">
-            <mxRectangle width="72" height="105" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-325" value="软件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
-          <mxGeometry x="204" width="63" height="105" as="geometry">
-            <mxRectangle width="63" height="105" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-327" value="4H, D,15min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
-          <mxGeometry x="267" width="84" height="105" as="geometry">
-            <mxRectangle width="84" height="105" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-329" value="等待4H抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
-          <mxGeometry x="351" width="438" height="105" as="geometry">
-            <mxRectangle width="438" height="105" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-330" value="（7）等大机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
-          <mxGeometry x="789" width="178" height="105" as="geometry">
-            <mxRectangle width="178" height="105" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-200" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="678" width="966.7094014485676" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-129" value="正股做多，学习" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
-          <mxGeometry width="132" height="39" as="geometry">
-            <mxRectangle width="132" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-202" value="CCL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
-          <mxGeometry x="132" width="72" height="39" as="geometry">
-            <mxRectangle width="72" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-203" value="旅游" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
-          <mxGeometry x="204" width="63" height="39" as="geometry">
-            <mxRectangle width="63" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-205" value="2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
-          <mxGeometry x="267" width="84" height="39" as="geometry">
-            <mxRectangle width="84" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-207" value="最近一年都不准，看2H蓝色梯子和橙色梯子，适合月call" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
-          <mxGeometry x="351" width="438" height="39" as="geometry">
-            <mxRectangle width="438" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-312" value="（8）等待升上去的put机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
-          <mxGeometry x="789" width="178" height="39" as="geometry">
-            <mxRectangle width="178" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="717" width="966.7094014485676" height="58" as="geometry" />
+          <mxGeometry y="288" width="966.7094014485676" height="58" as="geometry" />
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-112" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="FumZLj7Mq1QkP2dHfOBK-1" vertex="1">
           <mxGeometry width="132" height="58" as="geometry">
@@ -872,107 +674,8 @@
             <mxRectangle width="178" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-192" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="775" width="966.7094014485676" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-115" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
-          <mxGeometry width="132" height="49" as="geometry">
-            <mxRectangle width="132" height="49" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-194" value="PLTR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
-          <mxGeometry x="132" width="72" height="49" as="geometry">
-            <mxRectangle width="72" height="49" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-195" value="软件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
-          <mxGeometry x="204" width="63" height="49" as="geometry">
-            <mxRectangle width="63" height="49" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-197" value="1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
-          <mxGeometry x="267" width="84" height="49" as="geometry">
-            <mxRectangle width="84" height="49" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-199" value="1小时比较准，提示了几次大机会；&lt;div&gt;但是牛短熊长不够硬，不抗跌；&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
-          <mxGeometry x="351" width="438" height="49" as="geometry">
-            <mxRectangle width="438" height="49" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-304" value="（10）正股1H蓝色&amp;gt;黄色" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
-          <mxGeometry x="789" width="178" height="49" as="geometry">
-            <mxRectangle width="178" height="49" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-59" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="824" width="966.7094014485676" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
-          <mxGeometry width="132" height="39" as="geometry">
-            <mxRectangle width="132" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-61" value="ARM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
-          <mxGeometry x="132" width="72" height="39" as="geometry">
-            <mxRectangle width="72" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-62" value="半导体" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
-          <mxGeometry x="204" width="63" height="39" as="geometry">
-            <mxRectangle width="63" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-65" value="D, 1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
-          <mxGeometry x="267" width="84" height="39" as="geometry">
-            <mxRectangle width="84" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-67" value="1H不破继续持有，1H蓝色&amp;gt;黄色，仍有机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
-          <mxGeometry x="351" width="438" height="39" as="geometry">
-            <mxRectangle width="438" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sv_zkquqd6CutIyaG7F-68" value="(11) 1H回踩机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
-          <mxGeometry x="789" width="178" height="39" as="geometry">
-            <mxRectangle width="178" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U4elQ5bvfk8K6HLXWWCx-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="863" width="966.7094014485676" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="U4elQ5bvfk8K6HLXWWCx-2" value="数字化转型，企业和政府的网络安全需求增长，国际市场扩张，看好欧洲和亚洲的扩张" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
-          <mxGeometry width="132" height="110" as="geometry">
-            <mxRectangle width="132" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U4elQ5bvfk8K6HLXWWCx-4" value="crwd" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
-          <mxGeometry x="132" width="72" height="110" as="geometry">
-            <mxRectangle width="72" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U4elQ5bvfk8K6HLXWWCx-5" value="网络安全" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
-          <mxGeometry x="204" width="63" height="110" as="geometry">
-            <mxRectangle width="63" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U4elQ5bvfk8K6HLXWWCx-8" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
-          <mxGeometry x="267" width="84" height="110" as="geometry">
-            <mxRectangle width="84" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U4elQ5bvfk8K6HLXWWCx-10" value="日线不破蓝色梯子不卖出；看4H抄底提示" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
-          <mxGeometry x="351" width="438" height="110" as="geometry">
-            <mxRectangle width="438" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U4elQ5bvfk8K6HLXWWCx-11" value="（12）没有介入点？" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
-          <mxGeometry x="789" width="178" height="110" as="geometry">
-            <mxRectangle width="178" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="973" width="966.7094014485676" height="40" as="geometry" />
+          <mxGeometry y="346" width="966.7094014485676" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-123" value="右侧已经开启" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-11" vertex="1">
           <mxGeometry width="132" height="40" as="geometry">
@@ -1004,41 +707,8 @@
             <mxRectangle width="178" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1013" width="966.7094014485676" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
-          <mxGeometry width="132" height="39" as="geometry">
-            <mxRectangle width="132" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-3" value="GOOG" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
-          <mxGeometry x="132" width="72" height="39" as="geometry">
-            <mxRectangle width="72" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-4" value="互联网" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
-          <mxGeometry x="204" width="63" height="39" as="geometry">
-            <mxRectangle width="63" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-7" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
-          <mxGeometry x="267" width="84" height="39" as="geometry">
-            <mxRectangle width="84" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-9" value="配合抄底提示，做周call；游击战打法；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
-          <mxGeometry x="351" width="438" height="39" as="geometry">
-            <mxRectangle width="438" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-10" value="（15）等待跌下来的抄底周call机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
-          <mxGeometry x="789" width="178" height="39" as="geometry">
-            <mxRectangle width="178" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OnKBCfNjT385F36Dsw0G-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1052" width="966.7094014485676" height="55" as="geometry" />
+          <mxGeometry y="386" width="966.7094014485676" height="55" as="geometry" />
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-125" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="OnKBCfNjT385F36Dsw0G-1" vertex="1">
           <mxGeometry width="132" height="55" as="geometry">
@@ -1071,7 +741,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1107" width="966.7094014485676" height="38" as="geometry" />
+          <mxGeometry y="441" width="966.7094014485676" height="38" as="geometry" />
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-131" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-74" vertex="1">
           <mxGeometry width="132" height="38" as="geometry">
@@ -1104,7 +774,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-208" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1145" width="966.7094014485676" height="49" as="geometry" />
+          <mxGeometry y="479" width="966.7094014485676" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-128" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-208" vertex="1">
           <mxGeometry width="132" height="49" as="geometry">
@@ -1137,7 +807,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-232" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1194" width="966.7094014485676" height="47" as="geometry" />
+          <mxGeometry y="528" width="966.7094014485676" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-119" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-232" vertex="1">
           <mxGeometry width="132" height="47" as="geometry">
@@ -1169,41 +839,8 @@
             <mxRectangle width="178" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-147" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1241" width="966.7094014485676" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="FumZLj7Mq1QkP2dHfOBK-118" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
-          <mxGeometry width="132" height="39" as="geometry">
-            <mxRectangle width="132" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-148" value="META" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
-          <mxGeometry x="132" width="72" height="39" as="geometry">
-            <mxRectangle width="72" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-149" value="互联网" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
-          <mxGeometry x="204" width="63" height="39" as="geometry">
-            <mxRectangle width="63" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-151" value="3H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
-          <mxGeometry x="267" width="84" height="39" as="geometry">
-            <mxRectangle width="84" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-153" value="关注周线级别卖出机会，日线跌破蓝色梯子，做空" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
-          <mxGeometry x="351" width="438" height="39" as="geometry">
-            <mxRectangle width="438" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12P33xhxEBNRbPYeFPQx-301" value="（21）回踩3H蓝色梯子，加月call" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
-          <mxGeometry x="789" width="178" height="39" as="geometry">
-            <mxRectangle width="178" height="39" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-51" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1280" width="966.7094014485676" height="34" as="geometry" />
+          <mxGeometry y="575" width="966.7094014485676" height="34" as="geometry" />
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-108" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="QbkfGh-tsBN4YECGr1hb-51" vertex="1">
           <mxGeometry width="132" height="34" as="geometry">
@@ -1235,41 +872,8 @@
             <mxRectangle width="178" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1314" width="966.7094014485676" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
-          <mxGeometry width="132" height="61" as="geometry">
-            <mxRectangle width="132" height="61" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-4" value="ARM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
-          <mxGeometry x="132" width="72" height="61" as="geometry">
-            <mxRectangle width="72" height="61" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-5" value="半导体" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
-          <mxGeometry x="204" width="63" height="61" as="geometry">
-            <mxRectangle width="63" height="61" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-8" value="1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
-          <mxGeometry x="267" width="84" height="61" as="geometry">
-            <mxRectangle width="84" height="61" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-10" value="蓝色&amp;gt;黄色，回踩黄色加仓，跌出蓝色加仓" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
-          <mxGeometry x="351" width="438" height="61" as="geometry">
-            <mxRectangle width="438" height="61" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_wnwlGk6JsTbuT60Q1vu-11" value="（23）感觉还有一波起飞 3/8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
-          <mxGeometry x="789" width="178" height="61" as="geometry">
-            <mxRectangle width="178" height="61" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_wnwlGk6JsTbuT60Q1vu-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1375" width="966.7094014485676" height="93" as="geometry" />
+          <mxGeometry y="609" width="966.7094014485676" height="93" as="geometry" />
         </mxCell>
         <mxCell id="_wnwlGk6JsTbuT60Q1vu-13" value="为了推智能驾驶，华为极力宣传赛力斯和问界，把赛力斯打造为合作样板间；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-12" vertex="1">
           <mxGeometry width="132" height="93" as="geometry">
@@ -1301,8 +905,41 @@
             <mxRectangle width="178" height="93" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-147" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="702" width="966.7094014485676" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-118" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
+          <mxGeometry width="132" height="39" as="geometry">
+            <mxRectangle width="132" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-148" value="META" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
+          <mxGeometry x="132" width="72" height="39" as="geometry">
+            <mxRectangle width="72" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-149" value="互联网" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
+          <mxGeometry x="204" width="63" height="39" as="geometry">
+            <mxRectangle width="63" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-151" value="3H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-153" value="关注周线级别卖出机会，日线跌破蓝色梯子，做空" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-301" value="（21）回踩3H蓝色梯子，加月call" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-147" vertex="1">
+          <mxGeometry x="789" width="178" height="39" as="geometry">
+            <mxRectangle width="178" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="12P33xhxEBNRbPYeFPQx-38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
-          <mxGeometry y="1468" width="966.7094014485676" height="39" as="geometry" />
+          <mxGeometry y="741" width="966.7094014485676" height="39" as="geometry" />
         </mxCell>
         <mxCell id="FumZLj7Mq1QkP2dHfOBK-134" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-38" vertex="1">
           <mxGeometry width="132" height="39" as="geometry">
@@ -1332,6 +969,369 @@
         <mxCell id="12P33xhxEBNRbPYeFPQx-320" value="（3）4H的回踩机会；30分钟追高" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-38" vertex="1">
           <mxGeometry x="789" width="178" height="39" as="geometry">
             <mxRectangle width="178" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="780" width="966.7094014485676" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-114" value="比特币减半，机构对于BTC的接受度增强，投机工具-&amp;gt;战略投资" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+          <mxGeometry width="132" height="68" as="geometry">
+            <mxRectangle width="132" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-85" value="MARA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+          <mxGeometry x="132" width="72" height="68" as="geometry">
+            <mxRectangle width="72" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-21" value="币" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+          <mxGeometry x="204" width="63" height="68" as="geometry">
+            <mxRectangle width="63" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-22" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+          <mxGeometry x="267" width="84" height="68" as="geometry">
+            <mxRectangle width="84" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-26" value="1. 日线黄色梯子强力；，蓝黄贴合更加强力；1）常年被黄色梯子欺负，&lt;span style=&quot;background-color: initial;&quot;&gt;暴力反弹只到黄色梯子；2）蓝色梯子长期欺负的抄底才有效；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 3分钟快速钻蓝色梯子很准（钻出黄色或者离黄色很远），3/5&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+          <mxGeometry x="351" width="438" height="68" as="geometry">
+            <mxRectangle width="438" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-298" value="（2）好好挖掘，震荡做T，做空和做多" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-20" vertex="1">
+          <mxGeometry x="789" width="178" height="68" as="geometry">
+            <mxRectangle width="178" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RucERruqQGH7UAjCKnzY-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="848" width="966.7094014485676" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="RucERruqQGH7UAjCKnzY-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
+          <mxGeometry width="132" height="68" as="geometry">
+            <mxRectangle width="132" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RucERruqQGH7UAjCKnzY-4" value="RKLB" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
+          <mxGeometry x="132" width="72" height="68" as="geometry">
+            <mxRectangle width="72" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RucERruqQGH7UAjCKnzY-5" value="太空" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
+          <mxGeometry x="204" width="63" height="68" as="geometry">
+            <mxRectangle width="63" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RucERruqQGH7UAjCKnzY-8" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
+          <mxGeometry x="267" width="84" height="68" as="geometry">
+            <mxRectangle width="84" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RucERruqQGH7UAjCKnzY-10" value="1. 黄色梯子作用不明显;震荡走势；&lt;b&gt;下跌30%以上的&lt;/b&gt;，4H抄底+站稳蓝色梯子有用；&lt;div&gt;2. 周线出抄底提示了，3/5&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
+          <mxGeometry x="351" width="438" height="68" as="geometry">
+            <mxRectangle width="438" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RucERruqQGH7UAjCKnzY-11" value="（3）等下次4H抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="RucERruqQGH7UAjCKnzY-1" vertex="1">
+          <mxGeometry x="789" width="178" height="68" as="geometry">
+            <mxRectangle width="178" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-331" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="916" width="966.7094014485676" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-117" value="GPU市场的老大、有望10万亿市值" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+          <mxGeometry width="132" height="84" as="geometry">
+            <mxRectangle width="132" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-333" value="NVDA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+          <mxGeometry x="132" width="72" height="84" as="geometry">
+            <mxRectangle width="72" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-334" value="半导体" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+          <mxGeometry x="204" width="63" height="84" as="geometry">
+            <mxRectangle width="63" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-336" value="4H, D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+          <mxGeometry x="267" width="84" height="84" as="geometry">
+            <mxRectangle width="84" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-338" value="1）4H提示的很准，10月底买入的，不破蓝色梯子下边缘不卖出&lt;div&gt;2）去年1月买入的，蓝色&amp;gt;黄色不卖出&lt;/div&gt;&lt;div&gt;3）正股追高或者追long call的，看30分钟蓝色梯子&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+          <mxGeometry x="351" width="438" height="84" as="geometry">
+            <mxRectangle width="438" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-339" value="(5)不好入场了，只能long call追高" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-331" vertex="1">
+          <mxGeometry x="789" width="178" height="84" as="geometry">
+            <mxRectangle width="178" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-140" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="1000" width="966.7094014485676" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-102" value="正股做空，学习" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+          <mxGeometry width="132" height="65" as="geometry">
+            <mxRectangle width="132" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-141" value="TSLA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+          <mxGeometry x="132" width="72" height="65" as="geometry">
+            <mxRectangle width="72" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-142" value="汽车" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+          <mxGeometry x="204" width="63" height="65" as="geometry">
+            <mxRectangle width="63" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-144" value="1H，2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+          <mxGeometry x="267" width="84" height="65" as="geometry">
+            <mxRectangle width="84" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-146" value="2小时梯子，钻上蓝色梯子视为清空做空；蓝&amp;gt;黄，视为主升浪；黄色梯子多空分水岭；&lt;br&gt;2小时卖出+跌破蓝色梯子=做空&lt;br&gt;日线提示卖出 &amp;amp; 非主升浪 =做空" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+          <mxGeometry x="351" width="438" height="65" as="geometry">
+            <mxRectangle width="438" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-316" value="（6）观察近期的反弹机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-140" vertex="1">
+          <mxGeometry x="789" width="178" height="65" as="geometry">
+            <mxRectangle width="178" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-322" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="1065" width="966.7094014485676" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-120" value="微软和OpenAI合作开发AI技术，并且将AIGC技术广泛应用到其云计算平台和办公套件，搜索引擎产品中；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+          <mxGeometry width="132" height="105" as="geometry">
+            <mxRectangle width="132" height="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-324" value="MSFT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+          <mxGeometry x="132" width="72" height="105" as="geometry">
+            <mxRectangle width="72" height="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-325" value="软件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+          <mxGeometry x="204" width="63" height="105" as="geometry">
+            <mxRectangle width="63" height="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-327" value="4H, D,15min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+          <mxGeometry x="267" width="84" height="105" as="geometry">
+            <mxRectangle width="84" height="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-329" value="等待4H抄底" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+          <mxGeometry x="351" width="438" height="105" as="geometry">
+            <mxRectangle width="438" height="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-330" value="（7）等大机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-322" vertex="1">
+          <mxGeometry x="789" width="178" height="105" as="geometry">
+            <mxRectangle width="178" height="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-200" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="1170" width="966.7094014485676" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-129" value="正股做多，学习" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
+          <mxGeometry width="132" height="39" as="geometry">
+            <mxRectangle width="132" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-202" value="CCL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
+          <mxGeometry x="132" width="72" height="39" as="geometry">
+            <mxRectangle width="72" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-203" value="旅游" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
+          <mxGeometry x="204" width="63" height="39" as="geometry">
+            <mxRectangle width="63" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-205" value="2H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-207" value="最近一年都不准，看2H蓝色梯子和橙色梯子，适合月call" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-312" value="（8）等待升上去的put机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-200" vertex="1">
+          <mxGeometry x="789" width="178" height="39" as="geometry">
+            <mxRectangle width="178" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-192" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="1209" width="966.7094014485676" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-115" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
+          <mxGeometry width="132" height="49" as="geometry">
+            <mxRectangle width="132" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-194" value="PLTR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
+          <mxGeometry x="132" width="72" height="49" as="geometry">
+            <mxRectangle width="72" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-195" value="软件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
+          <mxGeometry x="204" width="63" height="49" as="geometry">
+            <mxRectangle width="63" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-197" value="1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
+          <mxGeometry x="267" width="84" height="49" as="geometry">
+            <mxRectangle width="84" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-199" value="1小时比较准，提示了几次大机会；&lt;div&gt;但是牛短熊长不够硬，不抗跌；&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
+          <mxGeometry x="351" width="438" height="49" as="geometry">
+            <mxRectangle width="438" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12P33xhxEBNRbPYeFPQx-304" value="（10）正股1H蓝色&amp;gt;黄色" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12P33xhxEBNRbPYeFPQx-192" vertex="1">
+          <mxGeometry x="789" width="178" height="49" as="geometry">
+            <mxRectangle width="178" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sv_zkquqd6CutIyaG7F-59" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="1258" width="966.7094014485676" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
+          <mxGeometry width="132" height="39" as="geometry">
+            <mxRectangle width="132" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sv_zkquqd6CutIyaG7F-61" value="ARM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
+          <mxGeometry x="132" width="72" height="39" as="geometry">
+            <mxRectangle width="72" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sv_zkquqd6CutIyaG7F-62" value="半导体" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
+          <mxGeometry x="204" width="63" height="39" as="geometry">
+            <mxRectangle width="63" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sv_zkquqd6CutIyaG7F-65" value="D, 1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sv_zkquqd6CutIyaG7F-67" value="1H不破继续持有，1H蓝色&amp;gt;黄色，仍有机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sv_zkquqd6CutIyaG7F-68" value="(11) 1H回踩机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="-sv_zkquqd6CutIyaG7F-59" vertex="1">
+          <mxGeometry x="789" width="178" height="39" as="geometry">
+            <mxRectangle width="178" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4elQ5bvfk8K6HLXWWCx-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="1297" width="966.7094014485676" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U4elQ5bvfk8K6HLXWWCx-2" value="数字化转型，企业和政府的网络安全需求增长，国际市场扩张，看好欧洲和亚洲的扩张" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
+          <mxGeometry width="132" height="110" as="geometry">
+            <mxRectangle width="132" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4elQ5bvfk8K6HLXWWCx-4" value="crwd" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
+          <mxGeometry x="132" width="72" height="110" as="geometry">
+            <mxRectangle width="72" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4elQ5bvfk8K6HLXWWCx-5" value="网络安全" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
+          <mxGeometry x="204" width="63" height="110" as="geometry">
+            <mxRectangle width="63" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4elQ5bvfk8K6HLXWWCx-8" value="4H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
+          <mxGeometry x="267" width="84" height="110" as="geometry">
+            <mxRectangle width="84" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4elQ5bvfk8K6HLXWWCx-10" value="日线不破蓝色梯子不卖出；看4H抄底提示" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
+          <mxGeometry x="351" width="438" height="110" as="geometry">
+            <mxRectangle width="438" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4elQ5bvfk8K6HLXWWCx-11" value="（12）没有介入点？" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U4elQ5bvfk8K6HLXWWCx-1" vertex="1">
+          <mxGeometry x="789" width="178" height="110" as="geometry">
+            <mxRectangle width="178" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="1407" width="966.7094014485676" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="FumZLj7Mq1QkP2dHfOBK-101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
+          <mxGeometry width="132" height="39" as="geometry">
+            <mxRectangle width="132" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-3" value="GOOG" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
+          <mxGeometry x="132" width="72" height="39" as="geometry">
+            <mxRectangle width="72" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-4" value="互联网" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
+          <mxGeometry x="204" width="63" height="39" as="geometry">
+            <mxRectangle width="63" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-7" value="30M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
+          <mxGeometry x="267" width="84" height="39" as="geometry">
+            <mxRectangle width="84" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-9" value="配合抄底提示，做周call；游击战打法；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
+          <mxGeometry x="351" width="438" height="39" as="geometry">
+            <mxRectangle width="438" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW7NKqL3Uw1iAm-7bFNX-10" value="（15）等待跌下来的抄底周call机会" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="PW7NKqL3Uw1iAm-7bFNX-1" vertex="1">
+          <mxGeometry x="789" width="178" height="39" as="geometry">
+            <mxRectangle width="178" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
+          <mxGeometry y="1446" width="966.7094014485676" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
+          <mxGeometry width="132" height="61" as="geometry">
+            <mxRectangle width="132" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-4" value="ARM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
+          <mxGeometry x="132" width="72" height="61" as="geometry">
+            <mxRectangle width="72" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-5" value="半导体" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
+          <mxGeometry x="204" width="63" height="61" as="geometry">
+            <mxRectangle width="63" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-8" value="1H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
+          <mxGeometry x="267" width="84" height="61" as="geometry">
+            <mxRectangle width="84" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-10" value="蓝色&amp;gt;黄色，回踩黄色加仓，跌出蓝色加仓" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
+          <mxGeometry x="351" width="438" height="61" as="geometry">
+            <mxRectangle width="438" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wnwlGk6JsTbuT60Q1vu-11" value="（23）感觉还有一波起飞 3/8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_wnwlGk6JsTbuT60Q1vu-1" vertex="1">
+          <mxGeometry x="789" width="178" height="61" as="geometry">
+            <mxRectangle width="178" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbkfGh-tsBN4YECGr1hb-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12P33xhxEBNRbPYeFPQx-1" vertex="1">
