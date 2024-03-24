@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T13:16:47.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="6YAcdBaVHadUPAubo9xs" version="24.0.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-24T14:07:21.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="3tjRtwInFZknChtCgolq" version="24.0.7" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="1021" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,17 +24,14 @@
             <mxRectangle x="6" y="33" width="83" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qK1XgH-Dm6hCDFiqjZ2y-1" value="MARA" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
-          <mxGeometry x="99" y="85" width="79" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="zJ7GScQ-YOyQgNfuBH2m-1" value="COIN" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
+        <mxCell id="zJ7GScQ-YOyQgNfuBH2m-1" value="COIN-4H" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
           <mxGeometry x="5" y="32" width="79" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="4CG7Ea5aVEembw2Ze_Zg-8" value="AMD" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
-          <mxGeometry x="99" y="32" width="79" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="fcHnVDaQZar4IB92gAQ9-4" value="SMCI-30分钟抄底" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qEjpMvw4PonDgoeP3QfY-7">
+        <mxCell id="fcHnVDaQZar4IB92gAQ9-4" value="Open-4H" style="rounded=0;whiteSpace=wrap;html=1;" parent="qEjpMvw4PonDgoeP3QfY-7" vertex="1">
           <mxGeometry x="5" y="85" width="79" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="83vcP68YbrzrxW5wKZtq-1" value="UPST-4H" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qEjpMvw4PonDgoeP3QfY-7">
+          <mxGeometry x="99" y="32" width="79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qEjpMvw4PonDgoeP3QfY-12" value="做空股票（仓位10%）" style="swimlane;whiteSpace=wrap;html=1;" parent="SWJJTzRuUexJNL7H4vBf-3" vertex="1">
           <mxGeometry x="314" y="33.5" width="133" height="136" as="geometry" />
@@ -172,15 +169,15 @@
             <mxRectangle width="263" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fcHnVDaQZar4IB92gAQ9-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+        <mxCell id="fcHnVDaQZar4IB92gAQ9-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ubyKyDaO3-KK-u0BwVue-1" vertex="1">
           <mxGeometry y="279" width="534.9772033691406" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="fcHnVDaQZar4IB92gAQ9-2" value="7. 【临时起意】理想汽车看到叶子哥说回踩蓝色梯子" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fcHnVDaQZar4IB92gAQ9-1">
+        <mxCell id="fcHnVDaQZar4IB92gAQ9-2" value="7. 【临时起意】理想汽车看到叶子哥说回踩蓝色梯子" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="fcHnVDaQZar4IB92gAQ9-1" vertex="1">
           <mxGeometry width="272" height="38" as="geometry">
             <mxRectangle width="272" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fcHnVDaQZar4IB92gAQ9-3" value="Li亏损$5K on 3/19/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fcHnVDaQZar4IB92gAQ9-1">
+        <mxCell id="fcHnVDaQZar4IB92gAQ9-3" value="Li亏损$5K on 3/19/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="fcHnVDaQZar4IB92gAQ9-1" vertex="1">
           <mxGeometry x="272" width="263" height="38" as="geometry">
             <mxRectangle width="263" height="38" as="alternateBounds" />
           </mxGeometry>
