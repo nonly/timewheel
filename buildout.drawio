@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T09:00:59.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2Xv-l8VlpHUFPVpBN0OA" version="24.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-26T01:31:53.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6AOfQu9fQNOBYgtJPrkx" version="24.0.7" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="4148" dy="1414" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2651,6 +2651,38 @@
         </mxCell>
         <mxCell id="k4V9ogtHYEq1eqADUjTF-5" value="Not mandatory in IC3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="41" y="391" width="109" height="39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NCcwu74hYD0Tbif4VFix" name="Service buildout flow details">
+    <mxGraphModel dx="1430" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X9mada7wUBC4idB2ULiS-2" value="One-cert domain registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X9mada7wUBC4idB2ULiS-3" value="Service global cloud specific configs update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X9mada7wUBC4idB2ULiS-4" value="subscription provision" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="382" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X9mada7wUBC4idB2ULiS-5" value="Assisted identify creation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="382" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X9mada7wUBC4idB2ULiS-6" value="AKV creation with RBAC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="382" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X9mada7wUBC4idB2ULiS-7" value="DNS record creation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="824" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X9mada7wUBC4idB2ULiS-8" value="certificate provision" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="818" y="382" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X9mada7wUBC4idB2ULiS-9" value="Geneva metrics account provision" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="382" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
