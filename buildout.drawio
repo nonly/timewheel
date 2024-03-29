@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T08:50:37.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vciPpZfO_qcSsZBAG9Zg" version="24.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-29T08:53:49.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HGGsqQcSaE8KM8kpF-aL" version="24.2.0" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2521,7 +2521,7 @@
           <mxGeometry x="263" y="179" width="125" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zMO72y31VIHevHxgqlIi-1" value="Geneva provision (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="262" y="219" width="127" height="42" as="geometry" />
+          <mxGeometry x="262" y="222" width="127" height="42" as="geometry" />
         </mxCell>
         <mxCell id="zMO72y31VIHevHxgqlIi-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2535,19 +2535,19 @@
         <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Ev2 RA model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="467" y="275" width="120" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Service local deploy-time config binding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Deploy-time config binding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="639" y="416" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="subscription provision for Ev2 RS model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="467" y="177" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-2" value="cert provision for Ev2 RS model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="465" y="227" width="120" height="34" as="geometry" />
+          <mxGeometry x="467" y="230" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-3" value="service global config binding (20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="639" y="376" width="120" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="WTU374NI6hd9cMv-FZc3-1" value="shared library&amp;nbsp; (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="WTU374NI6hd9cMv-FZc3-1" value="shared library&amp;nbsp; (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="639" y="336.5" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="fLnOMfTA1273BjCceCpT-1" value="3p AAD application provision and appID lookup (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
@@ -2626,16 +2626,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8A04edFfqFnw_7av2iqB-3" value="BOC" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="65" width="241" height="88" as="geometry" />
+          <mxGeometry x="438" y="64" width="174" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="8A04edFfqFnw_7av2iqB-5" value="dependency status collection (3%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8A04edFfqFnw_7av2iqB-3" vertex="1">
-          <mxGeometry x="45" y="35" width="83" height="39" as="geometry" />
+        <mxCell id="8A04edFfqFnw_7av2iqB-6" value="support Ev2 RS model(5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8A04edFfqFnw_7av2iqB-3" vertex="1">
+          <mxGeometry x="27" y="34.5" width="112" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="8A04edFfqFnw_7av2iqB-6" value="automatic deployment for Ev2 RS model(2%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8A04edFfqFnw_7av2iqB-3" vertex="1">
-          <mxGeometry x="129" y="35" width="99" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="8A04edFfqFnw_7av2iqB-4" value="DTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="206" y="99" width="73" height="35" as="geometry" />
+        <mxCell id="8A04edFfqFnw_7av2iqB-4" value="DTS (3%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="279" y="103" width="95" height="39" as="geometry" />
         </mxCell>
         <mxCell id="k4V9ogtHYEq1eqADUjTF-1" value="blocked" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="41" y="430" width="109" height="39" as="geometry" />
