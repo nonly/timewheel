@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T09:05:27.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sHsPRr8vK-t5RPN_J0y0" version="24.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-29T09:24:05.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="rnMe-f0Q6ePzIQb9W2dt" version="24.2.0" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2529,13 +2529,13 @@
             <mxPoint x="1233" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Solution Ready (25%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Solution Ready (30%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="242" y="538" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Ev2 RA model (3%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Ev2 RA model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="467" y="275" width="120" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Deploy-time config binding (2%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Deploy-time config binding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="639" y="416" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="subscription provision for Ev2 RS model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -2568,7 +2568,7 @@
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-2" value="Blocked or deprioritized (30%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="848" y="544" width="287" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-3" value="25%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-3" value="30%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="411" y="514" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-4" value="70%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -2649,8 +2649,8 @@
         <mxCell id="k4V9ogtHYEq1eqADUjTF-5" value="Not recommended in IC3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="41" y="391" width="109" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="3-6-2Re763AdZHoAJPYc-1" value="Bind cloud global to non compute resources configs (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="261.75" y="275" width="127.25" height="45" as="geometry" />
+        <mxCell id="3-6-2Re763AdZHoAJPYc-1" value="Bind cloud global to non compute resources configs (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="259" y="278" width="131" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
