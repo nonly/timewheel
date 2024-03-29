@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T08:56:42.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Og0F1JPVetq6g3lQOfcs" version="24.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-29T08:57:39.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_wPI0-ds1m1K2I11a386" version="24.2.0" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2529,7 +2529,7 @@
             <mxPoint x="1233" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Solution Ready (28%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Solution Ready (30%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="242" y="538" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Ev2 RA model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
@@ -2568,7 +2568,7 @@
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-2" value="Blocked or deprioritized (30%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="848" y="544" width="287" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-3" value="28%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-3" value="30%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="411" y="514" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-4" value="70%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -2631,7 +2631,7 @@
         <mxCell id="8A04edFfqFnw_7av2iqB-6" value="support Ev2 RS model(5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8A04edFfqFnw_7av2iqB-3" vertex="1">
           <mxGeometry x="27" y="34.5" width="112" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="8A04edFfqFnw_7av2iqB-4" value="DTS (3%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="8A04edFfqFnw_7av2iqB-4" value="DTS (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="279" y="103" width="95" height="39" as="geometry" />
         </mxCell>
         <mxCell id="k4V9ogtHYEq1eqADUjTF-1" value="blocked" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
