@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T09:51:11.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qOj_pu-LvXXgbTRECQvT" version="24.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-29T09:55:54.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nWscsquAMNVIijNdEnq3" version="24.2.0" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2550,14 +2550,14 @@
         <mxCell id="WTU374NI6hd9cMv-FZc3-1" value="shared library&amp;nbsp; (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="639" y="336.5" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="fLnOMfTA1273BjCceCpT-1" value="3p AAD application provision and appID lookup (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="851" y="170" width="120" height="44" as="geometry" />
+        <mxCell id="fLnOMfTA1273BjCceCpT-1" value="1p/3p AAD application provision, access grant for Azure resources, 3p App id lookup (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="853" y="170" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="NrST8CiUoxN8g3PDT3SZ-1" value="DNS provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="851" y="223.5" width="120" height="33" as="geometry" />
+          <mxGeometry x="853" y="278" width="120" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC MSI ID lookup (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1019" y="166" width="120" height="72" as="geometry" />
+        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC MSI ID lookup and access grant for Azure resources (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="174.5" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="PbZ5lWEaIfDMu1pvGekI-1" value="Geneva synthetic provision (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1035" y="461.5" width="109" height="39" as="geometry" />
