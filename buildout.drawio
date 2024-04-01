@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T05:46:40.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XtmtWijrmtblLzXd0f9g" version="24.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-01T07:00:36.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="anMPutR66j4cccR9xovN" version="24.2.0" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2412,7 +2412,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VlmL8j-jJO0P5KTC0Ybi" name="time cost">
-    <mxGraphModel dx="3174" dy="1920" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2828" dy="1793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2446,7 +2446,7 @@
         <mxCell id="nhFkO93609jCBAf3iY5T-12" value="non compute region agnostic (5 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="201" y="598" width="144" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nhFkO93609jCBAf3iY5T-13" value="non compute automation tools (16 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nhFkO93609jCBAf3iY5T-13" value="non compute automation tools and configs (16 days)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="598" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nhFkO93609jCBAf3iY5T-14" value="9. COSMIC onboarding (2 days)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
