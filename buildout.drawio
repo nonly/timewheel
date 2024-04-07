@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T09:17:45.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="v75YL4WD4NfemDk2Q7En" version="24.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T05:04:16.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LQEDqKQeWDDwISRtRS9b" version="24.2.1" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
-    <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2963" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1088,7 +1088,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X7wSr0WkXvUNmilkNi0b" name="Flow Overview for LT">
-    <mxGraphModel dx="-1326" dy="2170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1326" dy="2232" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1294,7 +1294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R_4icShgGOXZ_JyszhWR" name="Buildout Draft Overview on 11/20">
-    <mxGraphModel dx="2074" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2526,16 +2526,16 @@
         <mxCell id="aKfQwOyAPVBmvjudxmDq-1" value="Solution Ready (30%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="242" y="538" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Ev2 RA model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Ev2 RA model for service specific local configs (1%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="641" y="272" width="120" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Deploy-time config binding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="450" y="410.5" width="120" height="40" as="geometry" />
+        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Deploy-time config binding for service specific local configs (2%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="437.5" y="412" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="subscription provision for Ev2 classic model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="subscription provision in Ev2 RA and classic hybrid model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="641" y="174" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8j6GkCfV0Cca9WRWLpLP-2" value="cert provision for Ev2 classic model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="8j6GkCfV0Cca9WRWLpLP-2" value="cert provision in Ev2 RA and classic hybrid model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="641" y="227" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-3" value="service global config binding (20%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -2619,12 +2619,6 @@
             <mxPoint x="848" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8A04edFfqFnw_7av2iqB-3" value="BOC" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="612" y="61" width="174" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="8A04edFfqFnw_7av2iqB-6" value="support Ev2 classic model(5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8A04edFfqFnw_7av2iqB-3" vertex="1">
-          <mxGeometry x="27" y="34.5" width="112" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="8A04edFfqFnw_7av2iqB-4" value="DTS (3%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="279" y="103" width="95" height="39" as="geometry" />
         </mxCell>
@@ -2643,17 +2637,20 @@
         <mxCell id="k4V9ogtHYEq1eqADUjTF-5" value="Not recommended in IC3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="41" y="391" width="109" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="3-6-2Re763AdZHoAJPYc-1" value="Bind cloud global to non compute resources configs (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="3-6-2Re763AdZHoAJPYc-1" value="Bind cloud global to non compute resources configs (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="262" y="278" width="131" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="h_exZQbiuaL3lPupS9GI-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="h_exZQbiuaL3lPupS9GI-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="591" y="569" as="sourcePoint" />
             <mxPoint x="591" y="16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_exZQbiuaL3lPupS9GI-2" value="55% (4/30 will be ready)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h_exZQbiuaL3lPupS9GI-2" value="55% (4/30 will be ready)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="528" y="508" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8A04edFfqFnw_7av2iqB-6" value="BOC support Ev2 classic model(5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="641" y="94" width="112" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
