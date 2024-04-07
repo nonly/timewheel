@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T10:19:18.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="xVn-Pe-ayNnf5pdML9QH" version="24.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-07T12:10:09.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="z1zYCMNKACzp-_vPFJoa" version="24.2.2" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
     <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WdeTxWdvGrrDE82Gqrs9" name="How to earn money?">
-    <mxGraphModel dx="1379" dy="1938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,7 +429,7 @@
         <mxCell id="aw2xVNhjCHg9UtsCvs19-57" value="机构也不一定是对的；大单也有错的；关注极速买入+SWEEP+1M大单；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="aw2xVNhjCHg9UtsCvs19-1" vertex="1">
           <mxGeometry x="11" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dJtvpFZVgvFk0XaL-dHe-3" value="Mara 做T" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dJtvpFZVgvFk0XaL-dHe-3" value="Mara 做T" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="859" y="87" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vYHh5uelYFB4vhiVlPH8-1" value="30分钟，震荡时做T；围绕蓝色梯子做T；" style="rounded=0;whiteSpace=wrap;html=1;" parent="dJtvpFZVgvFk0XaL-dHe-3" vertex="1">
@@ -462,8 +462,14 @@
         <mxCell id="JWyF4yG6eBH3n6y-nW_I-5" value="1%总仓位止损，翻倍后止盈，看15分钟梯子清仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JWyF4yG6eBH3n6y-nW_I-1" vertex="1">
           <mxGeometry x="16" y="138" width="161" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="A1FHbUawKi4MKACmPWIq-1" value="不贪打法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A1FHbUawKi4MKACmPWIq-1" value="不贪打法" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="619" y="-119" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcbz24dagMYiXz2oYa7F-3" value="日抄底+上涨5%以上" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="A1FHbUawKi4MKACmPWIq-1">
+          <mxGeometry x="17" y="33" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcbz24dagMYiXz2oYa7F-4" value="涨10%走人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="A1FHbUawKi4MKACmPWIq-1">
+          <mxGeometry x="19" y="111" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
