@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T09:10:12.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BfFKnaWKi19IkaCqditP" version="24.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T09:11:30.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UPvrCpI1s2N55Zj0R5WI" version="24.2.1" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2963" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2547,7 +2547,7 @@
         <mxCell id="NrST8CiUoxN8g3PDT3SZ-1" value="DNS provision (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="967" y="243" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC MSI ID lookup and access grant for Azure resources (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC managed identity lookup and access grant for Azure resources (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="724" y="138" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="PbZ5lWEaIfDMu1pvGekI-1" value="Geneva synthetic provision (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
