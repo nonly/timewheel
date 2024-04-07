@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T05:41:42.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zyTb4IrGsqoXUDpXLJiL" version="24.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T06:00:54.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qrcEAnjoYiONYrkwkP9c" version="24.2.1" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2963" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2532,11 +2532,11 @@
         <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Deploy-time config binding for service specific configs (2%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="373.26" y="460" width="174.74" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="subscription provision in Ev2 RA and classic hybrid model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="638" y="170" width="178" height="40" as="geometry" />
+        <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="Pass subscription ID from Ev2 RA model to Ev2 classic model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="625" y="170" width="191" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8j6GkCfV0Cca9WRWLpLP-2" value="cert provision in Ev2 RA and classic hybrid model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="641" y="224" width="169" height="34" as="geometry" />
+        <mxCell id="8j6GkCfV0Cca9WRWLpLP-2" value="Pass assisted identity from Ev2 RA model to classic model (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="627" y="224" width="189" height="34" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-3" value="Bind service global configs to service compute configs by SAGE (18%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="372.26" y="395" width="175.99" height="52" as="geometry" />
@@ -2556,7 +2556,7 @@
         <mxCell id="PbZ5lWEaIfDMu1pvGekI-1" value="Geneva synthetic provision (10%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1037" y="522" width="109" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-1" value="&amp;nbsp;Pending by&amp;nbsp; EC config team to release SAGE library GA with ETA 4/30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-1" value="&amp;nbsp;Pending by&amp;nbsp; EC config team to release SAGE library GA with ETA 4/30 (34%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="367" y="602" width="236.74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-2" value="Blocked or deprioritized (30%)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -2643,11 +2643,11 @@
             <mxPoint x="565" y="22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_exZQbiuaL3lPupS9GI-2" value="55% (4/30 will be ready)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h_exZQbiuaL3lPupS9GI-2" value="54% (4/30 will be ready)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="537" y="572" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8A04edFfqFnw_7av2iqB-6" value="BOC support Ev2 classic model deployment (5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="649" y="94" width="145" height="48" as="geometry" />
+          <mxGeometry x="651" y="104.5" width="145" height="48" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;1&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="314" y="320" width="29" height="29" as="geometry" />
