@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T08:01:09.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Ui7ues2LeoqRobx_ul0Y" version="23.1.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-09T08:09:22.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Yb6Z1rbIZf82X4AgDuWm" version="23.1.7" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1758" dy="34" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2553,7 +2553,7 @@
         <mxCell id="NrST8CiUoxN8g3PDT3SZ-1" value="OCDI conformant DNS Record provisioning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="967" y="243" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC managed identity automation ( identity lookup and access grant for resources)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC managed identity automation ( identity lookup and access grant for Azure resources)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="884" y="132" width="120" height="96" as="geometry" />
         </mxCell>
         <mxCell id="PbZ5lWEaIfDMu1pvGekI-1" value="Geneva synthetic provisioning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
@@ -2656,10 +2656,10 @@
           <mxGeometry x="556" y="139.5" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-6" value="&amp;nbsp;Pending by EC BOC team to support EV2 classic model and hybrid deployment, AI:Nitin Jaiswal, ETA:TBD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="581" y="3" width="252" height="30" as="geometry" />
+          <mxGeometry x="582" y="11" width="252" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-7" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;2&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="552" y="-8" width="29" height="29" as="geometry" />
+          <mxGeometry x="553" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-8" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1029" y="122" width="29" height="29" as="geometry" />
@@ -2671,22 +2671,22 @@
           <mxGeometry x="-4" y="325" width="109" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-11" value="&amp;nbsp;Pending by COSMIC team AI:&amp;nbsp;&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif;&quot;&gt;Diogo Colla Pereira,&lt;/span&gt;&amp;nbsp;ETA:TBD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="934" y="-38" width="359.5" height="30" as="geometry" />
+          <mxGeometry x="898.5" y="-37" width="359.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-12" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="907.5" y="-38" width="29" height="29" as="geometry" />
+          <mxGeometry x="872" y="-37" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by EC team AI:Nitin Jaiswal, ETA:TBD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="887" width="381" height="30" as="geometry" />
+          <mxGeometry x="906.5" width="263" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-15" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="907.5" width="29" height="29" as="geometry" />
+          <mxGeometry x="872" y="1" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-16" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;5&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="949" y="231" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-17" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;5&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="907.5" y="42" width="29" height="29" as="geometry" />
+          <mxGeometry x="872" y="43" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by Geneva synthetic team AI:Petru Isfan, ETA:TBD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="915" y="594" width="381" height="30" as="geometry" />
@@ -2695,7 +2695,7 @@
           <mxGeometry x="970" y="507" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by substrate networking team AI:Paul Andrew, ETA:TBD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="928" y="42" width="381" height="30" as="geometry" />
+          <mxGeometry x="894.5" y="43" width="381" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-21" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;6&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1093" y="228" width="29" height="29" as="geometry" />
