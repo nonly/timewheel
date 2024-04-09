@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T08:36:14.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="rYomLQd3bEk3gQCQWoSI" version="23.1.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-09T08:47:09.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="BQ84kKM8Uc8KxY_nSMhH" version="23.1.7" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1758" dy="34" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2562,14 +2562,14 @@
         <mxCell id="PbZ5lWEaIfDMu1pvGekI-1" value="Geneva synthetic provisioning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1280" y="513.5" width="109" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-1" value="&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;Pending by ESP Suzhou team to pilot SAGE and review SAGE guidance. AI:Yunpeng, ETA:4/15&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="649" y="582" width="290" height="30" as="geometry" />
+        <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-1" value="&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;Pending by ESP Suzhou team to pilot SAGE and review SAGE guidance. AI:Yunpeng, &lt;b&gt;ETA:4/15&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="602" y="508" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;100%&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1474" y="535" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-7" value="COSMIC metadata onboarding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1187" y="323.5" width="120" height="37.5" as="geometry" />
+          <mxGeometry x="1122" y="323.5" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="GeGsQc3-Kk0s4ZdQT7l1-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2625,14 +2625,11 @@
         <mxCell id="3-6-2Re763AdZHoAJPYc-1" value="Bind cloud global configs to service non compute configs by SAGE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="660.38" y="204" width="169.25" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="h_exZQbiuaL3lPupS9GI-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.455;exitY=-0.2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="h_exZQbiuaL3lPupS9GI-2" edge="1">
+        <mxCell id="h_exZQbiuaL3lPupS9GI-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.455;exitY=-0.2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="853" y="544" as="sourcePoint" />
+            <mxPoint x="851.0649999999996" y="526" as="sourcePoint" />
             <mxPoint x="850" y="-84" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="h_exZQbiuaL3lPupS9GI-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;ETA: 4/15/24&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="786" y="532" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8A04edFfqFnw_7av2iqB-6" value="BOC must support Ev2 classic model deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="929" y="-59" width="145" height="48" as="geometry" />
@@ -2652,11 +2649,11 @@
         <mxCell id="8nxReSRH0nySTGHwZHQN-5" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;2&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="863" y="25.5" width="29" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="8nxReSRH0nySTGHwZHQN-6" value="&amp;nbsp;Pending by EC BOC team to support EV2 classic model and hybrid deployment, AI:Nitin Jaiswal, ETA:TBD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="877.5" y="-343.5" width="252" height="30" as="geometry" />
+        <mxCell id="8nxReSRH0nySTGHwZHQN-6" value="&amp;nbsp;Pending by EC BOC team, AI:Nitin Jaiswal, ETA:TBD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="821" y="-87" width="368" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-7" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;2&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="850" y="-353" width="29" height="29" as="geometry" />
+          <mxGeometry x="927" y="588" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-8" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1272" width="29" height="29" as="geometry" />
@@ -2668,31 +2665,31 @@
           <mxGeometry x="287" y="318" width="109" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-11" value="&amp;nbsp;Pending by COSMIC team AI:&amp;nbsp;&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif;&quot;&gt;Diogo Colla Pereira,&lt;/span&gt;&amp;nbsp;ETA:TBD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1202.5" y="-353" width="359.5" height="30" as="geometry" />
+          <mxGeometry x="1095.75" y="-34" width="359.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-12" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1176" y="-353" width="29" height="29" as="geometry" />
+          <mxGeometry x="927" y="631" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by EC team AI:Nitin Jaiswal, ETA:TBD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1210.5" y="-316" width="263" height="30" as="geometry" />
+          <mxGeometry x="956" y="677" width="263" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-15" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1176" y="-315" width="29" height="29" as="geometry" />
+          <mxGeometry x="926" y="673" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-16" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;5&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1108.5" y="145" width="29" height="29" as="geometry" />
+          <mxGeometry x="1105.5" y="142" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-17" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;5&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1176" y="-273" width="29" height="29" as="geometry" />
+          <mxGeometry x="927" y="711" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by Geneva synthetic team AI:Petru Isfan, ETA:TBD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1206" y="587" width="381" height="30" as="geometry" />
+          <mxGeometry x="929" y="749" width="381" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-19" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;7&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1261" y="500" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by substrate networking team AI:Paul Andrew, ETA:TBD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1198.5" y="-273" width="381" height="30" as="geometry" />
+          <mxGeometry x="944" y="711" width="381" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-23" value="Single-service buildout validation in simulated env" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="969" width="120" height="60" as="geometry" />
@@ -2857,7 +2854,7 @@
           <mxGeometry x="294" y="74" width="125" height="55" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-120" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;7&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1206" y="587" width="29" height="29" as="geometry" />
+          <mxGeometry x="929" y="750" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="NeloiZQOT5lBMs_rkBHj-2" value="Geneva" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="17" width="166" height="269.5" as="geometry" />
