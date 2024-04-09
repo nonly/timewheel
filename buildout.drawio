@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:15:57.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Tquj8u1jUQUum1vDdani" version="24.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:39:51.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GMt0Kb41jTAbLmLPszIA" version="24.2.1" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2963" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2511,6 +2511,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8nxReSRH0nySTGHwZHQN-119" value="Geneva Logs2Metrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1103.5" y="243" width="120" height="55" as="geometry" />
+        </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-104" value="&amp;nbsp;Discussion with IC3 partners and IC3 arthitect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-68" y="970" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2544,13 +2547,13 @@
         <mxCell id="WTU374NI6hd9cMv-FZc3-1" value="Bind library configs to shared libraries by SAGE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="324.25" width="173" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fLnOMfTA1273BjCceCpT-1" value="3P AAD applications lookup and access grant for cross-service API and managed resources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="fLnOMfTA1273BjCceCpT-1" value="3P AAD application registration and access grant for service managed resources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1045" y="139" width="157" height="72" as="geometry" />
         </mxCell>
         <mxCell id="NrST8CiUoxN8g3PDT3SZ-1" value="OCDI conformant DNS Record provisioning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="967" y="243" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC managed identity automation - identity lookup and access grant for resources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC managed identity automation ( identity lookup and access grant for resources)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="884" y="132" width="120" height="96" as="geometry" />
         </mxCell>
         <mxCell id="PbZ5lWEaIfDMu1pvGekI-1" value="Geneva synthetic provisioning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
@@ -2668,13 +2671,13 @@
           <mxGeometry x="-4" y="325" width="109" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-11" value="&amp;nbsp;Pending by COSMIC team AI:&amp;nbsp;&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif;&quot;&gt;Diogo Colla Pereira,&lt;/span&gt;&amp;nbsp;ETA:TBD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="936.5" y="-38" width="359.5" height="30" as="geometry" />
+          <mxGeometry x="934" y="-38" width="359.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-12" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="907.5" y="-38" width="29" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="8nxReSRH0nySTGHwZHQN-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by EC team AI:Nitin Jaiswal, ETA:TBD (DFD is 4/15)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="6" width="381" height="30" as="geometry" />
+        <mxCell id="8nxReSRH0nySTGHwZHQN-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by EC team AI:Nitin Jaiswal, ETA:TBD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="3" width="381" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-15" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="907.5" width="29" height="29" as="geometry" />
@@ -2688,14 +2691,14 @@
         <mxCell id="8nxReSRH0nySTGHwZHQN-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by Geneva synthetic team AI:Petru Isfan, ETA:TBD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="915" y="594" width="381" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8nxReSRH0nySTGHwZHQN-19" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;6&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="8nxReSRH0nySTGHwZHQN-19" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;7&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="970" y="507" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Pending by substrate networking team AI:Paul Andrew, ETA:TBD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="928" y="42" width="381" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-21" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;6&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="913" y="588" width="29" height="29" as="geometry" />
+          <mxGeometry x="1093" y="228" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-23" value="Single-service buildout validation in simulated env" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="969" width="120" height="60" as="geometry" />
@@ -2856,11 +2859,11 @@
         <mxCell id="8nxReSRH0nySTGHwZHQN-112" value="d" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8nxReSRH0nySTGHwZHQN-107">
           <mxGeometry y="34.5" width="35" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="8nxReSRH0nySTGHwZHQN-115" value="1P AAD applications registration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="158" y="260" width="125" height="38" as="geometry" />
+        <mxCell id="8nxReSRH0nySTGHwZHQN-115" value="1P AAD applications registration and access grant to Azure resources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="158" y="260" width="125" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="8nxReSRH0nySTGHwZHQN-119" value="Geneva Logs2Metrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1103.5" y="243" width="120" height="55" as="geometry" />
+        <mxCell id="8nxReSRH0nySTGHwZHQN-120" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;7&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="915" y="594" width="29" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
