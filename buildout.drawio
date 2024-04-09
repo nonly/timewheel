@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T05:34:27.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="q3oufhhIPwZfHdi3iwfg" version="24.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:15:57.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Tquj8u1jUQUum1vDdani" version="24.2.1" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2963" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2517,7 +2517,7 @@
         <mxCell id="orJ1ZyaAnO9yECRLyvzP-1" value="Onecert Domain provision" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="156" y="135" width="125" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="zMO72y31VIHevHxgqlIi-1" value="Geneva provision - Logs, Metrics, health monitors, dashboards, Geneva actions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="zMO72y31VIHevHxgqlIi-1" value="Geneva provision - Account, Log, Metrics, health monitors, dashboards, Geneva actions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="157.25" y="179" width="127" height="74" as="geometry" />
         </mxCell>
         <mxCell id="zMO72y31VIHevHxgqlIi-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -2858,6 +2858,9 @@
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-115" value="1P AAD applications registration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="158" y="260" width="125" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8nxReSRH0nySTGHwZHQN-119" value="Geneva Logs2Metrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1103.5" y="243" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
