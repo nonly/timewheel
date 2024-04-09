@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T03:31:54.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="N7Wbz01Bi05t_aLRBwN1" version="24.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-09T03:34:35.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-drvXWR0EssBi-2_N83H" version="24.2.1" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2963" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2517,7 +2517,7 @@
         <mxCell id="orJ1ZyaAnO9yECRLyvzP-1" value="Onecert Domain provision" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="158" y="174.5" width="125" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="zMO72y31VIHevHxgqlIi-1" value="Geneva account creation - Logs, Metrics account, health monitors, dashboards." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="zMO72y31VIHevHxgqlIi-1" value="Geneva provision - Logs, Metrics account, health monitors, dashboards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="156" y="226" width="127" height="74" as="geometry" />
         </mxCell>
         <mxCell id="zMO72y31VIHevHxgqlIi-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -2664,7 +2664,7 @@
         <mxCell id="8nxReSRH0nySTGHwZHQN-9" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="867" y="138" width="29" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="8nxReSRH0nySTGHwZHQN-10" value="work in progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="8nxReSRH0nySTGHwZHQN-10" value="in progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-4" y="325" width="109" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-11" value="&amp;nbsp;Pending by COSMIC team AI:&amp;nbsp;&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif;&quot;&gt;Diogo Colla Pereira,&lt;/span&gt;&amp;nbsp;ETA:TBD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
