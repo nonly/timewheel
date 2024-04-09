@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T08:09:22.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Yb6Z1rbIZf82X4AgDuWm" version="23.1.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-09T08:10:24.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="RTukON3eqRsOPrJuSo4B" version="23.1.7" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1758" dy="34" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2653,13 +2653,13 @@
           <mxGeometry x="595" y="81" width="27" height="144" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-5" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;2&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="556" y="139.5" width="29" height="29" as="geometry" />
+          <mxGeometry x="564" y="139.5" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-6" value="&amp;nbsp;Pending by EC BOC team to support EV2 classic model and hybrid deployment, AI:Nitin Jaiswal, ETA:TBD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="582" y="11" width="252" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-7" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;2&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="553" width="29" height="29" as="geometry" />
+          <mxGeometry x="562" y="-6" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-8" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1029" y="122" width="29" height="29" as="geometry" />
