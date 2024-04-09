@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T03:58:13.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qwVLFNXowrCwPds2Iz-T" version="24.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-09T04:23:09.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NUvR1lmP1LttIK3DSr8W" version="24.2.1" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2963" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2544,14 +2544,14 @@
         <mxCell id="WTU374NI6hd9cMv-FZc3-1" value="Bind library configs to shared libraries by SAGE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="324.25" width="173" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fLnOMfTA1273BjCceCpT-1" value="3p applications lookup and access grant for cross-service API and managed resources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="fLnOMfTA1273BjCceCpT-1" value="3p AAD applications lookup and access grant for cross-service API and managed resources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1043" y="156" width="157" height="72" as="geometry" />
         </mxCell>
         <mxCell id="NrST8CiUoxN8g3PDT3SZ-1" value="DNS provision" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="967" y="243" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC managed identity lookup and access grant for Azure resources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="882" y="153" width="120" height="72" as="geometry" />
+        <mxCell id="Z_eGb89Sl15pRml_hdXF-1" value="COSMIC managed identity lookup and access grant for service-owned resources and cross-service resources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="882" y="129" width="120" height="96" as="geometry" />
         </mxCell>
         <mxCell id="PbZ5lWEaIfDMu1pvGekI-1" value="Geneva synthetic provision" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="989" y="520.5" width="109" height="39" as="geometry" />
@@ -2659,10 +2659,10 @@
           <mxGeometry x="552" y="-8" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-8" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1029" y="138" width="29" height="29" as="geometry" />
+          <mxGeometry x="1029" y="136" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-9" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="867" y="138" width="29" height="29" as="geometry" />
+          <mxGeometry x="867" y="115" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-10" value="in progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-4" y="325" width="109" height="39" as="geometry" />
@@ -2856,7 +2856,7 @@
         <mxCell id="8nxReSRH0nySTGHwZHQN-112" value="d" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8nxReSRH0nySTGHwZHQN-107">
           <mxGeometry y="34.5" width="35" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="8nxReSRH0nySTGHwZHQN-115" value="1P applications registration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="8nxReSRH0nySTGHwZHQN-115" value="1P AAD applications registration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="158" y="260" width="125" height="38" as="geometry" />
         </mxCell>
       </root>
