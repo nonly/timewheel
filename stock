@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T12:42:14.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="c2Qnrfxwr5sEgEhXTR6m" version="24.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-14T09:16:59.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Qkyt6F5QUqJDpcD4dxHG" version="24.2.2" type="github" pages="8">
   <diagram id="Qdm0mOS8SGnpZanHQTjH" name="梯子交易系统">
-    <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
           <mxGeometry x="7" width="456" height="83" as="geometry" />
         </mxCell>
         <mxCell id="ubyKyDaO3-KK-u0BwVue-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="21" y="763" width="534.9772033691406" height="316.69478607177734" as="geometry" />
+          <mxGeometry x="21" y="763" width="534.9772033691406" height="392.69478607177734" as="geometry" />
         </mxCell>
         <mxCell id="ubyKyDaO3-KK-u0BwVue-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ubyKyDaO3-KK-u0BwVue-1" vertex="1">
           <mxGeometry width="534.9772033691406" height="43" as="geometry" />
@@ -178,6 +178,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fcHnVDaQZar4IB92gAQ9-3" value="Li亏损$5K on 3/19/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="fcHnVDaQZar4IB92gAQ9-1" vertex="1">
+          <mxGeometry x="272" width="263" height="38" as="geometry">
+            <mxRectangle width="263" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cFjxFM2_MlBle2XRhA91-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry y="317" width="534.9772033691406" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="cFjxFM2_MlBle2XRhA91-2" value="8.【临时起意】Mara说好的做T，变成了越跌越买；临时想了一个买入理由，没经过验证，牛马出现买入；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="cFjxFM2_MlBle2XRhA91-1">
+          <mxGeometry width="272" height="38" as="geometry">
+            <mxRectangle width="272" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cFjxFM2_MlBle2XRhA91-3" value="Mara亏损$10K on 4/12/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="cFjxFM2_MlBle2XRhA91-1">
+          <mxGeometry x="272" width="263" height="38" as="geometry">
+            <mxRectangle width="263" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cFjxFM2_MlBle2XRhA91-4" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ubyKyDaO3-KK-u0BwVue-1">
+          <mxGeometry y="355" width="534.9772033691406" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="cFjxFM2_MlBle2XRhA91-5" value="9.【临时起意】Open看到David说买，就跟了期权；看到群里人说，4H抄底就买入正股；" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="cFjxFM2_MlBle2XRhA91-4">
+          <mxGeometry width="272" height="38" as="geometry">
+            <mxRectangle width="272" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cFjxFM2_MlBle2XRhA91-6" value="Open亏损$14K on 4/8/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="cFjxFM2_MlBle2XRhA91-4">
           <mxGeometry x="272" width="263" height="38" as="geometry">
             <mxRectangle width="263" height="38" as="alternateBounds" />
           </mxGeometry>
