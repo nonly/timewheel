@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T01:38:14.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tq47ZdHjl9SFFbpma8q2" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T04:43:53.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oWo95WVOSOejffOQ5t87" version="24.4.13" type="github">
   <diagram name="Page-1" id="89X0OO9_uZhQcRqU3iFE">
     <mxGraphModel dx="2828" dy="943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="-5" y="247" width="1109" height="284" as="geometry" />
         </mxCell>
         <mxCell id="JYjwAP-SkP5F_5M3dpSB-1" value="Teams client A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="63" y="307" width="120" height="60" as="geometry" />
+          <mxGeometry x="-168" y="307" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYjwAP-SkP5F_5M3dpSB-2" value="Teams client B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="968" y="417" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYjwAP-SkP5F_5M3dpSB-3" value="MFE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="302" width="120" height="60" as="geometry" />
@@ -43,7 +43,7 @@
         <mxCell id="JYjwAP-SkP5F_5M3dpSB-11" value="Trouter A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="63" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYjwAP-SkP5F_5M3dpSB-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYjwAP-SkP5F_5M3dpSB-11" target="JYjwAP-SkP5F_5M3dpSB-1">
+        <mxCell id="JYjwAP-SkP5F_5M3dpSB-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYjwAP-SkP5F_5M3dpSB-11" target="JYjwAP-SkP5F_5M3dpSB-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="84" y="429" as="sourcePoint" />
             <mxPoint x="134" y="379" as="targetPoint" />
@@ -100,9 +100,6 @@
         <mxCell id="JYjwAP-SkP5F_5M3dpSB-23" value="Message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="848" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JYjwAP-SkP5F_5M3dpSB-25" value="Is there E2E test env for MFE?&lt;div&gt;How to override MFE endpoint in teams client?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14" y="609" width="321" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JYjwAP-SkP5F_5M3dpSB-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JYjwAP-SkP5F_5M3dpSB-1" target="JYjwAP-SkP5F_5M3dpSB-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="165" y="287" as="sourcePoint" />
@@ -115,7 +112,7 @@
         </mxCell>
         <mxCell id="JYjwAP-SkP5F_5M3dpSB-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1017" y="414" as="sourcePoint" />
+            <mxPoint x="1237" y="416" as="sourcePoint" />
             <mxPoint x="1041" y="364" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1067" y="414" />
@@ -145,10 +142,28 @@
           <mxGeometry x="569" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JYjwAP-SkP5F_5M3dpSB-37" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;1:1 messaging scenario in test cluster&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="190" width="367" height="30" as="geometry" />
+          <mxGeometry x="409" y="194" width="367" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JYjwAP-SkP5F_5M3dpSB-40" value="7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="899" y="417" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JYjwAP-SkP5F_5M3dpSB-41" value="AKV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="551" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JYjwAP-SkP5F_5M3dpSB-42" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="490.5" y="551" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JYjwAP-SkP5F_5M3dpSB-43" value="COSMOS DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="551" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JYjwAP-SkP5F_5M3dpSB-44" value="Permission service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="172" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JYjwAP-SkP5F_5M3dpSB-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYjwAP-SkP5F_5M3dpSB-3" target="JYjwAP-SkP5F_5M3dpSB-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="225" as="sourcePoint" />
+            <mxPoint x="235" y="175" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
