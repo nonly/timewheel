@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T07:46:19.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="SCe9hKgZ3vbCRFLjMKQX" version="24.4.13" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-06-17T08:44:05.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CtdgXJBGA14toDjLzi2f" version="24.4.13" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="2074" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2520,19 +2520,13 @@
             <mxPoint x="1526" y="560.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-1" value="Use ECS local to store service specific non compute configs for Ev2 RA model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="909" y="252.75" width="171" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="6utVbdvAnBxyjaDxksb4-2" value="Use ECS local to store service specific configs for&lt;br&gt;deploy-time config binding&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="905.76" y="329.75" width="174.74" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-1" value="(4%) subscription provision in hybrid Ev2 RA-Classic deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="927" y="14.75" width="146" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-2" value="(4%) cert provision in hybrid Ev2 RA-Classic deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="926" y="80" width="148" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="WTU374NI6hd9cMv-FZc3-1" value="(5%) Bind 11 IC3 shared libraries configs to service global (from hard coding areas)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="WTU374NI6hd9cMv-FZc3-1" value="(5%) Bind 11 IC3 shared libraries configs to service global (from hard coding areas)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="622" y="445.5" width="216" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fLnOMfTA1273BjCceCpT-1" value="(5%) 3P AAD application registration and access grant for service managed resources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
@@ -2619,7 +2613,7 @@
         <mxCell id="8nxReSRH0nySTGHwZHQN-9" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;6&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1133" y="176" width="29" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="8nxReSRH0nySTGHwZHQN-10" value="(10%) in progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="8nxReSRH0nySTGHwZHQN-10" value="(15%) in progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="287" y="318" width="109" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8nxReSRH0nySTGHwZHQN-16" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;5&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -2841,20 +2835,8 @@
         <mxCell id="NeloiZQOT5lBMs_rkBHj-31" value="&amp;nbsp;Pending by COSMIC team AI:&amp;nbsp;&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif;&quot;&gt;Diogo Colla Pereira&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1312" y="214" width="167" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NeloiZQOT5lBMs_rkBHj-32" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;8&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="889" y="240" width="29" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="NeloiZQOT5lBMs_rkBHj-34" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;9&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="893" y="310" width="29" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="NeloiZQOT5lBMs_rkBHj-35" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;10&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="NeloiZQOT5lBMs_rkBHj-35" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;8&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="892" y="393" width="29" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="NeloiZQOT5lBMs_rkBHj-36" value="&amp;nbsp;ECS local security review and security issues mitigation are pending by EC team AI: &lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Nitin Jaiswal&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1108" y="312.5" width="297.25" height="54.75" as="geometry" />
-        </mxCell>
-        <mxCell id="NeloiZQOT5lBMs_rkBHj-37" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1088" y="260" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0BW-wzZL77JnI7esOAAo-2" value="SAGE (service/cloud global consumption library)" style="swimlane;whiteSpace=wrap;html=1;startSize=41;" vertex="1" parent="1">
           <mxGeometry x="628" y="165" width="187" height="216" as="geometry" />
@@ -2865,7 +2847,7 @@
         <mxCell id="8j6GkCfV0Cca9WRWLpLP-3" value="(20%) Bind service global configs to service compute configs by SAGE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="0BW-wzZL77JnI7esOAAo-2" vertex="1">
           <mxGeometry x="14.180000000000003" y="157" width="158.62" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="0BW-wzZL77JnI7esOAAo-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;1&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0BW-wzZL77JnI7esOAAo-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;1&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="608" y="428" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="0BW-wzZL77JnI7esOAAo-4" value="&amp;nbsp;Pending by IC3 library owners and EC team, AI: Simon Klan (IC3 auth),&amp;nbsp;&lt;div&gt;Ali Mehregani (IC3 RTC), Iuliana Ciura(IC3 Mgmt Infra), Adam Novak (IC3 MSG), Rahul Varrier (EC)&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
