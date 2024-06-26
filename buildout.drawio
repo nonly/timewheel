@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T22:56:33.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="SqdNu0N0fK65_S5SFdAJ" version="24.2.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-06-26T22:57:03.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="RqO2mdnx9HI6zImx7xWg" version="24.2.3" type="github" pages="10">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="1518" dy="34" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2870,7 +2870,7 @@
         <mxCell id="W0ScTY94RbGolDZjLD1N-10" value="Dev Thread" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="766" y="124" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W0ScTY94RbGolDZjLD1N-11" value="Perf Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="W0ScTY94RbGolDZjLD1N-11" value="Storage Account" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="796" y="216" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W0ScTY94RbGolDZjLD1N-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W0ScTY94RbGolDZjLD1N-4" target="W0ScTY94RbGolDZjLD1N-7">
