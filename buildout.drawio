@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T02:04:06.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ui5P8OQT5GUXv6Zuw_S6" version="24.6.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-05T02:43:37.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pdEkBpFwgAQFUU7MaNrR" version="24.6.4" type="github" pages="11">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="5185" dy="1980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2327,6 +2327,21 @@
         <mxCell id="JxM22HkPP0OVeOxYeE8t-20" value="1. RA-LIB on 12/11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="-1088" width="143" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BL2YHThGlSw2mDA3A8lk-3" value="CIS (Azure capacity infrastructure service)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#FFFFFF;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="-800" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BL2YHThGlSw2mDA3A8lk-4" value="BOC (CIS M365 Buildout Job/Co-ordinator)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="-690" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N3GWFHIK3S6Do1JlqL3o-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BL2YHThGlSw2mDA3A8lk-3" target="BL2YHThGlSw2mDA3A8lk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2270" y="-870" as="sourcePoint" />
+            <mxPoint x="2320" y="-920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N3GWFHIK3S6Do1JlqL3o-2" value="DTS (M365 Dependency Tracing system)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2595" y="-800" width="435" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -3206,7 +3221,7 @@
         <mxCell id="c0H6Vd7oIItZdB7opyac-106" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;BOC &amp;amp; DTS&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=34;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2603" y="1295" width="1755" height="347" as="geometry" />
         </mxCell>
-        <mxCell id="c0H6Vd7oIItZdB7opyac-107" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CIS M365 Buildout Job Template for model D/D2 (BOC)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;strokeWidth=4;" vertex="1" parent="c0H6Vd7oIItZdB7opyac-106">
+        <mxCell id="c0H6Vd7oIItZdB7opyac-107" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CIS M365 Buildout Workflow for model D/D2 (BOC)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;strokeWidth=4;" vertex="1" parent="c0H6Vd7oIItZdB7opyac-106">
           <mxGeometry x="49" y="161" width="1669" height="183" as="geometry" />
         </mxCell>
         <mxCell id="c0H6Vd7oIItZdB7opyac-108" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="c0H6Vd7oIItZdB7opyac-107" source="c0H6Vd7oIItZdB7opyac-112" target="c0H6Vd7oIItZdB7opyac-114">
