@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T02:03:19.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3EoPKBiA0_H81W54D-j2" version="24.6.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-05T02:04:06.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ui5P8OQT5GUXv6Zuw_S6" version="24.6.4" type="github" pages="11">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="5185" dy="1980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -3594,22 +3594,22 @@
         <mxCell id="c0H6Vd7oIItZdB7opyac-207" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;implement dependency config consumption&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2277" y="2171" width="284" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="c0H6Vd7oIItZdB7opyac-208" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to dependencies buildout readiness checking (7% time saving of previously total manual effort)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="c0H6Vd7oIItZdB7opyac-208" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to dependencies buildout readiness checking&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2212" y="1560" width="355" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c0H6Vd7oIItZdB7opyac-209" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to infra non compute resources provision (42%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="c0H6Vd7oIItZdB7opyac-209" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to infra non compute resources provision&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2227.5" y="1975" width="356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c0H6Vd7oIItZdB7opyac-210" value="Onboard service global" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2241" y="2122" width="289" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="c0H6Vd7oIItZdB7opyac-211" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: integrate with BOC and reduce manual effort related to Geneva synthetic onboarding (9%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="c0H6Vd7oIItZdB7opyac-211" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: integrate with BOC and reduce manual effort related to Geneva synthetic onboarding&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2221" y="2489" width="355" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c0H6Vd7oIItZdB7opyac-212" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;upload cloud-region specific &lt;br&gt;shared service configs&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2238" y="2229" width="353" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="c0H6Vd7oIItZdB7opyac-213" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to upstream configs collection (23%)&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="c0H6Vd7oIItZdB7opyac-213" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to upstream configs collection&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2215" y="2316" width="384" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c0H6Vd7oIItZdB7opyac-214" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;One-time onboarding effort for service teams&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
