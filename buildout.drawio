@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T07:38:25.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kU0OUPs3TO9qwK9jyHGT" version="24.6.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-05T07:39:10.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L6n1JjGusUybzOadXccO" version="24.6.4" type="github" pages="11">
   <diagram name="Birds eyes view since 12/19" id="d9V6MFzEI7IZekX0ln30">
     <mxGraphModel dx="5185" dy="1980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -3814,7 +3814,7 @@
         <mxCell id="c0H6Vd7oIItZdB7opyac-203" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;1.a&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2241" y="1481" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="c0H6Vd7oIItZdB7opyac-207" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;implement dependency config consumption&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="c0H6Vd7oIItZdB7opyac-207" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;onboard SAGE&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2283" y="2092" width="284" height="66" as="geometry" />
         </mxCell>
         <mxCell id="c0H6Vd7oIItZdB7opyac-208" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Benefits: reduce manual effort related to dependencies buildout readiness checking&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
