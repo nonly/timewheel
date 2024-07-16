@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T08:32:51.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="04_RuP6wVwpdS-YQGZpc" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T08:34:31.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5C5DFxtvDtKVnBJRL8t5" version="24.6.5" type="github">
   <diagram name="第 1 页" id="IT7-DOXWJBU2144ofnUY">
     <mxGraphModel dx="1728" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -40,11 +40,47 @@
         <mxCell id="XPjkK8uPk6vnGhas0XSR-10" value="DB layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8" y="398" width="112" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XPjkK8uPk6vnGhas0XSR-11" value="WEU COSMOS DB&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-11" value="WEU COSMOS DB (primary)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="268" y="386" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XPjkK8uPk6vnGhas0XSR-12" value="NEU COSMOS DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-12" value="NEU COSMOS DB (primary)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="536" y="386" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-13" value="NEU COSMOS DB (secondary)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="486" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.547;exitY=1.048;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPjkK8uPk6vnGhas0XSR-11" target="XPjkK8uPk6vnGhas0XSR-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="171" y="474" as="sourcePoint" />
+            <mxPoint x="221" y="424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-15" value="WEU COSMOS DB (secondary)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="668" y="499" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPjkK8uPk6vnGhas0XSR-12" target="XPjkK8uPk6vnGhas0XSR-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729" y="449" as="sourcePoint" />
+            <mxPoint x="779" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPjkK8uPk6vnGhas0XSR-1" target="XPjkK8uPk6vnGhas0XSR-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506" y="541" as="sourcePoint" />
+            <mxPoint x="556" y="491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPjkK8uPk6vnGhas0XSR-2" target="XPjkK8uPk6vnGhas0XSR-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="344" y="315" as="sourcePoint" />
+            <mxPoint x="338" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-19" value="Write/read data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="341" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-20" value="Write/read data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="589" y="341" width="118" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
