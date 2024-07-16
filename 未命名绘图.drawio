@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T08:34:31.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5C5DFxtvDtKVnBJRL8t5" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T08:40:17.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ti0vMMJJyPReTS4G1zDJ" version="24.6.5" type="github">
   <diagram name="第 1 页" id="IT7-DOXWJBU2144ofnUY">
     <mxGraphModel dx="1728" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="XPjkK8uPk6vnGhas0XSR-20" value="Write/read data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="589" y="341" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XPjkK8uPk6vnGhas0XSR-21" value="&lt;b&gt;Assumption:&lt;/b&gt;&lt;div&gt;&lt;b&gt;1. Storage endpoint is regional endpoint?&lt;br&gt;2. Compute endpoint in Radar ECS topology is regional endpoint?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. PNH and Trouter uses Geo level Registrar endpoint?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4. Registrar is using weight type ATM for GEO ATM, traffic will be distributed among different regions.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="67" y="648" width="741" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
