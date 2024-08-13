@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-13T07:37:23.326Z" version="24.6.5" etag="wc_bevvQxFz0n2qSYyLi" type="github" pages="4">
   <diagram name="第 1 页" id="IT7-DOXWJBU2144ofnUY">
     <mxGraphModel dx="1728" dy="1750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -292,6 +292,115 @@
         <mxCell id="3XvefVTQtYQ6Vr_SkRBS-15" value="root folder (VS code)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gDBMhxWoDhlhhvqeu2gh" name="NPE-TDF concept">
+    <mxGraphModel dx="1185" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RYE4af_2Dn689jkjOJnv-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="634" y="344" width="705" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210.03774193548387" y="346" width="344.93225806451613" height="293" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-5" value="COSMIC Dev ring(NPE)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="64" y="384" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="223" y="363" width="327" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RYE4af_2Dn689jkjOJnv-6">
+          <mxGeometry width="322.78064516129035" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-2" value="NPE Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="RYE4af_2Dn689jkjOJnv-6">
+          <mxGeometry x="28.480645161290326" y="23" width="91.7709677419355" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-3" value="NPE Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RYE4af_2Dn689jkjOJnv-6">
+          <mxGeometry x="180.37741935483874" y="43" width="126.58064516129033" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="RYE4af_2Dn689jkjOJnv-6" source="RYE4af_2Dn689jkjOJnv-3" target="RYE4af_2Dn689jkjOJnv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="166.66451612903228" y="208" as="sourcePoint" />
+            <mxPoint x="219.40645161290325" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-15" value="NPE Torus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RYE4af_2Dn689jkjOJnv-6">
+          <mxGeometry x="8" y="-4" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-7" value="IC3 non-compute (NPE)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="64" y="417" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="521" width="319" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-9" value="Corp Dev Box" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.56;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RYE4af_2Dn689jkjOJnv-9" target="RYE4af_2Dn689jkjOJnv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="127" y="598" as="sourcePoint" />
+            <mxPoint x="177" y="548" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-12" value="local dev machine compute" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="49" y="565" width="161.04" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-14" value="Prod Torus (management tenant)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="631" y="344" width="211" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="653" y="384" width="673" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-18" value="Production slices that opt in to allowed requests from NPE/Corp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="662" y="384" width="352" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-20" value="Services with Storage TDF" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="421" width="366" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RYE4af_2Dn689jkjOJnv-20">
+          <mxGeometry x="17" y="52" width="173" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-22" value="TDF Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="RYE4af_2Dn689jkjOJnv-20">
+          <mxGeometry x="280" y="84.5" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="RYE4af_2Dn689jkjOJnv-20" source="RYE4af_2Dn689jkjOJnv-21" target="RYE4af_2Dn689jkjOJnv-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323" y="-109" as="sourcePoint" />
+            <mxPoint x="373" y="-159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-24" value="Compute only services" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1087" y="421" width="201" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-25" value="TDF + Dogfood" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RYE4af_2Dn689jkjOJnv-24">
+          <mxGeometry x="32.5" y="22" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-27" value="&lt;ul&gt;&lt;li&gt;Serves TDF&lt;/li&gt;&lt;li&gt;Uses Prod 1P APP&lt;/li&gt;&lt;li&gt;Opts in to accept Test Cell traffic&lt;/li&gt;&lt;li&gt;Deployed to from release branch&lt;/li&gt;&lt;li&gt;Serves R0 and R1&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RYE4af_2Dn689jkjOJnv-24">
+          <mxGeometry x="-10.5" y="97" width="211.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RYE4af_2Dn689jkjOJnv-28" value="Q1: why compute only services can serve R0/R1 and TDF traffic at the same time? Why services with Storage have to isolate TDF traffic and R0/R1 traffic?&lt;div&gt;Q2: can 3P app have access to an 1P app?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="173" width="875" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="u71McTN78UZdKl-WKFJG" name="1P AAD usage">
+    <mxGraphModel dx="1430" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YgBljxpb4WE2lPEFewmG-1" value="Microsoft only services + customer facing (called by external customer users or clients on behalf of customer users)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="63" y="248" width="685" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a href=&quot;https://review.learn.microsoft.com/en-in/identity/microsoft-identity-platform/first-party-app-decision-guide?branch=main&quot;&gt;&lt;span style=&quot;mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;&#xa;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri&quot;&gt;Application&#xa;registration guidance | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a href=&quot;https://review.learn.microsoft.com/en-us/identity/microsoft-identity-platform/token-encryption?branch=main&amp;amp;tabs=1pp&quot;&gt;&lt;span style=&quot;mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;&#xa;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri&quot;&gt;Token encryption&#xa;for first-party web APIs | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a href=&quot;https://review.learn.microsoft.com/en-us/identity/microsoft-identity-platform/scenario-protected-web-api-app-registration?branch=main#expose-an-api-and-scopes&quot;&gt;&lt;span style=&quot;mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;&#xa;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri&quot;&gt;Protected web API -&#xa;app registration | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a href=&quot;https://firstpartyportal.msidentity.com&quot;&gt;https://firstpartyportal.msidentity.com&lt;/a&gt;&lt;span style=&quot;mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;&#xa;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri&quot;&gt;&lt;/span&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a href=&quot;https://review.learn.microsoft.com/en-in/identity/microsoft-identity-platform/first-party-app-decision-guide?branch=main&quot;&gt;&lt;span style=&quot;mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;&#xa;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri&quot;&gt;Application&#xa;registration guidance | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a href=&quot;https://review.learn.microsoft.com/en-us/identity/microsoft-identity-platform/token-encryption?branch=main&amp;amp;tabs=1pp&quot;&gt;&lt;span style=&quot;mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;&#xa;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri&quot;&gt;Token encryption&#xa;for first-party web APIs | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a href=&quot;https://review.learn.microsoft.com/en-us/identity/microsoft-identity-platform/scenario-protected-web-api-app-registration?branch=main#expose-an-api-and-scopes&quot;&gt;&lt;span style=&quot;mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;&#xa;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri&quot;&gt;Protected web API -&#xa;app registration | Microsoft Learn&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a href=&quot;https://firstpartyportal.msidentity.com&quot;&gt;https://firstpartyportal.msidentity.com&lt;/a&gt;&lt;span style=&quot;mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;&#xa;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri&quot;&gt;&lt;/span&gt;&lt;/p&gt;" id="YgBljxpb4WE2lPEFewmG-2">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="59" y="286" width="777" height="157" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
