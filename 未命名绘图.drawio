@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="8">
   <diagram name="第 1 页" id="IT7-DOXWJBU2144ofnUY">
     <mxGraphModel dx="1728" dy="1750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1396,6 +1396,197 @@
         </mxCell>
         <mxCell id="1BUYYddWI4pSvxwqmEJD-11" value="3.1 deploy operator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="418" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YDzCc3K1m65JHdMR-qG5" name="Stamp operator design V2">
+    <mxGraphModel dx="526" dy="31" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-1" value="release team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1249" y="906" width="16" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+          <mxGeometry x="1413" y="902.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1895" y="921" width="337" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="2155" y="1126" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-5" value="WEU stamp replica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2027" y="1190" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-6" value="WEU COSMIC cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2027" y="1160" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-7" value="Operator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1924" y="1027.5" width="132" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-8" value="IC3 Stamp inventory" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1686" y="1002" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.98;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5Q0SzK4q82UtIzIS4aJP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1923" y="1050" as="sourcePoint" />
+            <mxPoint x="1833.5" y="1142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-10" value="4. regular pull per its &amp;lt;stampinstance, stamp replica&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1749" y="1014" width="138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-11" value="mfe" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2174" y="927" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-12" value="thread" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2170.5" y="979" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-13" value="conv" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1037" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" target="5Q0SzK4q82UtIzIS4aJP-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2056" y="1050.5" as="sourcePoint" />
+            <mxPoint x="2011" y="906" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" target="5Q0SzK4q82UtIzIS4aJP-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2056" y="1050.5" as="sourcePoint" />
+            <mxPoint x="2006" y="1024" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-21" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Q0SzK4q82UtIzIS4aJP-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2057" y="1052" as="sourcePoint" />
+            <mxPoint x="2040" y="1069" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="5Q0SzK4q82UtIzIS4aJP-1" target="5Q0SzK4q82UtIzIS4aJP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1049" as="sourcePoint" />
+            <mxPoint x="1240" y="999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-23" value="1. release stamp via MOBR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1264" y="893.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-24" value="2.submit deployment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="990.5" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-26" value="5.create/update deployments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2078" y="1064" width="102" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-27" value="owned by IC3 team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1936.5" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-28" value="owned by COSMIC team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2070.5" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-29" value="MOBR &amp;amp; Ev2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1393" y="955" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-30" value="IC3 stamp deployment ev2 extension" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1372.5" y="1031" width="131" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="5Q0SzK4q82UtIzIS4aJP-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1438" y="975.5" as="sourcePoint" />
+            <mxPoint x="1548" y="863.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Q0SzK4q82UtIzIS4aJP-30" target="5Q0SzK4q82UtIzIS4aJP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1717" y="1028" as="sourcePoint" />
+            <mxPoint x="1767" y="978" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-33" value="3 Write deployment events &amp;amp; stamp package metadata for &amp;lt;stampInstanceNames, ring&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1503.5" y="1006" width="178.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-37" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" vertex="1" parent="1">
+          <mxGeometry x="1359" y="1274" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-38" value="IC3 onboarding repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1324" width="129" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-39" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" vertex="1" parent="1">
+          <mxGeometry x="1752.5" y="1404" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-40" value="COSMIC Griffin D2 repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1706" y="1451" width="138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-41" value="IC3 stamp onboarding service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1513" y="1272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Q0SzK4q82UtIzIS4aJP-41" target="5Q0SzK4q82UtIzIS4aJP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1732" y="1256" as="sourcePoint" />
+            <mxPoint x="1802" y="1302" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1716" y="1302" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-43" value="IC3 partner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1249" y="1277.5" width="16" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="5Q0SzK4q82UtIzIS4aJP-43" target="5Q0SzK4q82UtIzIS4aJP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1276" y="1304" as="sourcePoint" />
+            <mxPoint x="1377" y="1223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-45" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" target="5Q0SzK4q82UtIzIS4aJP-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1402" y="1302" as="sourcePoint" />
+            <mxPoint x="1511" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Q0SzK4q82UtIzIS4aJP-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1607" y="1476" as="sourcePoint" />
+            <mxPoint x="1753" y="1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1573" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-47" value="e. write onboarding events including stamp topology config , stamp routing policy config and failover policy config" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1637" y="1304" width="319" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-48" value="c. submit NSG onboarding PR&lt;div&gt;via git API&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="1397" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-49" value="COSMIC inventory" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1746" y="1511" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.052;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Q0SzK4q82UtIzIS4aJP-41" target="5Q0SzK4q82UtIzIS4aJP-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1564" y="1533" as="sourcePoint" />
+            <mxPoint x="1614" y="1483" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1543" y="1559" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-51" value="d.query cluster provision status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1554" y="1530" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-52" value="a.onboarding stamp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="1267" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-53" value="b.regular check" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1404" y="1274" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q0SzK4q82UtIzIS4aJP-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1214" y="1245" as="sourcePoint" />
+            <mxPoint x="2324" y="1248" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
